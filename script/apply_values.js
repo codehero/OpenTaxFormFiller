@@ -26,13 +26,14 @@ for(lineID in data){
 	util.debug(lineID);
 	var type = definition.fields[lineID];
 	var v = data[lineID];
+	var xform = transform.fields[lineID];
 	switch(type){
 		case "Integer":
 			/* FIXME tailing decimal point and numbers not caught here! */
 			var i = parseInt(v, 10);
 			if(isNaN(i))
 				throw new Error(lineID +" is not an integer!");
-			output.push(composeTextField(transform.fields[lineID].fdf, v));
+			output.push(composeTextField(xform.fdf, v));
 			break;
 
 		case "Percent":
@@ -41,7 +42,7 @@ for(lineID in data){
 				throw new Error(lineID +" is not a percent!");
 			if(i > 100 || i < 0)
 				throw new Error(lineID +" is an invalid percent value!");
-			output.push(composeTextField(transform.fields[lineID].fdf, v));
+			output.push(composeTextField(xform.fdf, v));
 			break;
 
 		case "Amount":
@@ -55,6 +56,17 @@ for(lineID in data){
 				c = "0" + c;
 			output.push(composeTextField(transform.fields[lineID + "_D"].fdf, d));
 			output.push(composeTextField(transform.fields[lineID + "_C"].fdf, c));
+			break;
+
+		case "Text":
+			output.push(composeTextField(xform.fdf, v));
+			break;
+
+		case "Choice":
+			if(!(v in xform.options))
+				throw new Error(val +" is an invalid choice for " + lineID + "!");
+
+			output.push(composeTextField(xform.fdf, xform.options[v]));
 			break;
 	}
 }
