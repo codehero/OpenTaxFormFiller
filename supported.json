@@ -1,0 +1,118 @@
+{
+	"notes" : "Forms are composed of 1 or more parts. Each part may be null (planned but not started), \"IN_PROGRESS\", or \"COMPLETED\". A part is only complete when both its transformation and its definition are completed."
+	"forms":{
+		"f8829" : {
+			"parts": {
+				"Part 1" : "COMPLETE",
+				"Part 2" : "COMPLETE",
+				"Part 3" : "COMPLETE",
+				"Part 4" : "COMPLETE"
+			}
+		},
+		"f8949" : {
+			"parts": {
+				"Part 1" : null,
+				"Part 1" : null
+			}
+		},
+		"f1040" : {
+			"parts": {
+				"Personal Info" : null,
+				"Filing Status" : null,
+				"Exemptions" : null,
+				"Income" : null,
+				"AGI" : null,
+				"Tax and Credits" : null,
+				"Other Taxes" : null,
+				"Payments" : null,
+				"Refund" : null
+				"Amount You Owe" : null
+			}
+		},
+		"f1040sa" : {
+			"parts": {
+				"Medical and Dental Expenses" : null,
+				"Taxes You Paid" : null,
+				"Interest You Paid" : null,
+				"Gifts to Charity" : null,
+				"Casualty and Theft Losses" : null,
+				"Job Expenses etc" : null,
+				"Other Miscellaneous" : null,
+				"Total Itemized Deductions" : null
+			}
+		},
+		"f1040sb" : {
+			"parts": {
+				"Part I" : null,
+				"Part II" : null,
+				"Part III" : null
+			}
+		},
+		"f1040sc" : {
+			"parts": {
+				"Info" : null,
+				"Part I" : null,
+				"Part II" : null,
+				"Part III" : null,
+				"Part IV" : null,
+				"Part V" : null
+			}
+		},
+		"f1040sd" : {
+			"parts": {
+				"Part I" : null,
+				"Part II" : null,
+				"Part III" : null
+			}
+		},
+		"f1040se" : {
+			"parts": {
+				"Part I" : null,
+				"Part II" : null,
+				"Part III" : null,
+				"Part IV" : null,
+				"Part V" : null
+			}
+		}
+		"f1040sse" : {
+			"parts": {
+				"Section A" : null,
+				"Part I" : null,
+				"Part II" : null
+			}
+		},
+		"pa-40" : {
+			"parts": {
+				"Personal Info" : null,
+				"Lines 1 - 11" : null,
+				"Page 2" : null
+			}
+		},
+		"pa-40a-b" : {
+			"parts": {
+				"Schedule A" : null,
+				"Schedule B" : null
+			}
+		},
+		"pa-40c" : {
+			"parts": {
+				"Info" : null,
+				"Part I" : null,
+				"Part II" : null,
+				"C-1" : null,
+				"C-2" : null
+			}
+		},
+		"pa-40d" : {
+			"parts": {
+				"Page 1" : null
+			}
+		},
+		"pa-40e" : {
+			"parts": {
+				"Part A" : null,
+				"Part B" : null
+			}
+		}
+	}
+}

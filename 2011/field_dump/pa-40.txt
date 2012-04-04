@@ -1,0 +1,659 @@
+---
+FieldType: Text
+FieldName: Enter SSN of spouse without dashes or spaces
+FieldNameAlt: Enter SSN of spouse without dashes or spaces
+FieldFlags: 12582912
+FieldJustification: Left
+FieldMaxLength: 9
+---
+FieldType: Text
+FieldName: Use all caps to enter taxpayer's last name
+FieldNameAlt: Use all caps to enter taxpayer's last name
+FieldFlags: 12582914
+FieldJustification: Left
+FieldMaxLength: 20
+---
+FieldType: Text
+FieldName: Use all caps to enter suffixes such as JR, SR, III
+FieldNameAlt: Use all caps to enter suffixes such as JR, SR, III
+FieldFlags: 12582912
+FieldJustification: Center
+FieldMaxLength: 3
+---
+FieldType: Text
+FieldName: Use all caps to enter taxpayer's first name
+FieldNameAlt: Use all caps to enter taxpayer's first name
+FieldFlags: 12582914
+FieldJustification: Left
+FieldMaxLength: 16
+---
+FieldType: Text
+FieldName: Your Middle Initial
+FieldNameAlt: Your Middle Initia
+FieldFlags: 12582912
+FieldJustification: Center
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: Use all caps to enter spouse's first name
+FieldNameAlt: Use all caps to enter spouse's first name
+FieldFlags: 12582912
+FieldJustification: Left
+FieldMaxLength: 16
+---
+FieldType: Text
+FieldName: Spouse's Middle Initial
+FieldNameAlt: Spouse's Middle Initial
+FieldFlags: 12582912
+FieldJustification: Center
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: Use all caps to enter spouse's last name if different from above
+FieldNameAlt: Use all caps to enter spouse's last name if different from above
+FieldFlags: 12582912
+FieldJustification: Left
+FieldMaxLength: 20
+---
+FieldType: Text
+FieldName: Use all caps to enter spouse's suffixes such as JR, SR, III
+FieldNameAlt: Use all caps to enter spouse's suffixes such as JR, SR, III
+FieldFlags: 12582912
+FieldJustification: Center
+FieldMaxLength: 3
+---
+FieldType: Text
+FieldName: Use all caps to enter First Line of Address
+FieldNameAlt: Use all caps to enter First Line of Address
+FieldFlags: 12582914
+FieldJustification: Left
+FieldMaxLength: 24
+---
+FieldType: Text
+FieldName: Use all caps to enter Second Line of Address
+FieldNameAlt: Use all caps to enter Second Line of Address
+FieldFlags: 12582912
+FieldJustification: Left
+FieldMaxLength: 24
+---
+FieldType: Text
+FieldName: Use all caps to enter City or Post Office
+FieldNameAlt: Use all caps to enter City or Post Office
+FieldFlags: 12582914
+FieldJustification: Left
+FieldMaxLength: 14
+---
+FieldType: Text
+FieldName: Use all caps to enter two digit State abbreviation
+FieldNameAlt: Use all caps to enter two digit State abbreviation
+FieldFlags: 12582914
+FieldJustification: Center
+FieldMaxLength: 2
+---
+FieldType: Text
+FieldName: Enter five digit Zip Code
+FieldNameAlt: Enter five digit Zip Code
+FieldFlags: 12582914
+FieldJustification: Left
+FieldMaxLength: 5
+---
+FieldType: Text
+FieldName: Enter Daytime Telephone Number without parenthesis, dashes or spaces
+FieldNameAlt: Enter Daytime Telephone Number without parenthesis, dashes or spaces
+FieldFlags: 12582912
+FieldJustification: Left
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: Enter five digit School Code from list on pags 42 &amp; 43
+FieldNameAlt: Enter five digit School Code from list on pags 42 &amp; 43
+FieldFlags: 12582914
+FieldJustification: Left
+FieldMaxLength: 5
+---
+FieldType: Button
+FieldName: Extension
+FieldNameAlt: Click on oval if an extension was filed for the return
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: 1
+FieldStateOption: Off
+---
+FieldType: Button
+FieldName: Amended Return
+FieldNameAlt: Click on oval if an Amended Return
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: 2
+FieldStateOption: Off
+---
+FieldType: Button
+FieldName: Residency Status
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: 1
+FieldStateOption: 2
+FieldStateOption: 3
+FieldStateOption: Off
+---
+FieldType: Text
+FieldName: Part Year Resident from
+FieldNameAlt: Part Year Resident from
+FieldFlags: 12582912
+FieldJustification: Center
+FieldMaxLength: 5
+---
+FieldType: Text
+FieldName: Part year resident to
+FieldNameAlt: Part year resident to
+FieldFlags: 12582912
+FieldJustification: Center
+FieldMaxLength: 5
+---
+FieldType: Button
+FieldName: Filing Status
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: 1
+FieldStateOption: 2
+FieldStateOption: 3
+FieldStateOption: 4
+FieldStateOption: 5
+FieldStateOption: Off
+---
+FieldType: Text
+FieldName: Final Return
+FieldNameAlt: Final Return. Indicate reason:
+FieldFlags: 12582912
+FieldJustification: Left
+FieldMaxLength: 15
+---
+FieldType: Text
+FieldName: Date of Death
+FieldNameAlt: Date of Death
+FieldFlags: 12582912
+FieldJustification: Center
+FieldMaxLength: 5
+---
+FieldType: Button
+FieldName: Identification Label Change
+FieldNameAlt: Click on oval if address change or if no 2007 return filed
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: 1
+FieldStateOption: Off
+---
+FieldType: Button
+FieldName: Farmers
+FieldNameAlt: Click on oval if at least two-thirds of your gross income is from farming
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: 0
+FieldStateOption: Off
+---
+FieldType: Text
+FieldName: Name of School District
+FieldNameAlt: Name of School District
+FieldFlags: 12582914
+FieldJustification: Left
+FieldMaxLength: 15
+---
+FieldType: Text
+FieldName: Your Occupation
+FieldNameAlt: Your Occupation
+FieldFlags: 12582914
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Spouse's occupation
+FieldNameAlt: Spouse's occupation
+FieldFlags: 12582914
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 1a. Gross Compensation
+FieldNameAlt: Enter Gross Compensation from Box 16 of W-2s or from Column G of Part B of PA Schedule W-2S
+FieldFlags: 12582914
+FieldJustification: Right
+FieldMaxLength: 12
+---
+FieldType: Text
+FieldName: 1b. Unreimbursed Employee Business Expenses
+FieldNameAlt: Enter Unreimbursed Employee Business Expenses total from Line H of Side 1 of the PA Schedule UE
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 12
+---
+FieldType: Text
+FieldName: 1c. Net Compensation
+FieldNameAlt: Subtract Line 1b from Line 1a
+FieldFlags: 12582914
+FieldJustification: Right
+FieldMaxLength: 12
+---
+FieldType: Text
+FieldName: 2. Interest Income
+FieldNameAlt: Enter amount from Line 8 of PA Schedule A or total interest if under $2,500
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 12
+---
+FieldType: Text
+FieldName: 3. Dividend  and Capital Gains Distributions Income
+FieldNameAlt: Enter amount from Line 5 of PA Schedule B or total dividends if under $2,500
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 12
+---
+FieldType: Button
+FieldName: 4. Loss
+FieldNameAlt: Loss
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: none
+---
+FieldType: Text
+FieldName: 4. Net Income or Loss from the Operation of a Business, etc
+FieldNameAlt: Enter total of business income amount from all PA Schedules C, PA Schedules C-F Reconciliation, PA Schedule F, PA RK-1s, PA NRK-1s, and/or K-1s
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 12
+---
+FieldType: Button
+FieldName: 5. Loss
+FieldNameAlt: Loss
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: none
+---
+FieldType: Text
+FieldName: 5. Net Gain or Loss from Sale, etc. of Property
+FieldNameAlt: Enter amount from Line 11 of PA Schedule D
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 12
+---
+FieldType: Button
+FieldName: 6. Loss
+FieldNameAlt: Loss
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: none
+---
+FieldType: Text
+FieldName: 6. Net Income or Loss from Rents, etc
+FieldNameAlt: Enter amount from Line 23 of PA Schedule E
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 12
+---
+FieldType: Text
+FieldName: 7. Estate or Trust income
+FieldNameAlt: Enter total amount from column c of PA Schedule J
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 12
+---
+FieldType: Text
+FieldName: 8. Gambling and Lottery Winnings
+FieldNameAlt: Enter amount from Line 6 of PA Schedule T
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 12
+---
+FieldType: Text
+FieldName: 9. Total PA Taxable Income
+FieldNameAlt: Add all positive amounts from Lines 1c through Line 8
+FieldFlags: 12582914
+FieldJustification: Right
+FieldMaxLength: 12
+---
+FieldType: Text
+FieldName: Code
+FieldNameAlt: Enter code per instructions
+FieldFlags: 8388610
+FieldJustification: Center
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: 10.  Other Deductions
+FieldNameAlt: Enter amount from Line 8 of PA Schedule O
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 12
+---
+FieldType: Text
+FieldName: 11. Adjusted PA Taxable Income
+FieldNameAlt: Subtract Line 10 from Line 9
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 12
+---
+FieldType: Button
+FieldName: NEXT PAGE
+FieldNameAlt: NEXT PAGE
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: Official Use Only
+FieldFlags: 65537
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: start box
+FieldFlags: 65537
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: arrow
+FieldFlags: 65537
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Enter SSN shown first without dashes or spaces
+FieldFlags: 12582914
+FieldJustification: Left
+FieldMaxLength: 9
+---
+FieldType: Text
+FieldName: Name(s)
+FieldNameAlt: Enter taxpayer name or taxpayer and spouse name
+FieldFlags: 12582914
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 12. PA Tax Liability. Multiply Line 11 by 3.07%
+FieldNameAlt: PA Tax Liability. Multiply Line 11 by 3.07%
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 12
+---
+FieldType: 
+FieldName: 12. PA Tax Liability
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: 
+FieldName: 12
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 13. Total PA Tax Withheld
+FieldNameAlt: Enter totals from Box 17 of W-2 or from Column H of Part B of PA Schedule W-2S
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 12
+---
+FieldType: Text
+FieldName: 14. Credit from your PA Income Tax Return
+FieldNameAlt: Enter Credit from previous year's PA-40 Tax Return
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 12
+---
+FieldType: Text
+FieldName: 15. Estimated Installment Payments
+FieldNameAlt: Enter total amount of estimated payments made
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 12
+---
+FieldType: Text
+FieldName: 16. Extension Payment
+FieldNameAlt: Enter amount of PA extension payment made
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 12
+---
+FieldType: Text
+FieldName: 17. Nonredsident Tax Withheld
+FieldNameAlt: Enter total amount of Nonresident withholding from PA-NRK-1s Line 6
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 12
+---
+FieldType: Text
+FieldName: 18.Total Estimated Payments and Credits
+FieldNameAlt: Add Lines 14 through 18
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 12
+---
+FieldType: Button
+FieldName: Tax Forgiveness
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: 1
+FieldStateOption: 2
+FieldStateOption: 3
+FieldStateOption: Off
+---
+FieldType: Text
+FieldName: Dependents
+FieldNameAlt: Enter number of dependents per PA Schedule SP, Part B, Line 2
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 2
+---
+FieldType: Text
+FieldName: 20. Total Eligibility Income
+FieldNameAlt: Enter total eligibility income from PA Schedule SP, Part C, Line 11
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 12
+---
+FieldType: Text
+FieldName: 21. Tax Forgiveness Credit
+FieldNameAlt: Enter tax forgiveness credit from PA Schedule SP, Part C, Line 16
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 12
+---
+FieldType: Text
+FieldName: 22. Resident Credit
+FieldNameAlt: Enter your resident credit from PA Schedules G-R Column E, Line 21
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 12
+---
+FieldType: Text
+FieldName: 23.Total Other Credits
+FieldNameAlt: Enter your total other credits from PA Schedule OC Line 13
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 12
+---
+FieldType: Text
+FieldName: 24. Total Payments and Credits
+FieldNameAlt: Add Lines 13, 18, 21, 22, and 23
+FieldFlags: 12582914
+FieldJustification: Right
+FieldMaxLength: 12
+---
+FieldType: Text
+FieldName: 27. Code
+FieldNameAlt: 27. Enter Code Per Instructions
+FieldFlags: 12582914
+FieldJustification: Center
+FieldMaxLength: 1
+---
+FieldType: Button
+FieldName: 27. REV-1630
+FieldNameAlt: Click here if REV-1630 is included
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: 3
+FieldStateOption: Off
+---
+FieldType: Text
+FieldName: 27.Penalties and Interest
+FieldNameAlt: Enter total amounts of penalties and interest
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 12
+---
+FieldType: Text
+FieldName: 28. TOTAL PAYMENT
+FieldNameAlt: See the instructions
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 12
+---
+FieldType: Text
+FieldName: 29. OVERPAYMENT
+FieldNameAlt: If Line 24 is more than the total of Line 12, Line 25 and Line 27 enter the difference here
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 12
+---
+FieldType: Text
+FieldName: 30. Refund
+FieldNameAlt: Enter amount of Line 29 to be refunded
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 12
+---
+FieldType: Text
+FieldName: 31. Credit
+FieldNameAlt: Enter amount of line 29 to be applied to next year&#8217;s estimated payments
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 12
+---
+FieldType: Text
+FieldName: 32. Donation to Wild Resource Conservation Fund
+FieldNameAlt: Enter amount of Line 29 to be given as a Donation to Wild Resource Conservation Fund
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 12
+---
+FieldType: Text
+FieldName: 33. Donation to Military Family Relief Assistance Program
+FieldNameAlt: Enter amount of Line 29 to be given as a Donation to Military Family Relief Assistance Program
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 12
+---
+FieldType: Text
+FieldName: 34.  Donation to Organ &amp; Tissue Donation Awareness Trust Fund
+FieldNameAlt: Enter amount of Line 29 to be given as a Donation to Gov. Robert P. Casey Memorial Organ &amp; Tissue Donation Awareness Trust Fund
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 12
+---
+FieldType: Text
+FieldName: 35. Donation to Juvenile (Type 1) Diabetes Cure Research Fund
+FieldNameAlt: Enter amount of Line 29 to be given as a Donation to Juvenile (Type 1) Diabetes Cure Research Fund
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 12
+---
+FieldType: Button
+FieldName: Signature
+FieldNameAlt: Sign
+FieldFlags: 65537
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Date
+FieldNameAlt: Enter date in mm/dd/yy format
+FieldFlags: 12582914
+FieldJustification: Center
+FieldMaxLength: 8
+---
+FieldType: Button
+FieldName: E-File Opt Out
+FieldNameAlt: E-File Opt Out
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: 1
+FieldStateOption: Off
+---
+FieldType: Text
+FieldName: Preparer&#234;s SSN / PTIN
+FieldNameAlt: Enter preparers SSN of PTIN without dashes or spaces
+FieldFlags: 12582912
+FieldJustification: Left
+FieldMaxLength: 9
+---
+FieldType: Button
+FieldName: Spouse's Signature
+FieldNameAlt: Sign
+FieldFlags: 65537
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Preparer's Name
+FieldNameAlt: Enter Preparer&#8217;s name and telephone number
+FieldFlags: 12582912
+FieldJustification: Left
+FieldMaxLength: 30
+---
+FieldType: Text
+FieldName: Preparer's Telephone Number
+FieldNameAlt: Preparer's Telephone Number
+FieldFlags: 12582912
+FieldJustification: Left
+FieldMaxLength: 30
+---
+FieldType: Text
+FieldName: Firm FEIN
+FieldNameAlt: Enter preparer&#8217;s firm FEIN with dash
+FieldFlags: 12582912
+FieldJustification: Left
+FieldMaxLength: 10
+---
+FieldType: Button
+FieldName: RESET FORM
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: Back
+FieldNameAlt: back
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: Print Form
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: Date:
+FieldFlags: 65537
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: Form REV-459B
+FieldNameAlt: Fill in Oval if
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: 1
+FieldStateOption: Off
+---
+FieldType: Text
+FieldName: 36. Donation to Breast and Cervical Cancer Research Fund
+FieldNameAlt: Enter amount of Line 29 to be given as a Donation to Breast and Cervical Cancer Research Fund
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 12
+---
+FieldType: Text
+FieldName: 26. TAX DUE
+FieldNameAlt: If the total of Line 12 and Line 25 is more than Line 24, enter the differnce here
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 12
+---
+FieldType: Text
+FieldName: 25. USE TAX
+FieldNameAlt: Add amount. See the instructions
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 12

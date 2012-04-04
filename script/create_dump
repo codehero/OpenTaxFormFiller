@@ -1,0 +1,12 @@
+#!/bin/bash
+
+YEAR_DIR=2011
+BASE=`basename $1 .pdf`
+FIELD_TXT=${YEAR_DIR}/field_dump/${BASE}.txt
+PJSON=${YEAR_DIR}/field_dump/${BASE}.pjson
+IDS=${YEAR_DIR}/field_dump/${BASE}.fdf
+ID_PDF=${YEAR_DIR}/field_dump/${BASE}.ID.pdf
+
+pdftk $1 dump_data_fields > ${FIELD_TXT}
+node script/identify_pdf_fields.js ${FIELD_TXT} genIds ${PJSON} > ${IDS}
+pdftk $1 fill_form ${IDS} output ${ID_PDF}

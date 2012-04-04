@@ -1,0 +1,1515 @@
+---
+FieldType: Button
+FieldName: start box
+FieldFlags: 65537
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Year
+FieldNameAlt: Year
+FieldFlags: 12582914
+FieldJustification: Left
+FieldMaxLength: 2
+---
+FieldType: Text
+FieldName: Main business activity
+FieldNameAlt: Main business activity
+FieldFlags: 12582914
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: product or service
+FieldNameAlt: product or service
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Business Name
+FieldNameAlt: Business Name
+FieldFlags: 12582914
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Employer Identification Number
+FieldNameAlt: Employer Identification Number
+FieldFlags: 12582912
+FieldJustification: Left
+FieldMaxLength: 11
+---
+FieldType: Text
+FieldName: Business address (number &amp; street)
+FieldNameAlt: Business address (number &amp; street)
+FieldFlags: 12582914
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: City, State and Zip Code
+FieldNameAlt: City, State and Zip Code
+FieldFlags: 12582914
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: E. Method(s)
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: 1
+FieldStateOption: 2
+FieldStateOption: 3
+FieldStateOption: Off
+---
+FieldType: 
+FieldName: E
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Sales Tax License Number (if applicable)
+FieldNameAlt: Sales Tax License Number (if applicable)
+FieldFlags: 12582912
+FieldJustification: Left
+FieldMaxLength: 10
+---
+FieldType: Button
+FieldName: F.  Accounting Method(s)
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: 1
+FieldStateOption: 2
+FieldStateOption: 3
+FieldStateOption: Off
+---
+FieldType: 
+FieldName: F
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: C1. Yes/No
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: 1
+FieldStateOption: 2
+FieldStateOption: Off
+---
+FieldType: 
+FieldName: C1
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: C2. Yes/No
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: 3
+FieldStateOption: 4
+FieldStateOption: Off
+---
+FieldType: 
+FieldName: C2
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Federal NAICS Code
+FieldNameAlt: Federal NAICS Code
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: I.  Out of Business
+FieldNameAlt: I.  Out of Business
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: 1
+FieldStateOption: Off
+---
+FieldType: Text
+FieldName: 1. a Gross receipts or sales
+FieldNameAlt: Gross receipts or sales
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 1. b. Returns &amp; allowances
+FieldNameAlt: Returns &amp; allowances
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 1. c. Balance
+FieldNameAlt: Balance
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 1. Total Section 179 depreciation
+FieldNameAlt: Total Section 179 depreciation
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 2. Cost
+FieldNameAlt: Cost 
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 2. Less: Section 179 depreciation included in Schedule C-1
+FieldNameAlt: Less: Section 179 depreciation included in Schedule C-1.
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 2. (b1) Date acuired
+FieldNameAlt: Date acquired
+FieldFlags: 12582912
+FieldJustification: Left
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 2. (c1)  Cost or other basis
+FieldNameAlt: Cost or other basis
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 2. (d1)  Depreciation allowed or allowable in prior years
+FieldNameAlt: Depreciation allowed or allowable in prior years
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 2. (e1)  Method of computing depreciation
+FieldNameAlt: Method of computing depreciation 
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 2. (f1)  Life or rate
+FieldNameAlt: Life or rate
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 4
+---
+FieldType: Text
+FieldName: 2. (b2) Date acuired
+FieldNameAlt: Date acquired
+FieldFlags: 12582912
+FieldJustification: Left
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 2. (c2)  Cost or other basis
+FieldNameAlt: Cost or other basis
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 2. (d2)  Depreciation allowed or allowable in prior years
+FieldNameAlt: Depreciation allowed or allowable in prior years
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 2. (e2)  Method of computing depreciation
+FieldNameAlt: Method of computing depreciation 
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 2. (f2)  Life or rate
+FieldNameAlt: Life or rate
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 4
+---
+FieldType: Text
+FieldName: 2. (b3) Date acuired
+FieldNameAlt: Date acquired
+FieldFlags: 12582912
+FieldJustification: Left
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 2. (c3)  Cost or other basis
+FieldNameAlt: Cost or other basis
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 2. (d3)  Depreciation allowed or allowable in prior years
+FieldNameAlt: Depreciation allowed or allowable in prior years
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 2. (e3)  Method of computing depreciation
+FieldNameAlt: Method of computing depreciation 
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 2. (f3)  Life or rate
+FieldNameAlt: Life or rate
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 4
+---
+FieldType: Text
+FieldName: 2. (b4) Date acuired
+FieldNameAlt: Date acquired
+FieldFlags: 12582912
+FieldJustification: Left
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 2. (c4)  Cost or other basis
+FieldNameAlt: Cost or other basis
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 2. (d4)  Depreciation allowed or allowable in prior years
+FieldNameAlt: Depreciation allowed or allowable in prior years
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 2. (e4)  Method of computing depreciation
+FieldNameAlt: Method of computing depreciation 
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 2. (f4)  Life or rate
+FieldNameAlt: Life or rate
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 4
+---
+FieldType: Text
+FieldName: 2. (b5) Date acuired
+FieldNameAlt: Date acquired
+FieldFlags: 4194304
+FieldJustification: Left
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 2. (c5)  Cost or other basis
+FieldNameAlt: Cost or other basis
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 2. (d5)  Depreciation allowed or allowable in prior years
+FieldNameAlt: Depreciation allowed or allowable in prior years
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 2. (e5)  Method of computing depreciation
+FieldNameAlt: Method of computing depreciation 
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 2. (f5)  Life or rate
+FieldNameAlt: Life or rate
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 4
+---
+FieldType: Text
+FieldName: 2. (b6) Date acuired
+FieldNameAlt: Date acquired
+FieldFlags: 4194304
+FieldJustification: Left
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 2. (c6)  Cost or other basis
+FieldNameAlt: Cost or other basis
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 2. (d6)  Depreciation allowed or allowable in prior years
+FieldNameAlt: Depreciation allowed or allowable in prior years
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 2. (e6)  Method of computing depreciation
+FieldNameAlt: Method of computing depreciation 
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 2. (f6)  Life or rate
+FieldNameAlt: Life or rate
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 4
+---
+FieldType: Text
+FieldName: 2. (b7) Date acuired
+FieldNameAlt: Date acquired
+FieldFlags: 4194304
+FieldJustification: Left
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 2. (c7)  Cost or other basis
+FieldNameAlt: Cost or other basis
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 2. (d7)  Depreciation allowed or allowable in prior years
+FieldNameAlt: Depreciation allowed or allowable in prior years
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 2. (e7)  Method of computing depreciation
+FieldNameAlt: Method of computing depreciation 
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 2. (f7)  Life or rate
+FieldNameAlt: Life or rate
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 4
+---
+FieldType: Text
+FieldName: 2. (b8) Date acuired
+FieldNameAlt: Date acquired
+FieldFlags: 4194304
+FieldJustification: Left
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 2. (c8)  Cost or other basis
+FieldNameAlt: Cost or other basis
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 2. (d8)  Depreciation allowed or allowable in prior years
+FieldNameAlt: Depreciation allowed or allowable in prior years
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 2. (e8)  Method of computing depreciation
+FieldNameAlt: Method of computing depreciation 
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 2. (f8)  Life or rate
+FieldNameAlt: Life or rate
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 4
+---
+FieldType: Text
+FieldName: 2. (b9) Date acuired
+FieldNameAlt: Date acquired
+FieldFlags: 4194304
+FieldJustification: Left
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 2. (c9)  Cost or other basis
+FieldNameAlt: Cost or other basis
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 2. (d9)  Depreciation allowed or allowable in prior years
+FieldNameAlt: Depreciation allowed or allowable in prior years
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 2. (e9)  Method of computing depreciation
+FieldNameAlt: Method of computing depreciation 
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 2. (f9)  Life or rate
+FieldNameAlt: Life or rate
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 4
+---
+FieldType: Text
+FieldName: 2. (b10) Date acuired
+FieldNameAlt: Date acquired
+FieldFlags: 4194304
+FieldJustification: Left
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 2. (c10)  Cost or other basis
+FieldNameAlt: Cost or other basis
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 2. (d10)  Depreciation allowed or allowable in prior years
+FieldNameAlt: Depreciation allowed or allowable in prior years
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 2. (e10)  Method of computing depreciation
+FieldNameAlt: Method of computing depreciation 
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 2. (f10)  Life or rate
+FieldNameAlt: Life or rate
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 4
+---
+FieldType: Text
+FieldName: 2. (b11) Date acuired
+FieldNameAlt: Date acquired
+FieldFlags: 12582912
+FieldJustification: Left
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 2. (c11)  Cost or other basis
+FieldNameAlt: Cost or other basis
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 2. (d11)  Depreciation allowed or allowable in prior years
+FieldNameAlt: Depreciation allowed or allowable in prior years
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 2. (e11)  Method of computing depreciation
+FieldNameAlt: Method of computing depreciation 
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 2. (f11)  Life or rate
+FieldNameAlt: Life or rate
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 4
+---
+FieldType: Text
+FieldName: 2. (b12) Date acuired
+FieldNameAlt: Date acquired
+FieldFlags: 12582912
+FieldJustification: Left
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 2. (c12)  Cost or other basis
+FieldNameAlt: Cost or other basis
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 2. (d12)  Depreciation allowed or allowable in prior years
+FieldNameAlt: Depreciation allowed or allowable in prior years
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 2. (e12)  Method of computing depreciation
+FieldNameAlt: Method of computing depreciation 
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 2. (f12)  Life or rate
+FieldNameAlt: Life or rate
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 4
+---
+FieldType: Text
+FieldName: 2. (b13) Date acuired
+FieldNameAlt: Date acquired
+FieldFlags: 12582912
+FieldJustification: Left
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 2. (c13)  Cost or other basis
+FieldNameAlt: Cost or other basis
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 2. (d13)  Depreciation allowed or allowable in prior years
+FieldNameAlt: Depreciation allowed or allowable in prior years
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 2. (e13)  Method of computing depreciation
+FieldNameAlt: Method of computing depreciation 
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 2. (f13)  Life or rate
+FieldNameAlt: Life or rate
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 4
+---
+FieldType: Text
+FieldName: 2. (b14) Date acuired
+FieldNameAlt: Date acquired
+FieldFlags: 12582912
+FieldJustification: Left
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 2. (c14)  Cost or other basis
+FieldNameAlt: Cost or other basis
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 2. (d14)  Depreciation allowed or allowable in prior years
+FieldNameAlt: Depreciation allowed or allowable in prior years
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 2. (e14)  Method of computing depreciation
+FieldNameAlt: Method of computing depreciation 
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 2. (f14)  Life or rate
+FieldNameAlt: Life or rate
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 4
+---
+FieldType: Text
+FieldName: 2. (b15) Date acuired
+FieldNameAlt: Date acquired
+FieldFlags: 12582912
+FieldJustification: Left
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 2. (c15)  Cost or other basis
+FieldNameAlt: Cost or other basis
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 2. (d15)  Depreciation allowed or allowable in prior years
+FieldNameAlt: Depreciation allowed or allowable in prior years
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 2. (e15)  Method of computing depreciation
+FieldNameAlt: Method of computing depreciation 
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 2. (f15)  Life or rate
+FieldNameAlt: Life or rate
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 4
+---
+FieldType: Text
+FieldName: 2. (b16) Date acuired
+FieldNameAlt: Date acquired
+FieldFlags: 12582912
+FieldJustification: Left
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 2. (c16)  Cost or other basis
+FieldNameAlt: Cost or other basis
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 2. (d16)  Depreciation allowed or allowable in prior years
+FieldNameAlt: Depreciation allowed or allowable in prior years
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 2. (e16)  Method of computing depreciation
+FieldNameAlt: Method of computing depreciation 
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 2. (f16)  Life or rate
+FieldNameAlt: Life or rate
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 4
+---
+FieldType: Text
+FieldName: 2. (b17) Date acuired
+FieldNameAlt: Date acquired
+FieldFlags: 12582912
+FieldJustification: Left
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 2. (c17)  Cost or other basis
+FieldNameAlt: Cost or other basis
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 2. (d17)  Depreciation allowed or allowable in prior years
+FieldNameAlt: Depreciation allowed or allowable in prior years
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 2. (e17)  Method of computing depreciation
+FieldNameAlt: Method of computing depreciation 
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 2. (f17)  Life or rate
+FieldNameAlt: Life or rate
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 4
+---
+FieldType: Text
+FieldName: 3. Gross profit
+FieldNameAlt: Gross profit
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 3. Cost of labor
+FieldNameAlt: Cost of labor
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 3. Balance (Subtract Line 2 from Line 1)
+FieldNameAlt: Balance (Subtract Line 2 from Line 1)
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 3. (c) Totals
+FieldNameAlt: Totals
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 4. Other Income. Include interest
+FieldNameAlt: Other Income. Include interest.
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 4. Materials &amp; supplies
+FieldNameAlt: Materials &amp; supplies
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 5. Total Income
+FieldNameAlt: Total Income
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 5. Other costs
+FieldNameAlt: Other costs
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 6. Advertising
+FieldNameAlt: Advertising
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 6. Add Lines 1, 2c, 3, 4, &amp;  5
+FieldNameAlt: Add Lines 1, 2c, 3, 4, &amp;  5
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 7. Amortization
+FieldNameAlt: Amortization
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 7. Inventory at end of year
+FieldNameAlt: Inventory at end of year
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 8. Bad Debts from sales or services
+FieldNameAlt: Bad Debts from sales or services
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 8. Cost of goods sold and or operations
+FieldNameAlt: 8. Cost of goods sold and or operations
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 9. Bank charges
+FieldNameAlt: Bank charges
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 10. Car &amp; truck expenses
+FieldNameAlt: Car &amp; truck expenses
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 11. Commissions
+FieldNameAlt: Commissions
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 12. Cost Depletion
+FieldNameAlt: Cost Depletion but not percentage depletion
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 13a. Regular Depreciation
+FieldNameAlt: Regular Depreciation
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 13b. Section 179 expense
+FieldNameAlt: Section 179 expense
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 14. Dues &amp; publications
+FieldNameAlt: Dues &amp; publications
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 15. Employee benefit programs other than on Line 23
+FieldNameAlt: 15. Employee benefit programs other than on Line 23.
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 16. Freight
+FieldNameAlt: Freight
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 17. Insurance
+FieldNameAlt: Insurance
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 18. Interest on business indebtedness
+FieldNameAlt: Interest on business indebtedness
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 19.  Laundry &amp; cleaning
+FieldNameAlt: Laundry &amp; cleaning
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 20. Legal &amp; professional services
+FieldNameAlt: Legal &amp; professional services
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 21. Management fees
+FieldNameAlt: Management fees
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 22. Office supplies
+FieldNameAlt: Office supplies
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 23. Pension &amp; profit-sharing plans
+FieldNameAlt: Pension &amp; profit-sharing plans
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 24. Postage
+FieldNameAlt: Postage
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 25. Rent on business property
+FieldNameAlt: Rent on business property
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 26. Repairs
+FieldNameAlt: Repairs
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 27. Subcontractor fees
+FieldNameAlt: Subcontractor fees
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 28. Supplies
+FieldNameAlt: Supplies
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 29. Taxes
+FieldNameAlt: Taxes
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 30. Telephone
+FieldNameAlt: Telephone
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 31. Travel and entertainment
+FieldNameAlt: Travel and entertainment
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 32. Utilities
+FieldNameAlt: Utilities
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 33. Wages
+FieldNameAlt: Wages
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 34 a. Other expenses (specify)
+FieldNameAlt: Other expenses (specify)
+FieldFlags: 12582912
+FieldJustification: Left
+FieldMaxLength: 35
+---
+FieldType: Text
+FieldName: 34 a. Other expenses/amount
+FieldNameAlt: Other expenses/amount
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 34 b. Other expenses (specify)
+FieldNameAlt: Other expenses (specify)
+FieldFlags: 12582912
+FieldJustification: Left
+FieldMaxLength: 35
+---
+FieldType: Text
+FieldName: 34 b. Other expenses/amount
+FieldNameAlt: Other expenses/amount
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 34 c. Other expenses (specify)
+FieldNameAlt: Other expenses (specify)
+FieldFlags: 12582912
+FieldJustification: Left
+FieldMaxLength: 35
+---
+FieldType: Text
+FieldName: 34 c. Other expenses/amount
+FieldNameAlt: Other expenses/amount
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 34 d. Other expenses (specify)
+FieldNameAlt: Other expenses (specify)
+FieldFlags: 12582912
+FieldJustification: Left
+FieldMaxLength: 35
+---
+FieldType: Text
+FieldName: 34 d. Other expenses/amount
+FieldNameAlt: Other expenses/amount
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 34 e. Other expenses (specify)
+FieldNameAlt: Other expenses (specify)
+FieldFlags: 12582912
+FieldJustification: Left
+FieldMaxLength: 35
+---
+FieldType: Text
+FieldName: 34 e. Other expenses/amount
+FieldNameAlt: Other expenses/amount
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 34 f. Other expenses (specify)
+FieldNameAlt: Other expenses (specify)
+FieldFlags: 12582912
+FieldJustification: Left
+FieldMaxLength: 35
+---
+FieldType: Text
+FieldName: 34 f. Other expenses/amount
+FieldNameAlt: Other expenses/amount
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 34 g. Other expenses (specify)
+FieldNameAlt: Other expenses (specify)
+FieldFlags: 12582912
+FieldJustification: Left
+FieldMaxLength: 35
+---
+FieldType: Text
+FieldName: 34 g. Other expenses/amount
+FieldNameAlt: Other expenses/amount
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 34 h. Other expenses (specify)
+FieldNameAlt: Other expenses (specify)
+FieldFlags: 12582912
+FieldJustification: Left
+FieldMaxLength: 35
+---
+FieldType: Text
+FieldName: 34 h. Other expenses/amount
+FieldNameAlt: Other expenses/amount
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 34 i. Other expenses (specify)
+FieldNameAlt: Other expenses (specify)
+FieldFlags: 12582912
+FieldJustification: Left
+FieldMaxLength: 35
+---
+FieldType: Text
+FieldName: 34 i. Other expenses/amount
+FieldNameAlt: Other expenses/amount
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 34  j. Other expenses (specify)
+FieldNameAlt: Other expenses (specify)
+FieldFlags: 12582912
+FieldJustification: Left
+FieldMaxLength: 35
+---
+FieldType: Text
+FieldName: 34 j. Other expenses/amount
+FieldNameAlt: Other expenses/amount
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 34 k. Other expenses (specify)
+FieldNameAlt: Other expenses (specify)
+FieldFlags: 12582912
+FieldJustification: Left
+FieldMaxLength: 35
+---
+FieldType: Text
+FieldName: 34 k. Other expenses/amount
+FieldNameAlt: Other expenses/amount
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 34. Total other expenses
+FieldNameAlt: Total other expenses
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 35&#9;Total Expenses. Add Lines 6 through 34
+FieldNameAlt: Total Expenses. Add Lines 6 through 34.
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 36. Reduce expenses by the total business credits claimed on your PA-40
+FieldNameAlt: Reduce expenses by the total business credits claimed on your PA-40.
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 37. Total Adjusted Expenses deductions. Subtract Line 36 from Line 35
+FieldNameAlt: 37. Total Adjusted Expenses deductions. Subtract Line 36 from Line 35.
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: 
+FieldName: 37
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: 38. Loss
+FieldNameAlt: Loss
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: 2
+FieldStateOption: Off
+---
+FieldType: Text
+FieldName: 38. Net profit or loss (subtract Line 37 from Line 5)
+FieldNameAlt: 38. Net profit or loss (subtract Line 37 from Line 5).
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Button
+FieldName: arrow
+FieldFlags: 65537
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Name of Owner as shown PA tax return
+FieldFlags: 12582914
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Owner's Social Security Number
+FieldFlags: 12582914
+FieldJustification: Left
+FieldMaxLength: 9
+---
+FieldType: Text
+FieldName: Schedule C-1 1. Inventory
+FieldNameAlt: Inventory at beginning of year.
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 2a. Purchases
+FieldNameAlt: Purchases
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 2a. Other Depreciation:
+FieldNameAlt: Other Depreciation:
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 2b. Cost of items withdrawn for personal use
+FieldNameAlt: Cost of items withdrawn for personal use
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 2b. Other Depreciation:
+FieldNameAlt: Other Depreciation:
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 2c. Balance
+FieldNameAlt: Balance
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 2c. Other Depreciation:
+FieldNameAlt: Other Depreciation:
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: MM/DD/YY
+FieldNameAlt: MM/DD/YY
+FieldFlags: 65537
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 2 g1. Depreciation for this year
+FieldNameAlt: g1. Depreciation for this year
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 2 g2. ODepreciation for this year
+FieldNameAlt: Depreciation for this year
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 2 g3. Depreciation for this year
+FieldNameAlt: Depreciation for this year
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 2 g4. Depreciation for this year
+FieldNameAlt: Depreciation for this year
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 2 g5. Depreciation for this year
+FieldNameAlt: Depreciation for this year
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 2 g6. Depreciation for this year
+FieldNameAlt: Depreciation for this year
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 2 g7. Depreciation for this year
+FieldNameAlt: Depreciation for this year
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 2d. Other Depreciation:
+FieldNameAlt: Other Depreciation:
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 2 g8. Depreciation for this year
+FieldNameAlt: Depreciation for this year
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 2e. Other Depreciation:
+FieldNameAlt: Other Depreciation:
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 2 g9. Depreciation for this year
+FieldNameAlt: Depreciation for this year
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 2f. Other Depreciation:
+FieldNameAlt: Other Depreciation:
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 2 g10. Depreciation for this year
+FieldNameAlt: Depreciation for this year
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 2g. Other Depreciation:
+FieldNameAlt: Other Depreciation:
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 2 g11. Depreciation for this year
+FieldNameAlt: Depreciation for this year
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 2h. Other Depreciation:
+FieldNameAlt: Other Depreciation:
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 2 g12. Depreciation for this year
+FieldNameAlt: Depreciation for this year
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 2i. Other Depreciation:
+FieldNameAlt: Other Depreciation:
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 2 g13. Depreciation for this year
+FieldNameAlt: Depreciation for this year
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 2j. Other Depreciation:
+FieldNameAlt: Other Depreciation:
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 2 g14. Depreciation for this year
+FieldNameAlt: Depreciation for this year
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 2k. Other Depreciation:
+FieldNameAlt: Other Depreciation:
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 2 g15. Depreciation for this year
+FieldNameAlt: Depreciation for this year
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 2L. Other Depreciation:
+FieldNameAlt: Other Depreciation:
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 2 g16. Depreciation for this year
+FieldNameAlt: Depreciation for this year
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 2m. Other Depreciation:
+FieldNameAlt: Other Depreciation:
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 2 g17. Depreciation for this year
+FieldNameAlt: Depreciation for this year
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 5 g. Totals
+FieldNameAlt: Totals
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 6 g. Any depreciation included in Schedule C-1
+FieldNameAlt: Any depreciation included in Schedule C-1
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 7 g. Balance
+FieldNameAlt: Balance
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Button
+FieldName: NEXT PAGE
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: Print Form
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: Back
+FieldNameAlt: back
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: RESET FORM
+FieldFlags: 65536
+FieldJustification: Left

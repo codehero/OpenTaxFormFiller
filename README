@@ -1,0 +1,50 @@
+OpenTaxFormFiller is an open source utility aiming to eliminate the pain of using a PDF viewer to fill in tax forms.
+The target audience is anybody who prefers not to use a major software package to do their taxes.
+Users of OpenTaxSolver will be delighted to know that there is a utility to import their tax solve output.
+
+Forms support:
+The major pain in supporting forms is in mapping Line Numbers to PDF input fields.
+I am still at the stage of writing transformation files, though at least one is at complete as of now.
+Please see supported.json to see current forms support.
+
+I could use some MAJOR ASSISTANCE in characterizing the forms!
+If you are interested in using/helping, please fork and see Design.txt.
+
+Dependencies:
+
+Pdftk : industrial grade console utility for manipulating PDF files
+Node.js : scripting engine
+OpenTaxSolver : not strictly a dependency, but useful for calculations
+
+Platform support:
+Linux: Working
+Windows: Should work if script files are ported to bat files.
+
+General Instructions:
+1. Compose your form inputs as a JSON file (see examples/8829.json). Must have .json as an extension
+2. In the main directory, run
+./script/fillin_values FORM_NAME INPUT.json OUTPUT_FILE
+where form name is something like f8829 or f1040.
+3. Your OUTPUT_FILE should be your desired pdf filename.
+
+If you use OpenTaxSolver:
+1. Save your output to a file.
+2. Run
+node ./script/json_ots.js FILENAME > OUTPUT_FILE.json
+3. You will use the OUTPUT FILE for the General Instructions.
+
+Limitations:
+Still working on checkbox support, coming soon.
+
+TODO (besides form support):
+-Better error checking in scripts
+-Better testing on OTS output.
+
+Notes:
+ The numbers in the examples directory should be taken as bogus.
+
+References:
+http://http://opentaxsolver.sourceforge.net/
+http://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/
+http://www.myown1.com/linux/pdf_formfill.shtml
+http://www.irs.gov/pub/irs-prior/

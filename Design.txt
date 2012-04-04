@@ -1,0 +1,42 @@
+Usage:
+ The user specifies Line values in a JSON file. The fillin_values utility
+ takes these values and a form ID and produces the corresponding
+ PDF tax form with the values from the JSON file.
+
+ Behind the scenes, the fillin_values utility looks for two files
+ corresponding to the form ID: the transformation file and the definition
+ file. The definition file specifies how to take the Line values from the user
+ input and split them up into PDF form fields. The transformation file maps
+ these values to the form field IDs in the PDF. Without these two files the
+ fillin_values utility cannot work.
+
+Characterizing the forms:
+ In order to fill out the PDF forms programmatically, the field names of each
+ input field (anywhere the user can input text) must be explicitly identified
+ in the transformation file. The process of creating this transformation file
+ is called characterization. It is a somewhat tedious process. The idea is
+ that a PDF file is generated with unique identifiers in every possible text
+ field.
+ As an example (in the 2011/field_dump directory):
+
+f1040.txt (raw output of pdftk form name dump)
+f1040.fdf (dummy but unique fields to populate in the PDF file)
+f1040.ID.pdf (PDF file containing dummy IDs)
+f1040.pjson (partial JSON output mapping unique dummy IDs to PDF field names)
+
+ The characterizer then proceeds through the PDF, replacing the Dummy ID in
+ the pjson file with the semantic name (ie Line number, etc). Doing this
+ mapping is the bulk of the work. This pjson file is then dressed accordingly
+ with the enclosing braces and required fields (see f8829.json) and it becomes
+ complete. Characterizing should be done section by section.
+
+Definition file:
+ The definition file is easier. It just maps a Line number ID to a data type,
+ which can be:
+
+ "Text" : Free form text
+ "Integer" : Integral numeric value
+ "Percent" : Numeric value between 0-100
+ "Amount" : US dollars amount and a separate entry for dollars and cents
+
+ see f8829.json as an example.

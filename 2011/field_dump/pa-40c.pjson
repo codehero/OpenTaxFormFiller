@@ -1,0 +1,824 @@
+"F1":{
+"fdf":"Year",
+"type":"text"
+},
+"F2":{
+"fdf":"Main business activity",
+"type":"text"
+},
+"F3":{
+"fdf":"product or service",
+"type":"text"
+},
+"F4":{
+"fdf":"Business Name",
+"type":"text"
+},
+"F5":{
+"fdf":"Employer Identification Number",
+"type":"text"
+},
+"F6":{
+"fdf":"Business address (number &amp; street)",
+"type":"text"
+},
+"F7":{
+"fdf":"City, State and Zip Code",
+"type":"text"
+},
+"F9":{
+"fdf":"Sales Tax License Number (if applicable)",
+"type":"text"
+},
+"Fd":{
+"fdf":"Federal NAICS Code",
+"type":"text"
+},
+"Ff":{
+"fdf":"1. a Gross receipts or sales",
+"type":"text"
+},
+"F10":{
+"fdf":"1. b. Returns &amp; allowances",
+"type":"text"
+},
+"F11":{
+"fdf":"1. c. Balance",
+"type":"text"
+},
+"F12":{
+"fdf":"1. Total Section 179 depreciation",
+"type":"text"
+},
+"F13":{
+"fdf":"2. Cost",
+"type":"text"
+},
+"F14":{
+"fdf":"2. Less: Section 179 depreciation included in Schedule C-1",
+"type":"text"
+},
+"F15":{
+"fdf":"2. (b1) Date acuired",
+"type":"text"
+},
+"F16":{
+"fdf":"2. (c1)  Cost or other basis",
+"type":"text"
+},
+"F17":{
+"fdf":"2. (d1)  Depreciation allowed or allowable in prior years",
+"type":"text"
+},
+"F18":{
+"fdf":"2. (e1)  Method of computing depreciation",
+"type":"text"
+},
+"F19":{
+"fdf":"2. (f1)  Life or rate",
+"type":"text"
+},
+"F1a":{
+"fdf":"2. (b2) Date acuired",
+"type":"text"
+},
+"F1b":{
+"fdf":"2. (c2)  Cost or other basis",
+"type":"text"
+},
+"F1c":{
+"fdf":"2. (d2)  Depreciation allowed or allowable in prior years",
+"type":"text"
+},
+"F1d":{
+"fdf":"2. (e2)  Method of computing depreciation",
+"type":"text"
+},
+"F1e":{
+"fdf":"2. (f2)  Life or rate",
+"type":"text"
+},
+"F1f":{
+"fdf":"2. (b3) Date acuired",
+"type":"text"
+},
+"F20":{
+"fdf":"2. (c3)  Cost or other basis",
+"type":"text"
+},
+"F21":{
+"fdf":"2. (d3)  Depreciation allowed or allowable in prior years",
+"type":"text"
+},
+"F22":{
+"fdf":"2. (e3)  Method of computing depreciation",
+"type":"text"
+},
+"F23":{
+"fdf":"2. (f3)  Life or rate",
+"type":"text"
+},
+"F24":{
+"fdf":"2. (b4) Date acuired",
+"type":"text"
+},
+"F25":{
+"fdf":"2. (c4)  Cost or other basis",
+"type":"text"
+},
+"F26":{
+"fdf":"2. (d4)  Depreciation allowed or allowable in prior years",
+"type":"text"
+},
+"F27":{
+"fdf":"2. (e4)  Method of computing depreciation",
+"type":"text"
+},
+"F28":{
+"fdf":"2. (f4)  Life or rate",
+"type":"text"
+},
+"F29":{
+"fdf":"2. (b5) Date acuired",
+"type":"text"
+},
+"F2a":{
+"fdf":"2. (c5)  Cost or other basis",
+"type":"text"
+},
+"F2b":{
+"fdf":"2. (d5)  Depreciation allowed or allowable in prior years",
+"type":"text"
+},
+"F2c":{
+"fdf":"2. (e5)  Method of computing depreciation",
+"type":"text"
+},
+"F2d":{
+"fdf":"2. (f5)  Life or rate",
+"type":"text"
+},
+"F2e":{
+"fdf":"2. (b6) Date acuired",
+"type":"text"
+},
+"F2f":{
+"fdf":"2. (c6)  Cost or other basis",
+"type":"text"
+},
+"F30":{
+"fdf":"2. (d6)  Depreciation allowed or allowable in prior years",
+"type":"text"
+},
+"F31":{
+"fdf":"2. (e6)  Method of computing depreciation",
+"type":"text"
+},
+"F32":{
+"fdf":"2. (f6)  Life or rate",
+"type":"text"
+},
+"F33":{
+"fdf":"2. (b7) Date acuired",
+"type":"text"
+},
+"F34":{
+"fdf":"2. (c7)  Cost or other basis",
+"type":"text"
+},
+"F35":{
+"fdf":"2. (d7)  Depreciation allowed or allowable in prior years",
+"type":"text"
+},
+"F36":{
+"fdf":"2. (e7)  Method of computing depreciation",
+"type":"text"
+},
+"F37":{
+"fdf":"2. (f7)  Life or rate",
+"type":"text"
+},
+"F38":{
+"fdf":"2. (b8) Date acuired",
+"type":"text"
+},
+"F39":{
+"fdf":"2. (c8)  Cost or other basis",
+"type":"text"
+},
+"F3a":{
+"fdf":"2. (d8)  Depreciation allowed or allowable in prior years",
+"type":"text"
+},
+"F3b":{
+"fdf":"2. (e8)  Method of computing depreciation",
+"type":"text"
+},
+"F3c":{
+"fdf":"2. (f8)  Life or rate",
+"type":"text"
+},
+"F3d":{
+"fdf":"2. (b9) Date acuired",
+"type":"text"
+},
+"F3e":{
+"fdf":"2. (c9)  Cost or other basis",
+"type":"text"
+},
+"F3f":{
+"fdf":"2. (d9)  Depreciation allowed or allowable in prior years",
+"type":"text"
+},
+"F40":{
+"fdf":"2. (e9)  Method of computing depreciation",
+"type":"text"
+},
+"F41":{
+"fdf":"2. (f9)  Life or rate",
+"type":"text"
+},
+"F42":{
+"fdf":"2. (b10) Date acuired",
+"type":"text"
+},
+"F43":{
+"fdf":"2. (c10)  Cost or other basis",
+"type":"text"
+},
+"F44":{
+"fdf":"2. (d10)  Depreciation allowed or allowable in prior years",
+"type":"text"
+},
+"F45":{
+"fdf":"2. (e10)  Method of computing depreciation",
+"type":"text"
+},
+"F46":{
+"fdf":"2. (f10)  Life or rate",
+"type":"text"
+},
+"F47":{
+"fdf":"2. (b11) Date acuired",
+"type":"text"
+},
+"F48":{
+"fdf":"2. (c11)  Cost or other basis",
+"type":"text"
+},
+"F49":{
+"fdf":"2. (d11)  Depreciation allowed or allowable in prior years",
+"type":"text"
+},
+"F4a":{
+"fdf":"2. (e11)  Method of computing depreciation",
+"type":"text"
+},
+"F4b":{
+"fdf":"2. (f11)  Life or rate",
+"type":"text"
+},
+"F4c":{
+"fdf":"2. (b12) Date acuired",
+"type":"text"
+},
+"F4d":{
+"fdf":"2. (c12)  Cost or other basis",
+"type":"text"
+},
+"F4e":{
+"fdf":"2. (d12)  Depreciation allowed or allowable in prior years",
+"type":"text"
+},
+"F4f":{
+"fdf":"2. (e12)  Method of computing depreciation",
+"type":"text"
+},
+"F50":{
+"fdf":"2. (f12)  Life or rate",
+"type":"text"
+},
+"F51":{
+"fdf":"2. (b13) Date acuired",
+"type":"text"
+},
+"F52":{
+"fdf":"2. (c13)  Cost or other basis",
+"type":"text"
+},
+"F53":{
+"fdf":"2. (d13)  Depreciation allowed or allowable in prior years",
+"type":"text"
+},
+"F54":{
+"fdf":"2. (e13)  Method of computing depreciation",
+"type":"text"
+},
+"F55":{
+"fdf":"2. (f13)  Life or rate",
+"type":"text"
+},
+"F56":{
+"fdf":"2. (b14) Date acuired",
+"type":"text"
+},
+"F57":{
+"fdf":"2. (c14)  Cost or other basis",
+"type":"text"
+},
+"F58":{
+"fdf":"2. (d14)  Depreciation allowed or allowable in prior years",
+"type":"text"
+},
+"F59":{
+"fdf":"2. (e14)  Method of computing depreciation",
+"type":"text"
+},
+"F5a":{
+"fdf":"2. (f14)  Life or rate",
+"type":"text"
+},
+"F5b":{
+"fdf":"2. (b15) Date acuired",
+"type":"text"
+},
+"F5c":{
+"fdf":"2. (c15)  Cost or other basis",
+"type":"text"
+},
+"F5d":{
+"fdf":"2. (d15)  Depreciation allowed or allowable in prior years",
+"type":"text"
+},
+"F5e":{
+"fdf":"2. (e15)  Method of computing depreciation",
+"type":"text"
+},
+"F5f":{
+"fdf":"2. (f15)  Life or rate",
+"type":"text"
+},
+"F60":{
+"fdf":"2. (b16) Date acuired",
+"type":"text"
+},
+"F61":{
+"fdf":"2. (c16)  Cost or other basis",
+"type":"text"
+},
+"F62":{
+"fdf":"2. (d16)  Depreciation allowed or allowable in prior years",
+"type":"text"
+},
+"F63":{
+"fdf":"2. (e16)  Method of computing depreciation",
+"type":"text"
+},
+"F64":{
+"fdf":"2. (f16)  Life or rate",
+"type":"text"
+},
+"F65":{
+"fdf":"2. (b17) Date acuired",
+"type":"text"
+},
+"F66":{
+"fdf":"2. (c17)  Cost or other basis",
+"type":"text"
+},
+"F67":{
+"fdf":"2. (d17)  Depreciation allowed or allowable in prior years",
+"type":"text"
+},
+"F68":{
+"fdf":"2. (e17)  Method of computing depreciation",
+"type":"text"
+},
+"F69":{
+"fdf":"2. (f17)  Life or rate",
+"type":"text"
+},
+"F6a":{
+"fdf":"3. Gross profit",
+"type":"text"
+},
+"F6b":{
+"fdf":"3. Cost of labor",
+"type":"text"
+},
+"F6c":{
+"fdf":"3. Balance (Subtract Line 2 from Line 1)",
+"type":"text"
+},
+"F6d":{
+"fdf":"3. (c) Totals",
+"type":"text"
+},
+"F6e":{
+"fdf":"4. Other Income. Include interest",
+"type":"text"
+},
+"F6f":{
+"fdf":"4. Materials &amp; supplies",
+"type":"text"
+},
+"F70":{
+"fdf":"5. Total Income",
+"type":"text"
+},
+"F71":{
+"fdf":"5. Other costs",
+"type":"text"
+},
+"F72":{
+"fdf":"6. Advertising",
+"type":"text"
+},
+"F73":{
+"fdf":"6. Add Lines 1, 2c, 3, 4, &amp;  5",
+"type":"text"
+},
+"F74":{
+"fdf":"7. Amortization",
+"type":"text"
+},
+"F75":{
+"fdf":"7. Inventory at end of year",
+"type":"text"
+},
+"F76":{
+"fdf":"8. Bad Debts from sales or services",
+"type":"text"
+},
+"F77":{
+"fdf":"8. Cost of goods sold and or operations",
+"type":"text"
+},
+"F78":{
+"fdf":"9. Bank charges",
+"type":"text"
+},
+"F79":{
+"fdf":"10. Car &amp; truck expenses",
+"type":"text"
+},
+"F7a":{
+"fdf":"11. Commissions",
+"type":"text"
+},
+"F7b":{
+"fdf":"12. Cost Depletion",
+"type":"text"
+},
+"F7c":{
+"fdf":"13a. Regular Depreciation",
+"type":"text"
+},
+"F7d":{
+"fdf":"13b. Section 179 expense",
+"type":"text"
+},
+"F7e":{
+"fdf":"14. Dues &amp; publications",
+"type":"text"
+},
+"F7f":{
+"fdf":"15. Employee benefit programs other than on Line 23",
+"type":"text"
+},
+"F80":{
+"fdf":"16. Freight",
+"type":"text"
+},
+"F81":{
+"fdf":"17. Insurance",
+"type":"text"
+},
+"F82":{
+"fdf":"18. Interest on business indebtedness",
+"type":"text"
+},
+"F83":{
+"fdf":"19.  Laundry &amp; cleaning",
+"type":"text"
+},
+"F84":{
+"fdf":"20. Legal &amp; professional services",
+"type":"text"
+},
+"F85":{
+"fdf":"21. Management fees",
+"type":"text"
+},
+"F86":{
+"fdf":"22. Office supplies",
+"type":"text"
+},
+"F87":{
+"fdf":"23. Pension &amp; profit-sharing plans",
+"type":"text"
+},
+"F88":{
+"fdf":"24. Postage",
+"type":"text"
+},
+"F89":{
+"fdf":"25. Rent on business property",
+"type":"text"
+},
+"F8a":{
+"fdf":"26. Repairs",
+"type":"text"
+},
+"F8b":{
+"fdf":"27. Subcontractor fees",
+"type":"text"
+},
+"F8c":{
+"fdf":"28. Supplies",
+"type":"text"
+},
+"F8d":{
+"fdf":"29. Taxes",
+"type":"text"
+},
+"F8e":{
+"fdf":"30. Telephone",
+"type":"text"
+},
+"F8f":{
+"fdf":"31. Travel and entertainment",
+"type":"text"
+},
+"F90":{
+"fdf":"32. Utilities",
+"type":"text"
+},
+"F91":{
+"fdf":"33. Wages",
+"type":"text"
+},
+"F92":{
+"fdf":"34 a. Other expenses (specify)",
+"type":"text"
+},
+"F93":{
+"fdf":"34 a. Other expenses/amount",
+"type":"text"
+},
+"F94":{
+"fdf":"34 b. Other expenses (specify)",
+"type":"text"
+},
+"F95":{
+"fdf":"34 b. Other expenses/amount",
+"type":"text"
+},
+"F96":{
+"fdf":"34 c. Other expenses (specify)",
+"type":"text"
+},
+"F97":{
+"fdf":"34 c. Other expenses/amount",
+"type":"text"
+},
+"F98":{
+"fdf":"34 d. Other expenses (specify)",
+"type":"text"
+},
+"F99":{
+"fdf":"34 d. Other expenses/amount",
+"type":"text"
+},
+"F9a":{
+"fdf":"34 e. Other expenses (specify)",
+"type":"text"
+},
+"F9b":{
+"fdf":"34 e. Other expenses/amount",
+"type":"text"
+},
+"F9c":{
+"fdf":"34 f. Other expenses (specify)",
+"type":"text"
+},
+"F9d":{
+"fdf":"34 f. Other expenses/amount",
+"type":"text"
+},
+"F9e":{
+"fdf":"34 g. Other expenses (specify)",
+"type":"text"
+},
+"F9f":{
+"fdf":"34 g. Other expenses/amount",
+"type":"text"
+},
+"Fa0":{
+"fdf":"34 h. Other expenses (specify)",
+"type":"text"
+},
+"Fa1":{
+"fdf":"34 h. Other expenses/amount",
+"type":"text"
+},
+"Fa2":{
+"fdf":"34 i. Other expenses (specify)",
+"type":"text"
+},
+"Fa3":{
+"fdf":"34 i. Other expenses/amount",
+"type":"text"
+},
+"Fa4":{
+"fdf":"34  j. Other expenses (specify)",
+"type":"text"
+},
+"Fa5":{
+"fdf":"34 j. Other expenses/amount",
+"type":"text"
+},
+"Fa6":{
+"fdf":"34 k. Other expenses (specify)",
+"type":"text"
+},
+"Fa7":{
+"fdf":"34 k. Other expenses/amount",
+"type":"text"
+},
+"Fa8":{
+"fdf":"34. Total other expenses",
+"type":"text"
+},
+"Fa9":{
+"fdf":"35&#9;Total Expenses. Add Lines 6 through 34",
+"type":"text"
+},
+"Faa":{
+"fdf":"36. Reduce expenses by the total business credits claimed on your PA-40",
+"type":"text"
+},
+"Fab":{
+"fdf":"37. Total Adjusted Expenses deductions. Subtract Line 36 from Line 35",
+"type":"text"
+},
+"Fad":{
+"fdf":"38. Net profit or loss (subtract Line 37 from Line 5)",
+"type":"text"
+},
+"Faf":{
+"fdf":"Name of Owner as shown PA tax return",
+"type":"text"
+},
+"Fb0":{
+"fdf":"Owner's Social Security Number",
+"type":"text"
+},
+"Fb1":{
+"fdf":"Schedule C-1 1. Inventory",
+"type":"text"
+},
+"Fb2":{
+"fdf":"2a. Purchases",
+"type":"text"
+},
+"Fb3":{
+"fdf":"2a. Other Depreciation:",
+"type":"text"
+},
+"Fb4":{
+"fdf":"2b. Cost of items withdrawn for personal use",
+"type":"text"
+},
+"Fb5":{
+"fdf":"2b. Other Depreciation:",
+"type":"text"
+},
+"Fb6":{
+"fdf":"2c. Balance",
+"type":"text"
+},
+"Fb7":{
+"fdf":"2c. Other Depreciation:",
+"type":"text"
+},
+"Fb9":{
+"fdf":"2 g1. Depreciation for this year",
+"type":"text"
+},
+"Fba":{
+"fdf":"2 g2. ODepreciation for this year",
+"type":"text"
+},
+"Fbb":{
+"fdf":"2 g3. Depreciation for this year",
+"type":"text"
+},
+"Fbc":{
+"fdf":"2 g4. Depreciation for this year",
+"type":"text"
+},
+"Fbd":{
+"fdf":"2 g5. Depreciation for this year",
+"type":"text"
+},
+"Fbe":{
+"fdf":"2 g6. Depreciation for this year",
+"type":"text"
+},
+"Fbf":{
+"fdf":"2 g7. Depreciation for this year",
+"type":"text"
+},
+"Fc0":{
+"fdf":"2d. Other Depreciation:",
+"type":"text"
+},
+"Fc1":{
+"fdf":"2 g8. Depreciation for this year",
+"type":"text"
+},
+"Fc2":{
+"fdf":"2e. Other Depreciation:",
+"type":"text"
+},
+"Fc3":{
+"fdf":"2 g9. Depreciation for this year",
+"type":"text"
+},
+"Fc4":{
+"fdf":"2f. Other Depreciation:",
+"type":"text"
+},
+"Fc5":{
+"fdf":"2 g10. Depreciation for this year",
+"type":"text"
+},
+"Fc6":{
+"fdf":"2g. Other Depreciation:",
+"type":"text"
+},
+"Fc7":{
+"fdf":"2 g11. Depreciation for this year",
+"type":"text"
+},
+"Fc8":{
+"fdf":"2h. Other Depreciation:",
+"type":"text"
+},
+"Fc9":{
+"fdf":"2 g12. Depreciation for this year",
+"type":"text"
+},
+"Fca":{
+"fdf":"2i. Other Depreciation:",
+"type":"text"
+},
+"Fcb":{
+"fdf":"2 g13. Depreciation for this year",
+"type":"text"
+},
+"Fcc":{
+"fdf":"2j. Other Depreciation:",
+"type":"text"
+},
+"Fcd":{
+"fdf":"2 g14. Depreciation for this year",
+"type":"text"
+},
+"Fce":{
+"fdf":"2k. Other Depreciation:",
+"type":"text"
+},
+"Fcf":{
+"fdf":"2 g15. Depreciation for this year",
+"type":"text"
+},
+"Fd0":{
+"fdf":"2L. Other Depreciation:",
+"type":"text"
+},
+"Fd1":{
+"fdf":"2 g16. Depreciation for this year",
+"type":"text"
+},
+"Fd2":{
+"fdf":"2m. Other Depreciation:",
+"type":"text"
+},
+"Fd3":{
+"fdf":"2 g17. Depreciation for this year",
+"type":"text"
+},
+"Fd4":{
+"fdf":"5 g. Totals",
+"type":"text"
+},
+"Fd5":{
+"fdf":"6 g. Any depreciation included in Schedule C-1",
+"type":"text"
+},
+"Fd6":{
+"fdf":"7 g. Balance",
+"type":"text"
+},
