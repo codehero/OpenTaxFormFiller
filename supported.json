@@ -31,14 +31,14 @@
 		},
 		"f1040sa" : {
 			"parts": {
-				"Medical and Dental Expenses" : null,
-				"Taxes You Paid" : null,
-				"Interest You Paid" : null,
-				"Gifts to Charity" : null,
-				"Casualty and Theft Losses" : null,
-				"Job Expenses etc" : null,
-				"Other Miscellaneous" : null,
-				"Total Itemized Deductions" : null
+				"Medical and Dental Expenses" : "COMPLETED",
+				"Taxes You Paid" : "COMPLETED",
+				"Interest You Paid" : "COMPLETED",
+				"Gifts to Charity" : "COMPLETED",
+				"Casualty and Theft Losses" : "COMPLETED",
+				"Job Expenses etc" : "COMPLETED",
+				"Other Miscellaneous" : "COMPLETED",
+				"Total Itemized Deductions" : "COMPLETED"
 			}
 		},
 		"f1040sb" : {
