@@ -33,9 +33,6 @@ If you use OpenTaxSolver:
 node ./script/json_ots.js FILENAME > OUTPUT_FILE.json
 3. You will use the OUTPUT FILE for the General Instructions.
 
-Limitations:
-Still working on checkbox support, coming soon.
-
 TODO (besides form support):
 -Better error checking in scripts
 -Better testing on OTS output.
