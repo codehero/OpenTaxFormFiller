@@ -11,8 +11,8 @@
 		},
 		"f8949" : {
 			"parts": {
-				"Part 1" : null,
-				"Part 1" : null
+				"Part I" : "COMPLETE",
+				"Part II" : "COMPLETE (except for lines past 10)" 
 			}
 		},
 		"f1040" : {
@@ -67,11 +67,11 @@
 		},
 		"f1040se" : {
 			"parts": {
-				"Part I" : null,
+				"Part I" : "PARTIAL (no B, C yet)",
 				"Part II" : null,
 				"Part III" : null,
 				"Part IV" : null,
-				"Part V" : null
+				"Part V" : "COMPLETE"
 			}
 		}
 		"f1040sse" : {
