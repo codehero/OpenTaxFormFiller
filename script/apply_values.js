@@ -23,7 +23,6 @@ var output =  [
 ];
 
 for(lineID in data){
-	util.debug(lineID);
 	var type = definition.fields[lineID];
 	var v = data[lineID];
 	var xform = transform.fields[lineID];
@@ -42,6 +41,13 @@ for(lineID in data){
 				throw new Error(lineID +" is not a percent!");
 			if(i > 100 || i < 0)
 				throw new Error(lineID +" is an invalid percent value!");
+			output.push(composeTextField(xform.fdf, v));
+			break;
+
+		case "Number":
+			var i = parseFloat(v);
+			if(isNaN(i))
+				throw new Error(lineID +" is not a percent!");
 			output.push(composeTextField(xform.fdf, v));
 			break;
 
