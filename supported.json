@@ -50,12 +50,12 @@
 		},
 		"f1040sc" : {
 			"parts": {
-				"Info" : null,
-				"Part I" : null,
-				"Part II" : null,
-				"Part III" : null,
-				"Part IV" : null,
-				"Part V" : null
+				"Info" : "COMPLETED",
+				"Part I" : "COMPLETED",
+				"Part II" : "COMPLETED",
+				"Part III" : "COMPLETED",
+				"Part IV" : "COMPLETED",
+				"Part V" : "COMPLETED"
 			}
 		},
 		"f1040sd" : {
