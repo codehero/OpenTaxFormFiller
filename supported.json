@@ -17,16 +17,18 @@
 		},
 		"f1040" : {
 			"parts": {
-				"Personal Info" : null,
-				"Filing Status" : null,
+				"Personal Info" : "COMPLETE",
+				"Filing Status" : "COMPLETE",
 				"Exemptions" : null,
-				"Income" : null,
-				"AGI" : null,
-				"Tax and Credits" : null,
-				"Other Taxes" : null,
-				"Payments" : null,
-				"Refund" : null,
-				"Amount You Owe" : null
+				"Income" : "COMPLETE",
+				"AGI" : "COMPLETE",
+				"Tax and Credits" : "COMPLETE",
+				"Other Taxes" : "COMPLETE",
+				"Payments" : "COMPLETE",
+				"Refund" : "COMPLETE",
+				"Amount You Owe" : "COMPLETE",
+				"Sign Here" : null,
+				"Paid Preparer" : null
 			}
 		},
 		"f1040sa" : {
