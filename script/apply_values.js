@@ -70,7 +70,7 @@ for(lineID in data){
 
 		case "Choice":
 			if(!(v in xform.options))
-				throw new Error(val +" is an invalid choice for " + lineID + "!");
+				throw new Error(v +" is an invalid choice for " + lineID + "!");
 
 			output.push(composeTextField(xform.fdf, xform.options[v]));
 			break;
