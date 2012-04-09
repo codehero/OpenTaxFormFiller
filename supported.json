@@ -1,5 +1,5 @@
 {
-	"notes" : "Forms are composed of 1 or more parts. Each part may be null (planned but not started), \"IN_PROGRESS\", or \"COMPLETED\". A part is only complete when both its transformation and its definition are completed."
+	"notes" : "Forms are composed of 1 or more parts. Each part may be null (planned but not started), \"IN_PROGRESS\", or \"COMPLETED\". A part is only complete when both its transformation and its definition are completed.",
 	"forms":{
 		"f8829" : {
 			"parts": {
@@ -73,7 +73,7 @@
 				"Part IV" : null,
 				"Part V" : "COMPLETE"
 			}
-		}
+		},
 		"f1040sse" : {
 			"parts": {
 				"Section A" : "COMPLETE",
