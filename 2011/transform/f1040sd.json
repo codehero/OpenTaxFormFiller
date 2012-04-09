@@ -1,0 +1,192 @@
+{
+	"form" : "1040sd",
+	"title" : "Capital Gains and Losses",
+	"year" : 2011,
+	"pdfSum" : {
+		"type" : "MD5",
+		"sum" : "070c8471d6e2cb7223de3990689d0e09"
+	},
+	"sequence" : 12,
+	"fields":{
+		"Name(s) shown on return":{
+			"fdf":"topmostSubform[0].Page1[0].f1_001[0]",
+			"type":"text"
+		},
+		"Your social security number":{
+			"fdf":"topmostSubform[0].Page1[0].f1_002[0]",
+			"type":"text"
+		},
+		"L1e":{
+			"fdf":"topmostSubform[0].Page1[0].TablePartI[0].Line1[0].f1_003[0]",
+			"type":"text"
+		},
+		"L1f":{
+			"fdf":"topmostSubform[0].Page1[0].TablePartI[0].Line1[0].f1_004[0]",
+			"type":"text"
+		},
+		"L1g":{
+			"fdf":"topmostSubform[0].Page1[0].TablePartI[0].Line1[0].f1_005[0]",
+			"type":"text"
+		},
+		"L1h":{
+			"fdf":"topmostSubform[0].Page1[0].TablePartI[0].Line1[0].f1_006[0]",
+			"type":"text"
+		},
+		"L2e":{
+			"fdf":"topmostSubform[0].Page1[0].TablePartI[0].Line2[0].f1_007[0]",
+			"type":"text"
+		},
+		"L2f":{
+			"fdf":"topmostSubform[0].Page1[0].TablePartI[0].Line2[0].f1_008[0]",
+			"type":"text"
+		},
+		"L2g":{
+			"fdf":"topmostSubform[0].Page1[0].TablePartI[0].Line2[0].f1_009[0]",
+			"type":"text"
+		},
+		"L2h":{
+			"fdf":"topmostSubform[0].Page1[0].TablePartI[0].Line2[0].f1_010[0]",
+			"type":"text"
+		},
+		"L3e":{
+			"fdf":"topmostSubform[0].Page1[0].TablePartI[0].Line3[0].f1_011[0]",
+			"type":"text"
+		},
+		"L3f":{
+			"fdf":"topmostSubform[0].Page1[0].TablePartI[0].Line3[0].f1_012[0]",
+			"type":"text"
+		},
+		"L3g":{
+			"fdf":"topmostSubform[0].Page1[0].TablePartI[0].Line3[0].f1_013[0]",
+			"type":"text"
+		},
+		"L3h":{
+			"fdf":"topmostSubform[0].Page1[0].TablePartI[0].Line3[0].f1_014[0]",
+			"type":"text"
+		},
+		"L4":{
+			"fdf":"topmostSubform[0].Page1[0].f1_015[0]",
+			"type":"text"
+		},
+		"L5":{
+			"fdf":"topmostSubform[0].Page1[0].f1_016[0]",
+			"type":"text"
+		},
+		"L6":{
+			"fdf":"topmostSubform[0].Page1[0].f1_017[0]",
+			"type":"text"
+		},
+		"L7":{
+			"fdf":"topmostSubform[0].Page1[0].f1_018[0]",
+			"type":"text"
+		},
+		"L8e":{
+			"fdf":"topmostSubform[0].Page1[0].TablePartII[0].Line8[0].f1_019[0]",
+			"type":"text"
+		},
+		"L8f":{
+			"fdf":"topmostSubform[0].Page1[0].TablePartII[0].Line8[0].f1_020[0]",
+			"type":"text"
+		},
+		"L8g":{
+			"fdf":"topmostSubform[0].Page1[0].TablePartII[0].Line8[0].f1_021[0]",
+			"type":"text"
+		},
+		"L8h":{
+			"fdf":"topmostSubform[0].Page1[0].TablePartII[0].Line8[0].f1_022[0]",
+			"type":"text"
+		},
+		"L9e":{
+			"fdf":"topmostSubform[0].Page1[0].TablePartII[0].Line9[0].f1_023[0]",
+			"type":"text"
+		},
+		"L9f":{
+			"fdf":"topmostSubform[0].Page1[0].TablePartII[0].Line9[0].f1_024[0]",
+			"type":"text"
+		},
+		"L9g":{
+			"fdf":"topmostSubform[0].Page1[0].TablePartII[0].Line9[0].f1_025[0]",
+			"type":"text"
+		},
+		"L9h":{
+			"fdf":"topmostSubform[0].Page1[0].TablePartII[0].Line9[0].f1_026[0]",
+			"type":"text"
+		},
+		"L10e":{
+			"fdf":"topmostSubform[0].Page1[0].TablePartII[0].Line10[0].f1_027[0]",
+			"type":"text"
+		},
+		"L10f":{
+			"fdf":"topmostSubform[0].Page1[0].TablePartII[0].Line10[0].f1_028[0]",
+			"type":"text"
+		},
+		"L10g":{
+			"fdf":"topmostSubform[0].Page1[0].TablePartII[0].Line10[0].f1_029[0]",
+			"type":"text"
+		},
+		"L10h":{
+			"fdf":"topmostSubform[0].Page1[0].TablePartII[0].Line10[0].f1_030[0]",
+			"type":"text"
+		},
+		"L11":{
+			"fdf":"topmostSubform[0].Page1[0].f1_031[0]",
+			"type":"text"
+		},
+		"L12":{
+			"fdf":"topmostSubform[0].Page1[0].f1_032[0]",
+			"type":"text"
+		},
+		"L13":{
+			"fdf":"topmostSubform[0].Page1[0].f1_033[0]",
+			"type":"text"
+		},
+		"L14":{
+			"fdf":"topmostSubform[0].Page1[0].f1_034[0]",
+			"type":"text"
+		},
+		"L15":{
+			"fdf":"topmostSubform[0].Page1[0].f1_035[0]",
+			"type":"text"
+		},
+		"L16":{
+			"fdf":"topmostSubform[0].Page2[0].f2_001[0]",
+			"type":"text"
+		},
+		"L17":{
+			"fdf" : "topmostSubform[0].Page2[0].c2_01_0_[0]",
+			"type" : "checkbox",
+			"options" : {
+				"no" : "No",
+				"yes" : "Yes"
+			}
+		},
+		"L18":{
+			"fdf":"topmostSubform[0].Page2[0].f2_002[0]",
+			"type":"text"
+		},
+		"L19":{
+			"fdf":"topmostSubform[0].Page2[0].f2_003[0]",
+			"type":"text"
+		},
+		"L20":{
+			"fdf" : "topmostSubform[0].Page2[0].c2_02_0_[0]",
+			"type" : "checkbox",
+			"options" : {
+				"no" : "No",
+				"yes" : "Yes"
+			}
+		},
+		"L21":{
+			"fdf":"topmostSubform[0].Page2[0].f2_005[0]",
+			"type":"text"
+		},
+		"L22":{
+			"fdf" : "topmostSubform[0].Page2[0].c2_03_0_[0]",
+			"type" : "checkbox",
+			"options" : {
+				"no" : "No",
+				"yes" : "Yes"
+			}
+		}
+	}
+}
