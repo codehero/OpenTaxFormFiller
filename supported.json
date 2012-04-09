@@ -76,7 +76,7 @@
 		}
 		"f1040sse" : {
 			"parts": {
-				"Section A" : null,
+				"Section A" : "COMPLETE",
 				"Part I" : null,
 				"Part II" : null
 			}
