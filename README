@@ -4,11 +4,8 @@ Users of OpenTaxSolver will be delighted to know that there is a utility to impo
 
 Forms support:
 The major pain in supporting forms is in mapping Line Numbers to PDF input fields.
-I am still at the stage of writing transformation files, though at least one is at complete as of now.
+I have gone as far as I will go in characterizing US Federal forms.
 Please see supported.json to see current forms support.
-
-I could use some MAJOR ASSISTANCE in characterizing the forms!
-If you are interested in using/helping, please fork and see Design.txt.
 
 Dependencies:
 
@@ -36,6 +33,7 @@ node ./script/json_ots.js FILENAME > OUTPUT_FILE.json
 TODO (besides form support):
 -Better error checking in scripts
 -Better testing on OTS output.
+-Create bat ports of bash scripts
 
 Notes:
  The numbers in the examples directory should be taken as bogus.
