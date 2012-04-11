@@ -1,7 +1,7 @@
 var util = require("util");
 var fs = require("fs");
 
-if(process.argv.length < 4){
+if(process.argv.length < 3){
 	util.debug(
 		"Invocation:\n" +
 		"node SCRIPT INPUT.JSON\n" +
