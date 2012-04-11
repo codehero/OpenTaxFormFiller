@@ -5,12 +5,12 @@
 <</T(product or service)/V(F3)>>
 <</T(Business Name)/V(F4)>>
 <</T(Employer Identification Number)/V(F5)>>
-<</T(Business address (number &amp; street))/V(F6)>>
+<</T(Business address (number & street))/V(F6)>>
 <</T(City, State and Zip Code)/V(F7)>>
 <</T(Sales Tax License Number (if applicable))/V(F9)>>
 <</T(Federal NAICS Code)/V(Fd)>>
 <</T(1. a Gross receipts or sales)/V(Ff)>>
-<</T(1. b. Returns &amp; allowances)/V(F10)>>
+<</T(1. b. Returns & allowances)/V(F10)>>
 <</T(1. c. Balance)/V(F11)>>
 <</T(1. Total Section 179 depreciation)/V(F12)>>
 <</T(2. Cost)/V(F13)>>
@@ -105,31 +105,31 @@
 <</T(3. Balance (Subtract Line 2 from Line 1))/V(F6c)>>
 <</T(3. (c) Totals)/V(F6d)>>
 <</T(4. Other Income. Include interest)/V(F6e)>>
-<</T(4. Materials &amp; supplies)/V(F6f)>>
+<</T(4. Materials & supplies)/V(F6f)>>
 <</T(5. Total Income)/V(F70)>>
 <</T(5. Other costs)/V(F71)>>
 <</T(6. Advertising)/V(F72)>>
-<</T(6. Add Lines 1, 2c, 3, 4, &amp;  5)/V(F73)>>
+<</T(6. Add Lines 1, 2c, 3, 4, &  5)/V(F73)>>
 <</T(7. Amortization)/V(F74)>>
 <</T(7. Inventory at end of year)/V(F75)>>
 <</T(8. Bad Debts from sales or services)/V(F76)>>
 <</T(8. Cost of goods sold and or operations)/V(F77)>>
 <</T(9. Bank charges)/V(F78)>>
-<</T(10. Car &amp; truck expenses)/V(F79)>>
+<</T(10. Car & truck expenses)/V(F79)>>
 <</T(11. Commissions)/V(F7a)>>
 <</T(12. Cost Depletion)/V(F7b)>>
 <</T(13a. Regular Depreciation)/V(F7c)>>
 <</T(13b. Section 179 expense)/V(F7d)>>
-<</T(14. Dues &amp; publications)/V(F7e)>>
+<</T(14. Dues & publications)/V(F7e)>>
 <</T(15. Employee benefit programs other than on Line 23)/V(F7f)>>
 <</T(16. Freight)/V(F80)>>
 <</T(17. Insurance)/V(F81)>>
 <</T(18. Interest on business indebtedness)/V(F82)>>
-<</T(19.  Laundry &amp; cleaning)/V(F83)>>
-<</T(20. Legal &amp; professional services)/V(F84)>>
+<</T(19.  Laundry & cleaning)/V(F83)>>
+<</T(20. Legal & professional services)/V(F84)>>
 <</T(21. Management fees)/V(F85)>>
 <</T(22. Office supplies)/V(F86)>>
-<</T(23. Pension &amp; profit-sharing plans)/V(F87)>>
+<</T(23. Pension & profit-sharing plans)/V(F87)>>
 <</T(24. Postage)/V(F88)>>
 <</T(25. Rent on business property)/V(F89)>>
 <</T(26. Repairs)/V(F8a)>>
@@ -163,7 +163,7 @@
 <</T(34 k. Other expenses (specify))/V(Fa6)>>
 <</T(34 k. Other expenses/amount)/V(Fa7)>>
 <</T(34. Total other expenses)/V(Fa8)>>
-<</T(35&#9;Total Expenses. Add Lines 6 through 34)/V(Fa9)>>
+<</T(35	Total Expenses. Add Lines 6 through 34)/V(Fa9)>>
 <</T(36. Reduce expenses by the total business credits claimed on your PA-40)/V(Faa)>>
 <</T(37. Total Adjusted Expenses deductions. Subtract Line 36 from Line 35)/V(Fab)>>
 <</T(38. Net profit or loss (subtract Line 37 from Line 5))/V(Fad)>>

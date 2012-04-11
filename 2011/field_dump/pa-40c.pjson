@@ -19,7 +19,7 @@
 "type":"text"
 },
 "F6":{
-"fdf":"Business address (number &amp; street)",
+"fdf":"Business address (number & street)",
 "type":"text"
 },
 "F7":{
@@ -39,7 +39,7 @@
 "type":"text"
 },
 "F10":{
-"fdf":"1. b. Returns &amp; allowances",
+"fdf":"1. b. Returns & allowances",
 "type":"text"
 },
 "F11":{
@@ -419,7 +419,7 @@
 "type":"text"
 },
 "F6f":{
-"fdf":"4. Materials &amp; supplies",
+"fdf":"4. Materials & supplies",
 "type":"text"
 },
 "F70":{
@@ -435,7 +435,7 @@
 "type":"text"
 },
 "F73":{
-"fdf":"6. Add Lines 1, 2c, 3, 4, &amp;  5",
+"fdf":"6. Add Lines 1, 2c, 3, 4, &  5",
 "type":"text"
 },
 "F74":{
@@ -459,7 +459,7 @@
 "type":"text"
 },
 "F79":{
-"fdf":"10. Car &amp; truck expenses",
+"fdf":"10. Car & truck expenses",
 "type":"text"
 },
 "F7a":{
@@ -479,7 +479,7 @@
 "type":"text"
 },
 "F7e":{
-"fdf":"14. Dues &amp; publications",
+"fdf":"14. Dues & publications",
 "type":"text"
 },
 "F7f":{
@@ -499,11 +499,11 @@
 "type":"text"
 },
 "F83":{
-"fdf":"19.  Laundry &amp; cleaning",
+"fdf":"19.  Laundry & cleaning",
 "type":"text"
 },
 "F84":{
-"fdf":"20. Legal &amp; professional services",
+"fdf":"20. Legal & professional services",
 "type":"text"
 },
 "F85":{
@@ -515,7 +515,7 @@
 "type":"text"
 },
 "F87":{
-"fdf":"23. Pension &amp; profit-sharing plans",
+"fdf":"23. Pension & profit-sharing plans",
 "type":"text"
 },
 "F88":{
@@ -651,7 +651,7 @@
 "type":"text"
 },
 "Fa9":{
-"fdf":"35&#9;Total Expenses. Add Lines 6 through 34",
+"fdf":"35	Total Expenses. Add Lines 6 through 34",
 "type":"text"
 },
 "Faa":{

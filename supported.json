@@ -98,9 +98,9 @@
 		},
 		"pa-40c" : {
 			"parts": {
-				"Info" : null,
-				"Part I" : null,
-				"Part II" : null,
+				"Info" : "COMPLETED",
+				"Part I" : "COMPLETED",
+				"Part II" : "COMPLETED",
 				"C-1" : null,
 				"C-2" : null
 			}

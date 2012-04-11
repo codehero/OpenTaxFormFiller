@@ -37,8 +37,8 @@ FieldJustification: Left
 FieldMaxLength: 11
 ---
 FieldType: Text
-FieldName: Business address (number &amp; street)
-FieldNameAlt: Business address (number &amp; street)
+FieldName: Business address (number & street)
+FieldNameAlt: Business address (number & street)
 FieldFlags: 12582914
 FieldJustification: Left
 ---
@@ -131,8 +131,8 @@ FieldJustification: Right
 FieldMaxLength: 10
 ---
 FieldType: Text
-FieldName: 1. b. Returns &amp; allowances
-FieldNameAlt: Returns &amp; allowances
+FieldName: 1. b. Returns & allowances
+FieldNameAlt: Returns & allowances
 FieldFlags: 12582912
 FieldJustification: Right
 FieldMaxLength: 10
@@ -779,8 +779,8 @@ FieldJustification: Right
 FieldMaxLength: 10
 ---
 FieldType: Text
-FieldName: 4. Materials &amp; supplies
-FieldNameAlt: Materials &amp; supplies
+FieldName: 4. Materials & supplies
+FieldNameAlt: Materials & supplies
 FieldFlags: 12582912
 FieldJustification: Right
 FieldMaxLength: 10
@@ -807,8 +807,8 @@ FieldJustification: Right
 FieldMaxLength: 10
 ---
 FieldType: Text
-FieldName: 6. Add Lines 1, 2c, 3, 4, &amp;  5
-FieldNameAlt: Add Lines 1, 2c, 3, 4, &amp;  5
+FieldName: 6. Add Lines 1, 2c, 3, 4, &  5
+FieldNameAlt: Add Lines 1, 2c, 3, 4, &  5
 FieldFlags: 12582912
 FieldJustification: Right
 FieldMaxLength: 10
@@ -849,8 +849,8 @@ FieldJustification: Right
 FieldMaxLength: 10
 ---
 FieldType: Text
-FieldName: 10. Car &amp; truck expenses
-FieldNameAlt: Car &amp; truck expenses
+FieldName: 10. Car & truck expenses
+FieldNameAlt: Car & truck expenses
 FieldFlags: 12582912
 FieldJustification: Right
 FieldMaxLength: 10
@@ -884,8 +884,8 @@ FieldJustification: Right
 FieldMaxLength: 10
 ---
 FieldType: Text
-FieldName: 14. Dues &amp; publications
-FieldNameAlt: Dues &amp; publications
+FieldName: 14. Dues & publications
+FieldNameAlt: Dues & publications
 FieldFlags: 12582912
 FieldJustification: Right
 FieldMaxLength: 10
@@ -919,15 +919,15 @@ FieldJustification: Right
 FieldMaxLength: 10
 ---
 FieldType: Text
-FieldName: 19.  Laundry &amp; cleaning
-FieldNameAlt: Laundry &amp; cleaning
+FieldName: 19.  Laundry & cleaning
+FieldNameAlt: Laundry & cleaning
 FieldFlags: 12582912
 FieldJustification: Right
 FieldMaxLength: 10
 ---
 FieldType: Text
-FieldName: 20. Legal &amp; professional services
-FieldNameAlt: Legal &amp; professional services
+FieldName: 20. Legal & professional services
+FieldNameAlt: Legal & professional services
 FieldFlags: 12582912
 FieldJustification: Right
 FieldMaxLength: 10
@@ -947,8 +947,8 @@ FieldJustification: Right
 FieldMaxLength: 10
 ---
 FieldType: Text
-FieldName: 23. Pension &amp; profit-sharing plans
-FieldNameAlt: Pension &amp; profit-sharing plans
+FieldName: 23. Pension & profit-sharing plans
+FieldNameAlt: Pension & profit-sharing plans
 FieldFlags: 12582912
 FieldJustification: Right
 FieldMaxLength: 10
@@ -1185,7 +1185,7 @@ FieldJustification: Right
 FieldMaxLength: 10
 ---
 FieldType: Text
-FieldName: 35&#9;Total Expenses. Add Lines 6 through 34
+FieldName: 35	Total Expenses. Add Lines 6 through 34
 FieldNameAlt: Total Expenses. Add Lines 6 through 34.
 FieldFlags: 12582912
 FieldJustification: Right
