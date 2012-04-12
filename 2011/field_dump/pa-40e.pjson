@@ -151,35 +151,35 @@
 "type":"text"
 },
 "F2f":{
-"fdf":"2. 1.&#9;Rent received",
+"fdf":"2. 1.	Rent received",
 "type":"text"
 },
 "F30":{
-"fdf":"2. 2.&#9;Royalties received",
+"fdf":"2. 2.	Royalties received",
 "type":"text"
 },
 "F31":{
-"fdf":"2. 3.&#9;Advertising",
+"fdf":"2. 3.	Advertising",
 "type":"text"
 },
 "F32":{
-"fdf":"2. 5.&#9;Cleaning and maintenance",
+"fdf":"2. 5.	Cleaning and maintenance",
 "type":"text"
 },
 "F33":{
-"fdf":"2. 6.&#9;Commissions",
+"fdf":"2. 6.	Commissions",
 "type":"text"
 },
 "F34":{
-"fdf":"2. 7.&#9;Insurance",
+"fdf":"2. 7.	Insurance",
 "type":"text"
 },
 "F35":{
-"fdf":"2. 8.&#9;Legal and professional fees",
+"fdf":"2. 8.	Legal and professional fees",
 "type":"text"
 },
 "F36":{
-"fdf":"2. 9.&#9;Management fees",
+"fdf":"2. 9.	Management fees",
 "type":"text"
 },
 "F37":{
@@ -187,7 +187,7 @@
 "type":"text"
 },
 "F38":{
-"fdf":"2.11.&#9;Other interest",
+"fdf":"2.11.	Other interest",
 "type":"text"
 },
 "F39":{
@@ -203,7 +203,7 @@
 "type":"text"
 },
 "F3c":{
-"fdf":"2.15.&#9;Utilities",
+"fdf":"2.15.	Utilities",
 "type":"text"
 },
 "F3d":{
@@ -219,7 +219,7 @@
 "type":"text"
 },
 "F40":{
-"fdf":"2.19.&#9;Income - Subtract Line 18 from Line 1 or 2",
+"fdf":"2.19.	Income - Subtract Line 18 from Line 1 or 2",
 "type":"text"
 },
 "F42":{
@@ -227,7 +227,7 @@
 "type":"text"
 },
 "F43":{
-"fdf":"2 4.&#9;Automobile and travel",
+"fdf":"2 4.	Automobile and travel",
 "type":"text"
 },
 "F44":{
@@ -243,43 +243,43 @@
 "type":"text"
 },
 "F47":{
-"fdf":"3. 1.&#9;Rent received",
+"fdf":"3. 1.	Rent received",
 "type":"text"
 },
 "F48":{
-"fdf":"3. 2.&#9;Royalties received",
+"fdf":"3. 2.	Royalties received",
 "type":"text"
 },
 "F49":{
-"fdf":"3. 3.&#9;Advertising",
+"fdf":"3. 3.	Advertising",
 "type":"text"
 },
 "F4a":{
-"fdf":"3. 4.&#9;Automobile and travel",
+"fdf":"3. 4.	Automobile and travel",
 "type":"text"
 },
 "F4b":{
-"fdf":"3. 5.&#9;Cleaning and maintenance",
+"fdf":"3. 5.	Cleaning and maintenance",
 "type":"text"
 },
 "F4c":{
-"fdf":"3. 6.&#9;Commissions",
+"fdf":"3. 6.	Commissions",
 "type":"text"
 },
 "F4d":{
-"fdf":"3. 7.&#9;Insurance",
+"fdf":"3. 7.	Insurance",
 "type":"text"
 },
 "F4e":{
-"fdf":"3. 9.&#9;Management fees",
+"fdf":"3. 9.	Management fees",
 "type":"text"
 },
 "F4f":{
-"fdf":"3. 10.&#9;mortgage interest",
+"fdf":"3. 10.	mortgage interest",
 "type":"text"
 },
 "F50":{
-"fdf":"3.11.&#9;Other interest",
+"fdf":"3.11.	Other interest",
 "type":"text"
 },
 "F51":{
@@ -295,7 +295,7 @@
 "type":"text"
 },
 "F54":{
-"fdf":"3.15.&#9;Utilities",
+"fdf":"3.15.	Utilities",
 "type":"text"
 },
 "F55":{
@@ -311,7 +311,7 @@
 "type":"text"
 },
 "F58":{
-"fdf":"3.19.&#9;Income - Subtract Line 18 from Line 1 or 2",
+"fdf":"3.19.	Income - Subtract Line 18 from Line 1 or 2",
 "type":"text"
 },
 "F5a":{
@@ -319,7 +319,7 @@
 "type":"text"
 },
 "F5b":{
-"fdf":"3 8.&#9;Legal and professional fees",
+"fdf":"3 8.	Legal and professional fees",
 "type":"text"
 },
 "F5c":{

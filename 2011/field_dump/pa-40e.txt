@@ -240,7 +240,7 @@ FieldMaxLength: 8
 ---
 FieldType: Text
 FieldName: 1. 18. Total expenses - Add Lines 3 through 17
-FieldNameAlt: Total expenses &#8211; Add Lines 3 through 17
+FieldNameAlt: Total expenses – Add Lines 3 through 17
 FieldFlags: 12582912
 FieldJustification: Right
 FieldMaxLength: 8
@@ -255,7 +255,7 @@ FieldStateOption: Off
 ---
 FieldType: Text
 FieldName: 1. 20. Loss - Subtract Line 1 or 2 from Line 18
-FieldNameAlt: Loss &#8211; Subtract Line 1 or 2 from Line 18
+FieldNameAlt: Loss – Subtract Line 1 or 2 from Line 18
 FieldFlags: 12582912
 FieldJustification: Right
 FieldMaxLength: 8
@@ -297,7 +297,7 @@ FieldMaxLength: 8
 ---
 FieldType: Text
 FieldName: 1. 19. Income - Subtract Line 18 from Line 1 or 2
-FieldNameAlt: Income &#8211; Subtract Line 18 from Line 1 or 2
+FieldNameAlt: Income – Subtract Line 18 from Line 1 or 2
 FieldFlags: 12582912
 FieldJustification: Right
 FieldMaxLength: 8
@@ -327,56 +327,56 @@ FieldFlags: 12582912
 FieldJustification: Left
 ---
 FieldType: Text
-FieldName: 2. 1.&#9;Rent received
+FieldName: 2. 1.	Rent received
 FieldNameAlt: Rent received
 FieldFlags: 12582912
 FieldJustification: Right
 FieldMaxLength: 8
 ---
 FieldType: Text
-FieldName: 2. 2.&#9;Royalties received
+FieldName: 2. 2.	Royalties received
 FieldNameAlt: Royalties received
 FieldFlags: 12582912
 FieldJustification: Right
 FieldMaxLength: 8
 ---
 FieldType: Text
-FieldName: 2. 3.&#9;Advertising
+FieldName: 2. 3.	Advertising
 FieldNameAlt: Advertising
 FieldFlags: 12582912
 FieldJustification: Right
 FieldMaxLength: 8
 ---
 FieldType: Text
-FieldName: 2. 5.&#9;Cleaning and maintenance
+FieldName: 2. 5.	Cleaning and maintenance
 FieldNameAlt: Cleaning and maintenance
 FieldFlags: 12582912
 FieldJustification: Right
 FieldMaxLength: 8
 ---
 FieldType: Text
-FieldName: 2. 6.&#9;Commissions
+FieldName: 2. 6.	Commissions
 FieldNameAlt: Commissions
 FieldFlags: 12582912
 FieldJustification: Right
 FieldMaxLength: 8
 ---
 FieldType: Text
-FieldName: 2. 7.&#9;Insurance
+FieldName: 2. 7.	Insurance
 FieldNameAlt: Insurance
 FieldFlags: 12582912
 FieldJustification: Right
 FieldMaxLength: 8
 ---
 FieldType: Text
-FieldName: 2. 8.&#9;Legal and professional fees
+FieldName: 2. 8.	Legal and professional fees
 FieldNameAlt: Legal and professional fees
 FieldFlags: 12582912
 FieldJustification: Right
 FieldMaxLength: 8
 ---
 FieldType: Text
-FieldName: 2. 9.&#9;Management fees
+FieldName: 2. 9.	Management fees
 FieldNameAlt: Management fees
 FieldFlags: 12582912
 FieldJustification: Right
@@ -390,7 +390,7 @@ FieldJustification: Right
 FieldMaxLength: 8
 ---
 FieldType: Text
-FieldName: 2.11.&#9;Other interest
+FieldName: 2.11.	Other interest
 FieldNameAlt: Other interest
 FieldFlags: 12582912
 FieldJustification: Right
@@ -418,7 +418,7 @@ FieldJustification: Right
 FieldMaxLength: 8
 ---
 FieldType: Text
-FieldName: 2.15.&#9;Utilities
+FieldName: 2.15.	Utilities
 FieldNameAlt: Utilities
 FieldFlags: 12582912
 FieldJustification: Right
@@ -440,14 +440,14 @@ FieldMaxLength: 8
 ---
 FieldType: Text
 FieldName: 2. 18. Total expenses - Add Lines 3 through 17
-FieldNameAlt: Total expenses &#8211; Add Lines 3 through 17
+FieldNameAlt: Total expenses – Add Lines 3 through 17
 FieldFlags: 12582912
 FieldJustification: Right
 FieldMaxLength: 8
 ---
 FieldType: Text
-FieldName: 2.19.&#9;Income - Subtract Line 18 from Line 1 or 2
-FieldNameAlt: Income &#8211; Subtract Line 18 from Line 1 or 2
+FieldName: 2.19.	Income - Subtract Line 18 from Line 1 or 2
+FieldNameAlt: Income – Subtract Line 18 from Line 1 or 2
 FieldFlags: 12582912
 FieldJustification: Right
 FieldMaxLength: 8
@@ -462,13 +462,13 @@ FieldStateOption: Off
 ---
 FieldType: Text
 FieldName: 2. 20. Loss - Subtract Line 1 or 2 from Line 18
-FieldNameAlt: Loss &#8211; Subtract Line 1 or 2 from Line 18
+FieldNameAlt: Loss – Subtract Line 1 or 2 from Line 18
 FieldFlags: 12582912
 FieldJustification: Right
 FieldMaxLength: 8
 ---
 FieldType: Text
-FieldName: 2 4.&#9;Automobile and travel
+FieldName: 2 4.	Automobile and travel
 FieldNameAlt: Automobile and travel
 FieldFlags: 12582912
 FieldJustification: Right
@@ -511,70 +511,70 @@ FieldFlags: 0
 FieldJustification: Left
 ---
 FieldType: Text
-FieldName: 3. 1.&#9;Rent received
+FieldName: 3. 1.	Rent received
 FieldNameAlt: Rent received
 FieldFlags: 12582912
 FieldJustification: Right
 FieldMaxLength: 8
 ---
 FieldType: Text
-FieldName: 3. 2.&#9;Royalties received
+FieldName: 3. 2.	Royalties received
 FieldNameAlt: Royalties received
 FieldFlags: 12582912
 FieldJustification: Right
 FieldMaxLength: 8
 ---
 FieldType: Text
-FieldName: 3. 3.&#9;Advertising
+FieldName: 3. 3.	Advertising
 FieldNameAlt: Advertising
 FieldFlags: 12582912
 FieldJustification: Right
 FieldMaxLength: 8
 ---
 FieldType: Text
-FieldName: 3. 4.&#9;Automobile and travel
+FieldName: 3. 4.	Automobile and travel
 FieldNameAlt: Automobile and travel
 FieldFlags: 12582912
 FieldJustification: Right
 FieldMaxLength: 8
 ---
 FieldType: Text
-FieldName: 3. 5.&#9;Cleaning and maintenance
+FieldName: 3. 5.	Cleaning and maintenance
 FieldNameAlt: Cleaning and maintenance
 FieldFlags: 12582912
 FieldJustification: Right
 FieldMaxLength: 8
 ---
 FieldType: Text
-FieldName: 3. 6.&#9;Commissions
+FieldName: 3. 6.	Commissions
 FieldNameAlt: Commissions
 FieldFlags: 12582912
 FieldJustification: Right
 FieldMaxLength: 8
 ---
 FieldType: Text
-FieldName: 3. 7.&#9;Insurance
+FieldName: 3. 7.	Insurance
 FieldNameAlt: Insurance
 FieldFlags: 12582912
 FieldJustification: Right
 FieldMaxLength: 8
 ---
 FieldType: Text
-FieldName: 3. 9.&#9;Management fees
+FieldName: 3. 9.	Management fees
 FieldNameAlt: Management fees
 FieldFlags: 12582912
 FieldJustification: Right
 FieldMaxLength: 8
 ---
 FieldType: Text
-FieldName: 3. 10.&#9;mortgage interest
+FieldName: 3. 10.	mortgage interest
 FieldNameAlt: Mortgage interest
 FieldFlags: 12582912
 FieldJustification: Right
 FieldMaxLength: 8
 ---
 FieldType: Text
-FieldName: 3.11.&#9;Other interest
+FieldName: 3.11.	Other interest
 FieldNameAlt: Other interest
 FieldFlags: 12582912
 FieldJustification: Right
@@ -602,7 +602,7 @@ FieldJustification: Right
 FieldMaxLength: 8
 ---
 FieldType: Text
-FieldName: 3.15.&#9;Utilities
+FieldName: 3.15.	Utilities
 FieldNameAlt: Utilities
 FieldFlags: 12582912
 FieldJustification: Right
@@ -624,14 +624,14 @@ FieldMaxLength: 8
 ---
 FieldType: Text
 FieldName: 3. 18. Total expenses - Add Lines 3 through 17
-FieldNameAlt: Total expenses &#8211; Add Lines 3 through 17
+FieldNameAlt: Total expenses – Add Lines 3 through 17
 FieldFlags: 12582912
 FieldJustification: Right
 FieldMaxLength: 8
 ---
 FieldType: Text
-FieldName: 3.19.&#9;Income - Subtract Line 18 from Line 1 or 2
-FieldNameAlt: Income &#8211; Subtract Line 18 from Line 1 or 2
+FieldName: 3.19.	Income - Subtract Line 18 from Line 1 or 2
+FieldNameAlt: Income – Subtract Line 18 from Line 1 or 2
 FieldFlags: 12582912
 FieldJustification: Right
 FieldMaxLength: 8
@@ -646,13 +646,13 @@ FieldStateOption: Off
 ---
 FieldType: Text
 FieldName: 3. 20. Loss - Subtract Line 1 or 2 from Line 18
-FieldNameAlt: Loss &#8211; Subtract Line 1 or 2 from Line 18
+FieldNameAlt: Loss – Subtract Line 1 or 2 from Line 18
 FieldFlags: 12582912
 FieldJustification: Right
 FieldMaxLength: 8
 ---
 FieldType: Text
-FieldName: 3 8.&#9;Legal and professional fees
+FieldName: 3 8.	Legal and professional fees
 FieldNameAlt: Legal and professional fees
 FieldFlags: 12582912
 FieldJustification: Right
