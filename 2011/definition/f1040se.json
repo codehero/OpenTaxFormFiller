@@ -2,6 +2,8 @@
 	"form" : "1040se",
 	"year" : 2011,
 	"fields" : {
+		"A" : "Choice",
+		"B" : "Choice",
 		"L1A": "Text",
 		"L1A_Type": "Integer",
 

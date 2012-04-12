@@ -15,6 +15,22 @@
 			"fdf":"topmostSubform[0].Page1[0].p1-t2[0]",
 			"type":"text"
 		},
+		"A" : {
+			"fdf" : "topmostSubform[0].Page1[0].c1_01[0]",
+			"type" : "checkbox",
+			"options" : {
+				"no" : "No",
+				"yes" : "Yes"
+			}
+		},
+		"B" : {
+			"fdf" : "topmostSubform[0].Page1[0].c1_03[0]",
+			"type" : "checkbox",
+			"options" : {
+				"no" : "No",
+				"yes" : "Yes"
+			}
+		},
 		"L1A":{
 			"fdf":"topmostSubform[0].Page1[0].Pg1Table1[0].a[0].p1-t5[0]",
 			"type":"text"
