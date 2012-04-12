@@ -26,15 +26,28 @@ for(col in totals){
 			throw new Error("Line 3a is supposed to be 0!");
 
 	/* Copy L3b to L4 */
-	inputData["L4" + col] = inputData["L3b" + col];
+	id = "L3b" + col;
+	if(id in inputData)
+		inputData["L4" + col] = inputData[id];
 }
 
-for(var i = 5; i < 20; ++i){
-	for(col in totals){
+for(col in totals){
+	/* Scale by business use. */
+	var scalar = (("BizUse" + col) in inputData) ?
+		inputData["BizUse" + col] : 1.0;
+	for(var i = 5; i < 20; ++i){
 		var id = "L" + i + col;
-		if(id in inputData)
+		if(id in inputData){
+			/* HACK not scaling depreciation */
+			if(i != 18)
+				inputData[id] *= scalar;
 			totals[col] += inputData[id];
+		}
 	}
+
+	/* Remove from output. */
+	if(("BizUse" + col) in inputData)
+		delete inputData["BizUse" + col];
 }
 
 for(col in totals){
@@ -70,7 +83,11 @@ inputData["L23f"] =
 	(("L18B" in inputData) ? inputData["L18B"] : 0) +
 	(("L18C" in inputData) ? inputData["L18C"] : 0);
 
-inputData["L23g"] = inputData["L20A"] + inputData["L20B"] + inputData["L20C"];
+inputData["L23g"] = 
+	(("L20A" in inputData) ? inputData["L20A"] : 0) +
+	(("L20B" in inputData) ? inputData["L20B"] : 0) +
+	(("L20C" in inputData) ? inputData["L20C"] : 0);
+
 
 inputData["L24"] = 0;
 for(col in totals){
@@ -83,7 +100,7 @@ for(col in totals){
 inputData["L25"] = 0;
 for(col in totals){
 	var id = "L22" + col;
-	if((id in inputData) && inputData[id] > 0)
+	if((id in inputData))
 		inputData["L25"] += inputData[id];
 }
 
