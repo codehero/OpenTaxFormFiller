@@ -1,6 +1,10 @@
 var fs = require("fs");
 var util = require("util");
 
+/* Accept line prefix parameter. */
+var prefix = "L";
+if(process.argv[3])
+	prefix = process.argv[3];
 
 fs.readFile(process.argv[2], "utf8", function(err, data){
 	if(err)
@@ -12,7 +16,7 @@ fs.readFile(process.argv[2], "utf8", function(err, data){
 	var lines = data.split("\n");
 	lines.forEach(function(line){
 		/* Skip blank lines or lines without 'L' at beginning. */
-		if(!line.length || line.charAt(0) != "L")
+		if(!line.length || line.charAt(0) != prefix.charAt(0))
 			return;
 
 		/* Make sure there is an '=' sign */
