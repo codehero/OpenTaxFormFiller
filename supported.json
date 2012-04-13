@@ -102,8 +102,8 @@
 		},
 		"pa-40a-b" : {
 			"parts": {
-				"Schedule A" : null,
-				"Schedule B" : null
+				"Schedule A" : "COMPLETE",
+				"Schedule B" : "COMPLETE"
 			}
 		},
 		"pa-40c" : {
@@ -117,13 +117,13 @@
 		},
 		"pa-40d" : {
 			"parts": {
-				"Page 1" : null
+				"Page 1" : "COMPLETE",
 			}
 		},
 		"pa-40e" : {
 			"parts": {
-				"Part A" : null,
-				"Part B" : null
+				"Part A" : "COMPLETE",
+				"Part B" : "COMPLETE"
 			}
 		}
 	}
