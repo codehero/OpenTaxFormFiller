@@ -1,10 +1,10 @@
 {
-	"form" : "1040sa",
-	"title" : "Itemized Deductions",
+	"form" : "pa-40c",
+	"title" : "Profit or Loss from Business",
 	"year" : 2011,
 	"pdfSum" : {
 		"type" : "MD5",
-		"sum" : "14e7bf6569069996dd146d07eb410e07"
+		"sum" : "0127c880d912dc42818f4b1ee4501125"
 	},
 	"sequence" : 7,
 	"fields":{
