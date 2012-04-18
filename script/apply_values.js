@@ -47,8 +47,8 @@ for(lineID in data){
 		case "Number":
 			var i = parseFloat(v);
 			if(isNaN(i))
-				throw new Error(lineID +" is not a percent!");
-			output.push(composeTextField(xform.fdf, v));
+				throw new Error(lineID +" is not a number!");
+			output.push(composeTextField(xform.fdf, i.toFixed(2)));
 			break;
 
 		case "Amount":
