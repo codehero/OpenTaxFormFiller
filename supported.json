@@ -95,9 +95,9 @@
 		},
 		"pa-40" : {
 			"parts": {
-				"Personal Info" : null,
-				"Lines 1 - 11" : null,
-				"Page 2" : null
+				"Personal Info" : "COMPLETE",
+				"Lines 1 - 11" : "COMPLETE",
+				"Page 2" : "COMPLETE"
 			}
 		},
 		"pa-40a-b" : {

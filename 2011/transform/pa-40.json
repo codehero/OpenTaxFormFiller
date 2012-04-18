@@ -1,0 +1,384 @@
+{
+	"form" : "pa-40",
+	"title" : "Pennsylvania Income Tax Return",
+	"year" : 2011,
+	"pdfSum" : {
+		"type" : "MD5",
+		"sum" : "275f758dc3b9b9d60d502bb89391f936"
+	},
+	"sequence" : 7,
+	"fields":{
+		"Spouse_SSN":{
+			"fdf":"Enter SSN of spouse without dashes or spaces",
+			"type":"text"
+		},
+		"LastName":{
+			"fdf":"Use all caps to enter taxpayer's last name",
+			"type":"text"
+		},
+		"Suffix":{
+			"fdf":"Use all caps to enter suffixes such as JR, SR, III",
+			"type":"text"
+		},
+		"FirstName":{
+			"fdf":"Use all caps to enter taxpayer's first name",
+			"type":"text"
+		},
+		"MiddleInitial":{
+			"fdf":"Your Middle Initial",
+			"type":"text"
+		},
+		"Spouse_FirstName":{
+			"fdf":"Use all caps to enter spouse's first name",
+			"type":"text"
+		},
+		"Spouse_MiddleInitial":{
+			"fdf":"Spouse's Middle Initial",
+			"type":"text"
+		},
+		"Spouse_LastName":{
+			"fdf":"Use all caps to enter spouse's last name if different from above",
+			"type":"text"
+		},
+		"Spouse_Suffix":{
+			"fdf":"Use all caps to enter spouse's suffixes such as JR, SR, III",
+			"type":"text"
+		},
+		"Address_1":{
+			"fdf":"Use all caps to enter First Line of Address",
+			"type":"text"
+		},
+		"Address_2":{
+			"fdf":"Use all caps to enter Second Line of Address",
+			"type":"text"
+		},
+		"City":{
+			"fdf":"Use all caps to enter City or Post Office",
+			"type":"text"
+		},
+		"State":{
+			"fdf":"Use all caps to enter two digit State abbreviation",
+			"type":"text"
+		},
+		"ZIP":{
+			"fdf":"Enter five digit Zip Code",
+			"type":"text"
+		},
+		"DaytimePhone":{
+			"fdf":"Enter Daytime Telephone Number without parenthesis, dashes or spaces",
+			"type":"text"
+		},
+		"SchoolCode":{
+			"fdf":"Enter five digit School Code from list on pags 42 & 43",
+			"type":"text"
+		},
+		"Extension" : {
+			"fdf" : "Extension",
+			"type" : "checkbox",
+			"options":{
+				"yes" : "1"
+			}
+		},
+		"Amended" : {
+			"fdf" : "Amended Return",
+			"type" : "checkbox",
+			"options":{
+				"yes" : "1"
+			}
+		},
+		"Residency" : {
+			"fdf" : "Residency Status",
+			"type" : "checkbox",
+			"options":{
+				"R" : "1",
+				"N" : "2",
+				"P" : "3"
+			}
+		},
+		"FilingStatus" : {
+			"fdf" : "Filing Status",
+			"type" : "checkbox",
+			"options":{
+				"S" : "1",
+				"J" : "2",
+				"M" : "3",
+				"F" : "4",
+				"D" : "5"
+			}
+		},
+		"ID Label Change" : {
+			"fdf" : "Identification Label Change",
+			"type" : "checkbox",
+			"options":{
+				"yes" : "1"
+			}
+		},
+		"Farmers" : {
+			"fdf" : "Farmers",
+			"type" : "checkbox",
+			"options":{
+				"yes" : "0"
+			}
+		},
+		"PartYearFrom":{
+			"fdf":"Part Year Resident from",
+			"type":"text"
+		},
+		"PartYearTo":{
+			"fdf":"Part year resident to",
+			"type":"text"
+		},
+		"FinalReason":{
+			"fdf":"Final Return",
+			"type":"text"
+		},
+		"DateOfDeath":{
+			"fdf":"Date of Death",
+			"type":"text"
+		},
+		"SchoolDistrictName":{
+			"fdf":"Name of School District",
+			"type":"text"
+		},
+		"Occupation":{
+			"fdf":"Your Occupation",
+			"type":"text"
+		},
+		"Spouse_Occupation":{
+			"fdf":"Spouse's occupation",
+			"type":"text"
+		},
+		"L1a":{
+			"fdf":"1a. Gross Compensation",
+			"type":"text"
+		},
+		"L1b":{
+			"fdf":"1b. Unreimbursed Employee Business Expenses",
+			"type":"text"
+		},
+		"L1c":{
+			"fdf":"1c. Net Compensation",
+			"type":"text"
+		},
+		"L2":{
+			"fdf":"2. Interest Income",
+			"type":"text"
+		},
+		"L3":{
+			"fdf":"3. Dividend  and Capital Gains Distributions Income",
+			"type":"text"
+		},
+		"L4":{
+			"fdf":"4. Net Income or Loss from the Operation of a Business, etc",
+			"type":"text"
+		},
+		"L4_Loss" : {
+			"fdf" : "4. Loss",
+			"type" : "checkbox",
+			"options":{
+				"yes" : "none"
+			}
+		},
+		"L5":{
+			"fdf":"5. Net Gain or Loss from Sale, etc. of Property",
+			"type":"text"
+		},
+		"L5_Loss" : {
+			"fdf" : "5. Loss",
+			"type" : "checkbox",
+			"options":{
+				"yes" : "none"
+			}
+		},
+		"L6":{
+			"fdf":"6. Net Income or Loss from Rents, etc",
+			"type":"text"
+		},
+		"L6_Loss" : {
+			"fdf" : "6. Loss",
+			"type" : "checkbox",
+			"options":{
+				"yes" : "none"
+			}
+		},
+		"L7":{
+			"fdf":"7. Estate or Trust income",
+			"type":"text"
+		},
+		"L8":{
+			"fdf":"8. Gambling and Lottery Winnings",
+			"type":"text"
+		},
+		"L9":{
+			"fdf":"9. Total PA Taxable Income",
+			"type":"text"
+		},
+		"L10_Code":{
+			"fdf":"Code",
+			"type":"text"
+		},
+		"L10":{
+			"fdf":"10.  Other Deductions",
+			"type":"text"
+		},
+		"L11":{
+			"fdf":"11. Adjusted PA Taxable Income",
+			"type":"text"
+		},
+		"SSN":{
+			"fdf":"Enter SSN shown first without dashes or spaces",
+			"type":"text"
+		},
+		"Names":{
+			"fdf":"Name(s)",
+			"type":"text"
+		},
+		"L12":{
+			"fdf":"12. PA Tax Liability. Multiply Line 11 by 3.07%",
+			"type":"text"
+		},
+		"L13":{
+			"fdf":"13. Total PA Tax Withheld",
+			"type":"text"
+		},
+		"L14":{
+			"fdf":"14. Credit from your PA Income Tax Return",
+			"type":"text"
+		},
+		"L15":{
+			"fdf":"15. Estimated Installment Payments",
+			"type":"text"
+		},
+		"L16":{
+			"fdf":"16. Extension Payment",
+			"type":"text"
+		},
+		"L17":{
+			"fdf":"17. Nonredsident Tax Withheld",
+			"type":"text"
+		},
+		"L18":{
+			"fdf":"18.Total Estimated Payments and Credits",
+			"type":"text"
+		},
+		"Dependents":{
+			"fdf":"Dependents",
+			"type":"text"
+		},
+		"TaxForgiveness" : {
+			"fdf" : "Tax Forgiveness",
+			"type" : "checkbox",
+			"options":{
+				"Unmarried or Separated" : "1",
+				"Married" : "2",
+				"Deceased" : "3"
+			}
+		},
+		"L20":{
+			"fdf":"20. Total Eligibility Income",
+			"type":"text"
+		},
+		"L21":{
+			"fdf":"21. Tax Forgiveness Credit",
+			"type":"text"
+		},
+		"L22":{
+			"fdf":"22. Resident Credit",
+			"type":"text"
+		},
+		"L23":{
+			"fdf":"23.Total Other Credits",
+			"type":"text"
+		},
+		"L24":{
+			"fdf":"24. Total Payments and Credits",
+			"type":"text"
+		},
+		"L25":{
+			"fdf":"25. USE TAX",
+			"type":"text"
+		},
+		"L26":{
+			"fdf":"26. TAX DUE",
+			"type":"text"
+		},
+		"L27_Code":{
+			"fdf":"27. Code",
+			"type":"text"
+		},
+		"L27_Rev1630" : {
+			"fdf" : "27. REV-1630",
+			"type" : "checkbox",
+			"options":{
+				"yes" : "3"
+			}
+		},
+		"L27":{
+			"fdf":"27.Penalties and Interest",
+			"type":"text"
+		},
+		"L28":{
+			"fdf":"28. TOTAL PAYMENT",
+			"type":"text"
+		},
+		"L29":{
+			"fdf":"29. OVERPAYMENT",
+			"type":"text"
+		},
+		"L30":{
+			"fdf":"30. Refund",
+			"type":"text"
+		},
+		"L31":{
+			"fdf":"31. Credit",
+			"type":"text"
+		},
+		"L32":{
+			"fdf":"32. Donation to Wild Resource Conservation Fund",
+			"type":"text"
+		},
+		"L33":{
+			"fdf":"33. Donation to Military Family Relief Assistance Program",
+			"type":"text"
+		},
+		"L34":{
+			"fdf":"34.  Donation to Organ & Tissue Donation Awareness Trust Fund",
+			"type":"text"
+		},
+		"L35":{
+			"fdf":"35. Donation to Juvenile (Type 1) Diabetes Cure Research Fund",
+			"type":"text"
+		},
+		"L36":{
+			"fdf":"36. Donation to Breast and Cervical Cancer Research Fund",
+			"type":"text"
+		},
+		"SignatureDate":{
+			"fdf":"Date",
+			"type":"text"
+		},
+		"EFileOptout" : {
+			"fdf" : "E-File Opt Out",
+			"type" : "checkbox",
+			"options":{
+				"yes" : "1"
+			}
+		},
+		"Preparer_SSN":{
+			"fdf":"Preparer\u00EAs SSN / PTIN",
+			"type":"text"
+		},
+		"Preparer_Name":{
+			"fdf":"Preparer's Name",
+			"type":"text"
+		},
+		"Preparer_Phone":{
+			"fdf":"Preparer's Telephone Number",
+			"type":"text"
+		},
+		"Firm_FEIN":{
+			"fdf":"Firm FEIN",
+			"type":"text"
+		}
+	}
+}
