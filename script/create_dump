@@ -1,6 +1,6 @@
 #!/bin/bash
 
-YEAR_DIR=2011
+: ${YEAR_DIR:=2012}
 BASE=`basename $1 .pdf`
 FIELD_TXT=${YEAR_DIR}/field_dump/${BASE}.txt
 PJSON=${YEAR_DIR}/field_dump/${BASE}.pjson
