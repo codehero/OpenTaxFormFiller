@@ -1,11 +1,11 @@
 #!/bin/bash
 
-YEARDIR=2011
+: ${YEAR_DIR:=2012}
 FORM=$1
 DATA=$2
 FDF=/tmp/output.fdf
 
-node script/apply_values.js ${YEARDIR}/definition/${FORM}.json \
-	${YEARDIR}/transform/${FORM}.json ${DATA} > /tmp/output.fdf
+node script/apply_values.js ${YEAR_DIR}/definition/${FORM}.json \
+	${YEAR_DIR}/transform/${FORM}.json ${DATA} > /tmp/output.fdf
 
-pdftk ${YEARDIR}/PDF/${FORM}.pdf fill_form ${FDF} output $3
+pdftk ${YEAR_DIR}/PDF/${FORM}.pdf fill_form ${FDF} output $3
