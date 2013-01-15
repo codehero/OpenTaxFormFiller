@@ -121,7 +121,17 @@
 			}
 		},
 		"NY" : {
-			"2012_pa-40e" : {
+			"it201_fill_in" : {
+				"Personal Info" : null,
+				"Lines A-G" : null,
+				"Dependent Exemption" : null,
+				"Federal Income and adjustments" : null,
+				"New York additions" : null,
+				"New York subtractions" : null,
+				"Standard deduction" : null,
+				"Tax computation" : null,
+				"NYC and Yonkers taxes, etc" : null,
+				"Voluntary Contributions" : null
 			}
 		}
 	}
