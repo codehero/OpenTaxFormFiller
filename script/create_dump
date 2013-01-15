@@ -1,11 +1,26 @@
 #!/bin/bash
 
 : ${YEAR_DIR:=2012}
+: ${STATE:=Federal}
+OUTDIR=${YEAR_DIR}/field_dump/${STATE}
+
+echo "Files will be output in ${OUTDIR}"
+
+# verify inputs
+if expr $# '<' 1 > /dev/null; then
+	echo "Usage: ./create_dump PDF_FILE";
+	echo "PDF_FILE must be valid file"
+	echo "If STATE env variable is specified, it must be the two letter code. If no STATE is specified then it is federal.";
+
+	exit 1;
+fi
+
 BASE=`basename $1 .pdf`
-FIELD_TXT=${YEAR_DIR}/field_dump/${BASE}.txt
-PJSON=${YEAR_DIR}/field_dump/${BASE}.pjson
-IDS=${YEAR_DIR}/field_dump/${BASE}.fdf
-ID_PDF=${YEAR_DIR}/field_dump/${BASE}.ID.pdf
+mkdir -p ${OUTDIR}
+FIELD_TXT=${OUTDIR}/${BASE}.txt
+PJSON=${OUTDIR}/${BASE}.pjson
+IDS=${OUTDIR}/${BASE}.fdf
+ID_PDF=${OUTDIR}/${BASE}.ID.pdf
 
 pdftk $1 dump_data_fields_utf8 > ${FIELD_TXT}
 node script/identify_pdf_fields.js ${FIELD_TXT} genIds ${PJSON} > ${IDS}
