@@ -26,16 +26,16 @@
 		"Federal" : {
 			"f1040" : {
 				"parts": {
-					"Personal Info" : "COMPLETED",
-					"Filing Status" : "COMPLETED",
+					"Personal Info" : "WRITTEN",
+					"Filing Status" : "WRITTEN",
 					"Exemptions" : "Only 6(a),6(b),Total",
-					"Income" : "COMPLETED",
-					"AGI" : "COMPLETED",
-					"Tax and Credits" : "COMPLETED",
-					"Other Taxes" : "COMPLETED",
-					"Payments" : "COMPLETED",
-					"Refund" : "COMPLETED",
-					"Amount You Owe" : "COMPLETED",
+					"Income" : "WRITTEN",
+					"AGI" : "WRITTEN",
+					"Tax and Credits" : "WRITTEN",
+					"Other Taxes" : "WRITTEN",
+					"Payments" : "WRITTEN",
+					"Refund" : "WRITTEN",
+					"Amount You Owe" : "WRITTEN",
 					"Sign Here" : null,
 					"Paid Preparer" : null
 				}
