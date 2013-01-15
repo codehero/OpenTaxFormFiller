@@ -1,0 +1,587 @@
+---
+FieldType: Text
+FieldName: form1[0].Page1[0].f1_01[0]
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: form1[0].Page1[0].f1_02[0]
+FieldFlags: 8388608
+FieldJustification: Center
+FieldMaxLength: 11
+---
+FieldType: Text
+FieldName: form1[0].Page1[0].f1-03[0]
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: form1[0].Page1[0].f1-04[0]
+FieldFlags: 8388608
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: form1[0].Page1[0].f1-05[0]
+FieldFlags: 0
+FieldJustification: Right
+FieldMaxLength: 3
+---
+FieldType: Text
+FieldName: form1[0].Page1[0].f1-06[0]
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: form1[0].Page1[0].f1-07[0]
+FieldFlags: 8388608
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: form1[0].Page1[0].f1-08[0]
+FieldFlags: 0
+FieldJustification: Right
+FieldMaxLength: 3
+---
+FieldType: Text
+FieldName: form1[0].Page1[0].f1-09[0]
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: form1[0].Page1[0].f1-10[0]
+FieldFlags: 8388608
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: form1[0].Page1[0].f1-11[0]
+FieldFlags: 0
+FieldJustification: Right
+FieldMaxLength: 3
+---
+FieldType: Text
+FieldName: form1[0].Page1[0].f1-12[0]
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: form1[0].Page1[0].f1-13[0]
+FieldFlags: 8388608
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: form1[0].Page1[0].f1-14[0]
+FieldFlags: 0
+FieldJustification: Right
+FieldMaxLength: 3
+---
+FieldType: Text
+FieldName: form1[0].Page1[0].f1-15[0]
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: form1[0].Page1[0].f1-16[0]
+FieldFlags: 8388608
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: form1[0].Page1[0].f1-17[0]
+FieldFlags: 0
+FieldJustification: Right
+FieldMaxLength: 3
+---
+FieldType: Text
+FieldName: form1[0].Page1[0].f1-18[0]
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: form1[0].Page1[0].f1-19[0]
+FieldFlags: 8388608
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: form1[0].Page1[0].f1-20[0]
+FieldFlags: 0
+FieldJustification: Right
+FieldMaxLength: 3
+---
+FieldType: Text
+FieldName: form1[0].Page1[0].f1-21[0]
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: form1[0].Page1[0].f1-22[0]
+FieldFlags: 8388608
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: form1[0].Page1[0].f1-23[0]
+FieldFlags: 0
+FieldJustification: Right
+FieldMaxLength: 3
+---
+FieldType: Text
+FieldName: form1[0].Page1[0].f1-24[0]
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: form1[0].Page1[0].f1-25[0]
+FieldFlags: 8388608
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: form1[0].Page1[0].f1-26[0]
+FieldFlags: 0
+FieldJustification: Right
+FieldMaxLength: 3
+---
+FieldType: Text
+FieldName: form1[0].Page1[0].f1-27[0]
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: form1[0].Page1[0].f1-28[0]
+FieldFlags: 8388608
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: form1[0].Page1[0].f1-29[0]
+FieldFlags: 0
+FieldJustification: Right
+FieldMaxLength: 3
+---
+FieldType: Text
+FieldName: form1[0].Page1[0].f1-30[0]
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: form1[0].Page1[0].f1-31[0]
+FieldFlags: 8388608
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: form1[0].Page1[0].f1-32[0]
+FieldFlags: 0
+FieldJustification: Right
+FieldMaxLength: 3
+---
+FieldType: Text
+FieldName: form1[0].Page1[0].f1-33[0]
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: form1[0].Page1[0].f1-34[0]
+FieldFlags: 8388608
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: form1[0].Page1[0].f1-35[0]
+FieldFlags: 0
+FieldJustification: Right
+FieldMaxLength: 3
+---
+FieldType: Text
+FieldName: form1[0].Page1[0].f1-36[0]
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: form1[0].Page1[0].f1-37[0]
+FieldFlags: 8388608
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: form1[0].Page1[0].f1-38[0]
+FieldFlags: 0
+FieldJustification: Right
+FieldMaxLength: 3
+---
+FieldType: Text
+FieldName: form1[0].Page1[0].f1-39[0]
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: form1[0].Page1[0].f1-40[0]
+FieldFlags: 8388608
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: form1[0].Page1[0].f1-41[0]
+FieldFlags: 0
+FieldJustification: Right
+FieldMaxLength: 3
+---
+FieldType: Text
+FieldName: form1[0].Page1[0].f1-42[0]
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: form1[0].Page1[0].f1-43[0]
+FieldFlags: 8388608
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: form1[0].Page1[0].f1-44[0]
+FieldFlags: 0
+FieldJustification: Right
+FieldMaxLength: 3
+---
+FieldType: Text
+FieldName: form1[0].Page1[0].f1-45[0]
+FieldFlags: 8388608
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: form1[0].Page1[0].f1-46[0]
+FieldFlags: 0
+FieldJustification: Right
+FieldMaxLength: 3
+---
+FieldType: Text
+FieldName: form1[0].Page1[0].f1-47[0]
+FieldFlags: 8388608
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: form1[0].Page1[0].f1-48[0]
+FieldFlags: 0
+FieldJustification: Right
+FieldMaxLength: 3
+---
+FieldType: Text
+FieldName: form1[0].Page1[0].f1-49[0]
+FieldFlags: 8388608
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: form1[0].Page1[0].f1-50[0]
+FieldFlags: 0
+FieldJustification: Right
+FieldMaxLength: 3
+---
+FieldType: Text
+FieldName: form1[0].Page1[0].f1_51[0]
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: form1[0].Page1[0].f1_52[0]
+FieldFlags: 8388608
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: form1[0].Page1[0].f1_53[0]
+FieldFlags: 0
+FieldJustification: Right
+FieldMaxLength: 3
+---
+FieldType: Text
+FieldName: form1[0].Page1[0].f1_54[0]
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: form1[0].Page1[0].f1_55[0]
+FieldFlags: 8388608
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: form1[0].Page1[0].f1_56[0]
+FieldFlags: 0
+FieldJustification: Right
+FieldMaxLength: 3
+---
+FieldType: Text
+FieldName: form1[0].Page1[0].f1-57[0]
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: form1[0].Page1[0].f1-58[0]
+FieldFlags: 8388608
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: form1[0].Page1[0].f1-59[0]
+FieldFlags: 0
+FieldJustification: Right
+FieldMaxLength: 3
+---
+FieldType: Text
+FieldName: form1[0].Page1[0].f1-60[0]
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: form1[0].Page1[0].f1-61[0]
+FieldFlags: 8388608
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: form1[0].Page1[0].f1-62[0]
+FieldFlags: 0
+FieldJustification: Right
+FieldMaxLength: 3
+---
+FieldType: Text
+FieldName: form1[0].Page1[0].f1-63[0]
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: form1[0].Page1[0].f1-64[0]
+FieldFlags: 8388608
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: form1[0].Page1[0].f1-65[0]
+FieldFlags: 0
+FieldJustification: Right
+FieldMaxLength: 3
+---
+FieldType: Text
+FieldName: form1[0].Page1[0].f1-66[0]
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: form1[0].Page1[0].f1-67[0]
+FieldFlags: 8388608
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: form1[0].Page1[0].f1-68[0]
+FieldFlags: 0
+FieldJustification: Right
+FieldMaxLength: 3
+---
+FieldType: Text
+FieldName: form1[0].Page1[0].f1-69[0]
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: form1[0].Page1[0].f1-70[0]
+FieldFlags: 8388608
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: form1[0].Page1[0].f1-71[0]
+FieldFlags: 0
+FieldJustification: Right
+FieldMaxLength: 3
+---
+FieldType: Text
+FieldName: form1[0].Page1[0].f1-72[0]
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: form1[0].Page1[0].f1-73[0]
+FieldFlags: 8388608
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: form1[0].Page1[0].f1-74[0]
+FieldFlags: 0
+FieldJustification: Right
+FieldMaxLength: 3
+---
+FieldType: Text
+FieldName: form1[0].Page1[0].f1-75[0]
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: form1[0].Page1[0].f1-76[0]
+FieldFlags: 8388608
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: form1[0].Page1[0].f1-77[0]
+FieldFlags: 0
+FieldJustification: Right
+FieldMaxLength: 3
+---
+FieldType: Text
+FieldName: form1[0].Page1[0].f1-78[0]
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: form1[0].Page1[0].f1-79[0]
+FieldFlags: 8388608
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: form1[0].Page1[0].f1-80[0]
+FieldFlags: 0
+FieldJustification: Right
+FieldMaxLength: 3
+---
+FieldType: Text
+FieldName: form1[0].Page1[0].f1-81[0]
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: form1[0].Page1[0].f1-82[0]
+FieldFlags: 8388608
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: form1[0].Page1[0].f1-83[0]
+FieldFlags: 0
+FieldJustification: Right
+FieldMaxLength: 3
+---
+FieldType: Text
+FieldName: form1[0].Page1[0].f1-84[0]
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: form1[0].Page1[0].f1-85[0]
+FieldFlags: 8388608
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: form1[0].Page1[0].f1-86[0]
+FieldFlags: 0
+FieldJustification: Right
+FieldMaxLength: 3
+---
+FieldType: Text
+FieldName: form1[0].Page1[0].f1-87[0]
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: form1[0].Page1[0].f1-88[0]
+FieldFlags: 8388608
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: form1[0].Page1[0].f1-89[0]
+FieldFlags: 0
+FieldJustification: Right
+FieldMaxLength: 3
+---
+FieldType: Text
+FieldName: form1[0].Page1[0].f1-90[0]
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: form1[0].Page1[0].f1-91[0]
+FieldFlags: 8388608
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: form1[0].Page1[0].f1-92[0]
+FieldFlags: 0
+FieldJustification: Right
+FieldMaxLength: 3
+---
+FieldType: Text
+FieldName: form1[0].Page1[0].f1-93[0]
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: form1[0].Page1[0].f1-94[0]
+FieldFlags: 8388608
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: form1[0].Page1[0].f1-95[0]
+FieldFlags: 0
+FieldJustification: Right
+FieldMaxLength: 3
+---
+FieldType: Text
+FieldName: form1[0].Page1[0].f1-99[0]
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: form1[0].Page1[0].f1-100[0]
+FieldFlags: 8388608
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: form1[0].Page1[0].f1-101[0]
+FieldFlags: 0
+FieldJustification: Right
+FieldMaxLength: 3
+---
+FieldType: Text
+FieldName: form1[0].Page1[0].f1-96[0]
+FieldFlags: 8388608
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: form1[0].Page1[0].f1-97[0]
+FieldFlags: 0
+FieldJustification: Right
+FieldMaxLength: 3
+---
+FieldType: Button
+FieldName: form1[0].Page1[0].p2-cb1[0]
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: yes
+---
+FieldType: Button
+FieldName: form1[0].Page1[0].p2-cb1[1]
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: no
+---
+FieldType: Button
+FieldName: form1[0].Page1[0].p2-cb2[0]
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: yes
+---
+FieldType: Button
+FieldName: form1[0].Page1[0].p2-cb2[1]
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: no
+---
+FieldType: Text
+FieldName: form1[0].Page1[0].f1-98[0]
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: form1[0].Page1[0].p2-cb3[0]
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: yes
+---
+FieldType: Button
+FieldName: form1[0].Page1[0].p2-cb3[1]
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: no
+---
+FieldType: 
+FieldName: form1[0]
+FieldFlags: 0
+FieldJustification: Left

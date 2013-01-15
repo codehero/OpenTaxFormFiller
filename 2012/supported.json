@@ -1,0 +1,128 @@
+{
+	"notes" : [
+		"Forms are composed of 1 or more parts. If no parts are listed, then the PDF has been downloaded but not divided into parts. If parts exists, then each part may be null (identified but not started), \"WRITTEN\", or \"COMPLETED\". A \"WRITTEN\" part means the transform and definition files are written but not tested. A \"COMPLETED\" means someone has tested it or trusted it to be used for their taxes.",
+		"Common fields specify IDs for fields like Last name, Social Security, etc; these are 'standard' on tax forms."
+	],
+	"commonFields" : {
+		"OtherTaxYearBeginDayMonth" : "Text",
+		"OtherTaxYearEndDayMonth" : "Text",
+		"OtherTaxYearEndYear" : "Text",
+		"YourFirstName" : "Text",
+		"YourFirstName_Initial" : "Text",
+		"YourLastName" : "Text",
+		"YourSSN" : "Text",
+		"SpouseFirstName" : "Text",
+		"SpouseFirstName_Initial" : "Text",
+		"SpouseLastName" : "Text",
+		"SpouseSSN" : "Text",
+		"HouseNumberStreet" : "Text",
+		"AptNumber" : "Text",
+		"CityTownZIP" : "Text",
+		"ForeignCountryName" : "Text",
+		"ForeignProvinceName" : "Text",
+		"ForeignPostalCode" : "Text"
+	},
+	"forms":{
+		"Federal" : {
+			"f1040" : {
+				"parts": {
+					"Personal Info" : "COMPLETED",
+					"Filing Status" : "COMPLETED",
+					"Exemptions" : "Only 6(a),6(b),Total",
+					"Income" : "COMPLETED",
+					"AGI" : "COMPLETED",
+					"Tax and Credits" : "COMPLETED",
+					"Other Taxes" : "COMPLETED",
+					"Payments" : "COMPLETED",
+					"Refund" : "COMPLETED",
+					"Amount You Owe" : "COMPLETED",
+					"Sign Here" : null,
+					"Paid Preparer" : null
+				}
+			},
+			"f1040sa" : {
+				"parts": {
+					"Medical and Dental Expenses" : null,
+					"Taxes You Paid" : null,
+					"Interest You Paid" : null,
+					"Gifts to Charity" : null,
+					"Casualty and Theft Losses" : null,
+					"Job Expenses etc" : null,
+					"Other Miscellaneous" : null,
+					"Total Itemized Deductions" : null
+				}
+			},
+			"f1040sb" : {
+				"parts": {
+					"Part I" : null,
+					"Part II" : null,
+					"Part III" : null
+				}
+			},
+			"f1040sc" : {
+				"parts": {
+					"Info" : null,
+					"Part I" : null,
+					"Part II" : null,
+					"Part III" : null,
+					"Part IV" : null,
+					"Part V" : null
+				}
+			},
+			"f1040sd" : {
+				"parts": {
+					"Part I" : null,
+					"Part II" : null,
+					"Part III" : null
+				}
+			},
+			"f1040se" : {
+				"parts": {
+					"Part I" : null,
+					"Part II" : null,
+					"Part III" : null,
+					"Part IV" : null,
+					"Part V" : null
+				}
+			},
+			"f1040sse" : {
+				"parts": {
+					"Section A" : null,
+					"Part I" : null,
+					"Part II" : null
+				}
+			}
+		},
+		"PA" : {
+			"2012_pa-40" : {
+				"parts": {
+				}
+			},
+			"2012_pa-40a-b" : {
+				"parts": {
+				}
+			},
+			"pa-40c" : {
+				"parts": {
+					"Info" : null,
+					"Part I" : null,
+					"Part II" : null,
+					"C-1" : null,
+					"C-2" : null
+				}
+			},
+			"2012_pa-40d" : {
+				"parts": {
+				}
+			},
+			"2012_pa-40e" : {
+				"parts": {
+				}
+			}
+		},
+		"NY" : {
+			"2012_pa-40e" : {
+			}
+		}
+	}
+}

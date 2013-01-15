@@ -1,11 +1,7 @@
-OpenTaxFormFiller is an open source utility aiming to eliminate the pain of using a PDF viewer to fill in tax forms.
-The target audience is anybody who prefers not to use a major software package to do their taxes.
-Users of OpenTaxSolver will be delighted to know that there is a utility to import their tax solve output.
+OpenTaxFormFiller is an open source utility aiming to eliminate the pain of using a PDF viewer to fill in tax forms.  The target audience is anybody who prefers not to use a major software package to do their taxes.  Users of OpenTaxSolver will be delighted to know that there is a utility to import their tax solve output.
 
 Forms support:
-The major pain in supporting forms is in mapping Line Numbers to PDF input fields.
-I have gone as far as I will go in characterizing US Federal forms.
-Please see supported.json to see current forms support.
+The major pain in supporting forms is in mapping Line Numbers to PDF input fields, but it seems to be getting easier each year.  Please see YEAR/supported.json to see forms support for the given tax year. Feel free to fork and add your own state.
 
 Dependencies:
 
@@ -39,7 +35,7 @@ Notes:
  The numbers in the examples directory should be taken as bogus.
 
 References:
-http://http://opentaxsolver.sourceforge.net/
+http://opentaxsolver.sourceforge.net/
 http://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/
 http://www.myown1.com/linux/pdf_formfill.shtml
 http://www.irs.gov/pub/irs-prior/
