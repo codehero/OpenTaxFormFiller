@@ -37,6 +37,10 @@ Definition file:
  "Text" : Free form text
  "Integer" : Integral numeric value
  "Percent" : Numeric value between 0-100
- "Amount" : US dollars amount and a separate entry for dollars and cents
+ "Amount" : A specific type composed of two fields: one for dollars and one
+ for cents; For a field LX in the definition file, there must be a
+ corresponding LX_D and LX_C in the transform file, for the dollars and cents
+ respectively.
+ "Choice" : Multiple choice selection
 
  see f8829.json as an example.
