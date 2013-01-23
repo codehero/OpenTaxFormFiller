@@ -18,11 +18,17 @@ var COMMANDS = {
 		var prefix = "F";
 		var counter = 0;
 		fields.forEach(function(f){
+			var id = prefix + counter.toString(16);
 			if("Text" == f.type){
-				var id = prefix + counter.toString(16);
 				arr.push("<</T("+ f.name +")/V("+ id +")>>");
 				output2.push("\""+ id +"\":{\n\"fdf\":\""+ f.name +
 					"\",\n\"type\":\"text\"\n},");
+			}else if("Button" == f.type && f.options){
+				//arr.push("<</T("+ f.name +")/V("+ id +")>>");
+				var aOptions = "";
+				output2.push("\""+ id +"\":{\n\"fdf\":\""+ f.name +
+					"\",\n\"type\":\"checkbox\",\n" +
+					"\"options\":"+ JSON.stringify(f.options) +"\n},");
 			}
 			++counter;
 		});

@@ -89,15 +89,44 @@
 				"yes" : "1"
 			}
 		},
-		"FilingStatus" : {
-			"fdf" : "c1_04",
+		"FilingStatus_HeadofHouseHold" : {
+			"fdf" : "topmostSubform[0].Page1[0].c1_04[0]",
 			"type" : "checkbox",
 			"options" : {
-				"HeadofHousehold" : "HoH",
-				"MarriedJointly" : "MJ",
-				"MarriedSeparately" : "MS",
-				"QualifyingWidower" : "QW",
-				"Single" : "S"
+				"HoH" : "HoH",
+				"Off" : "Off"
+			}
+		},
+		"FilingStatus_MarriedJointly" : {
+			"fdf" : "topmostSubform[0].Page1[0].Lines1-3[0].c1_04[1]",
+			"type" : "checkbox",
+			"options" : {
+				"MJ" : "MJ",
+				"Off" : "Off"
+			}
+		},
+		"FilingStatus_MarriedSeparately" : {
+			"fdf" : "topmostSubform[0].Page1[0].Lines1-3[0].c1_04[2]",
+			"type" : "checkbox",
+			"options" : {
+				"MS" : "MS",
+				"Off" : "Off"
+			}
+		},
+		"FilingStatus_QualifyingWidower" : {
+			"fdf" : "topmostSubform[0].Page1[0].c1_04[1]",
+			"type" : "checkbox",
+			"options" : {
+				"QW" : "QW",
+				"Off" : "Off"
+			}
+		},
+		"FilingStatus_Single" : {
+			"fdf" : "topmostSubform[0].Page1[0].Lines1-3[0].c1_04[0]",
+			"type" : "checkbox",
+			"options" : {
+				"S" : "S",
+				"Off" : "Off"
 			}
 		},
 		"L6a" : {
@@ -966,12 +995,20 @@
 			"fdf":"topmostSubform[0].Page2[0].RoutingNoRules[0].f1_040_0_[0]",
 			"type":"text"
 		},
-		"L74c" : {
-			"fdf" : "topmostSubform[0].Page2[0].c2_25",
+		"L74c_Checking" : {
+			"fdf" : "topmostSubform[0].Page2[0].c2_25[0]",
 			"type" : "checkbox",
 			"options" : {
-				"Checking" : "Checking",
-				"Savings" : "Savings"
+				"Checking" : "1",
+				"Off" : "Off"
+			}
+		},
+		"L74c_Savings" : {
+			"fdf" : "topmostSubform[0].Page2[0].c2_26[0]",
+			"type" : "checkbox",
+			"options" : {
+				"Savings" : "1",
+				"Off" : "Off"
 			}
 		},
 		"L74d":{
@@ -1002,12 +1039,20 @@
 			"fdf":"topmostSubform[0].Page2[0].p2-t110[0]",
 			"type":"text"
 		},
-		"ThirdPartyDesignee" : {
-			"fdf" : "topmostSubform[0].Page2[0].c2_27",
+		"ThirdPartyDesignee_yes" : {
+			"fdf" : "topmostSubform[0].Page2[0].c2_27[0]",
+			"type" : "checkbox",
+			"options" : {
+				"yes" : "Yes",
+				"Off" : "Off"
+			}
+		},
+		"ThirdPartyDesignee_no" : {
+			"fdf" : "topmostSubform[0].Page2[0].c2_27[1]",
 			"type" : "checkbox",
 			"options" : {
 				"no" : "No",
-				"yes" : "Yes"
+				"Off" : "Off"
 			}
 		},
 		"Fe8":{
