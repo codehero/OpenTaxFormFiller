@@ -692,10 +692,6 @@
 			"fdf":"topmostSubform[0].Page2[0].p2-t31[0]",
 			"type":"text"
 		},
-		"L53c":{
-			"fdf":"topmostSubform[0].Page2[0].p2-t34[0]",
-			"type":"text"
-		},
 		"L53_D":{
 			"fdf":"topmostSubform[0].Page2[0].p2-t32[0]",
 			"type":"text"
@@ -724,6 +720,10 @@
 			"options" : {
 				"yes" : "Yes"
 			}
+		},
+		"L53c_Other":{
+			"fdf":"topmostSubform[0].Page2[0].p2-t34[0]",
+			"type":"text"
 		},
 		"L54_D":{
 			"fdf":"topmostSubform[0].Page2[0].p2-t37[0]",

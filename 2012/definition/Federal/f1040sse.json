@@ -1,0 +1,13 @@
+{
+	"form" : "1040sse",
+	"year" : 2012,
+	"fields" : {
+		"L1a" : "Amount",
+		"L1b" : "Amount",
+		"L2" : "Amount",
+		"L3" : "Amount",
+		"L4" : "Amount",
+		"L5" : "Amount",
+		"L6" : "Amount"
+	}
+}
