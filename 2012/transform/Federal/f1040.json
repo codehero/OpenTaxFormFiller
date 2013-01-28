@@ -561,7 +561,7 @@
 			"fdf":"topmostSubform[0].Page2[0].p2-t3[0]",
 			"type":"text"
 		},
-		"L39a_YouBornBefore" : {
+		"L39a_YouBefore" : {
 			"fdf" : "topmostSubform[0].Page2[0].c2_01[0]",
 			"type" : "checkbox",
 			"options" : {

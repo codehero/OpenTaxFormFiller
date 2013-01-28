@@ -52,67 +52,32 @@ if(cmd == "dmp_trans"){
 		return len;
 	}
 
-	//Levenshtein distance
-	function distanceLevenshtein (a, b){
-		if(a.length == 0) return b.length; 
-		if(b.length == 0) return a.length; 
-
-		var matr = [];//Matrix
-		for(var i = 0; i <= b.length; i++){
-			matr[i] = [i];
-		}
-
-		for(var j = 0; j <= a.length; j++){
-			matr[0][j] = j;
-		}
-
-		for(var i = 1; i <= b.length; i++){
-			for(var j = 1; j <= a.length; j++){
-				if(b.charAt(i-1) == a.charAt(j-1)){
-					matr[i][j] = matr[i-1][j-1];
-				} else {
-					matr[i][j] = Math.min(matr[i-1][j-1] + 1, // substitution
-					Math.min(matr[i][j-1] + 1, // insertion
-					matr[i-1][j] + 1)); // deletion
-				}
-			}
-		}
-
-		return matr[b.length][a.length];
-	};
-
-	function checkDefTransform(type, data1, data2, ignoreCheck, data3){
+	function checkDefTransform(type, data1, data2, isDef, ignoreCheck, data3){
 		firstLoop:
 		for(var e in data1.fields){
 			if(e in supportedJS.commonFields){
 				continue;
 			}
-			var compare = null;
 			var found = false;
 			var arrayProblem = false;
 			for(var r in data2.fields){
 				if(ignoreCheck === true && e in data3){
 					continue firstLoop;
 				}
-				//look most similar word
-				if(e == "L24a" && r == "L24a_no"){
-			             var asdas=1;	
+				if(data2.fields[r].found == true){
+					continue;
 				}
-
-				if(compare === null || (distanceLevenshtein(e, r) < distanceLevenshtein(e, compare) && (r.indexOf(e) == 0 || e.indexOf(r) == 0))){//could be better
-					compare = r;
-				}
-			}
-
-			if(compare.indexOf(e) == 0 || e.indexOf(compare) == 0){
-				found = true;
-				var existsChoiceArray = data1.fields[e] == "ChoiceArray";
-				var existsOptions = data2.fields[compare].options && data2.fields[compare].options.size() > 1;
-				if((existsOptions || existsChoiceArray) && (!existsOptions || !existsChoiceArray)){
-					arrayProblem = true;
+				if((isDef == true && r.indexOf(e) == 0) || (isDef == false && e.indexOf(r) == 0)){
+					found = true;
+					data2.fields[r].found = true;
+					var existsChoiceArray = data1.fields[e] == "ChoiceArray";
+					var existsOptions = data2.fields[r].options && data2.fields[r].options.size() > 1;
+					if((existsOptions || existsChoiceArray) && (!existsOptions || !existsChoiceArray)){
+						arrayProblem = true;
+					}
+					break;
 				}
 			}
-
 			if(found == false ){
 				result.push([type + " not found", e, data1.fields[e]]);
 			}
@@ -122,14 +87,104 @@ if(cmd == "dmp_trans"){
 		}
 	}
 
-	checkDefTransform("definition", transfJS, definitionJS, ignore == "yes", fieldDumpJS);
-	checkDefTransform("transform", definitionJS, transfJS);
+	checkDefTransform("definition", transfJS, definitionJS, false, ignore == "yes", fieldDumpJS);
+	checkDefTransform("transform", definitionJS, transfJS, true);
+}else if(cmd == "DTF"){ //Order to check: Definition > Transform > FieldDump
+	for(var def in definitionJS.fields){
+		firstLoop:
+		if(def in supportedJS.commonFields){
+			continue;
+		}
+		var transFounds = [];
+		var dmpNotFounds = [];
+		for(var transf in transfJS.fields){
+			if(ignore == "yes" && transf in fieldDumpJS){
+				continue;
+			}
+			if(transf.indexOf(def) == 0 && transfJS.fields[transf].used != true){
+				transFounds.push(transf);
+
+				transfJS.fields[transf].found = false;
+				for(var fieldDump in fieldDumpJS){
+					if((ignore == "yes" && fieldDump == transf) || fieldDumpJS[fieldDump].fdf == transfJS.fields[transf].fdf){
+						transfJS.fields[transf].found = true;
+						break;
+					}
+				}
+
+				if(transfJS.fields[transf].found == false){
+					dmpNotFounds.push(transf);
+				}
+
+				transfJS.fields[transf].used = true;
+				if(definitionJS.fields[def] != "ChoiceArray"){
+					break;	
+				}
+			}
+		}
+
+		//if(def == "L24a"){
+		//	result.push(definitionJS.fields[def], transFounds);
+		//}
+
+		if(transFounds.length == 0){
+			//No encotro trasnform
+			result.push("Definition not found: " + def, definitionJS.fields[def]);
+		}
+		if(definitionJS.fields[def] == "ChoiceArray" && transFounds.length < 2){
+			//No encontro opciones
+			result.push("Definition " + def + " ChoiceArray found only " + transFounds.length + " options", definitionJS.fields[def], transFounds);
+		}
+		for(var i=0; i < dmpNotFounds.length; i++){
+			//No encontro dumps
+			result.push("Definition " + def + " not found dumpfield for " + dmpNotFounds[i] + " transform", transfJS.fields[dmpNotFounds[i]]);
+		}
+
+	}	
+}else if(cmd == "FT"){ //Order to check: FieldDump > Transform
+	for(var fieldDump in fieldDumpJS){
+		fieldDumpJS[fieldDump].exists = [];
+		for(var transf in transfJS.fields){
+			if(fieldDump == transf){
+				fieldDumpJS[fieldDump].sameName = true;;
+			}
+			if(transfJS.fields[transf].fdf == fieldDumpJS[fieldDump].fdf){
+				fieldDumpJS[fieldDump].exists.push(transf);
+			}
+		}
+		if(fieldDumpJS[fieldDump].exists.length > 1){
+			result.push(fieldDump + " have more than 1 transform", fieldDumpJS[fieldDump].exists);
+		}else if(fieldDumpJS[fieldDump].exists.length == 0){
+			result.push(fieldDump + " transform not found");
+		}
+
+		if(fieldDumpJS[fieldDump].sameName == true){
+			result.push(fieldDump + " exists transform with the same name");
+		}
+	}
+
+}else if(cmd == "TF"){ //Order to check: Transform > FieldDump
+	for(var transf in transfJS.fields){
+		transfJS.fields[transf].exists = [];
+		for(var fieldDump in fieldDumpJS){
+			if(transfJS.fields[transf].fdf == fieldDumpJS[fieldDump].fdf){
+				transfJS.fields[transf].exists.push(fieldDump);
+			}
+		}
+		if(transfJS.fields[transf].exists.length > 1){
+			result.push(transf + " have more than 1 fieldDump", transfJS.fields[transf].exists);
+		}else if(transfJS.fields[transf].exists.length == 0){
+			result.push(transf + " fieldDump not found");
+		}
+	}
+
 }else{
 	throw new Error("Command not defined: " + cmd);
 }
 
-var stream = fs.createWriteStream("/tmp/checkdiff-"+ new Date().getTime() +".txt", {flags: 'w'});
+var fname = "/tmp/checkdiff-"+ new Date().getTime() +".txt";
+var stream = fs.createWriteStream(fname, {flags: 'w'});
 //console.error(JSON.stringify(result));
 stream.write(JSON.stringify(process.argv,null,4) + "\n");
 stream.write(JSON.stringify(result,null,4));
-//console.error((result));
+console.error(fname + ": " + process.argv.join(" "));

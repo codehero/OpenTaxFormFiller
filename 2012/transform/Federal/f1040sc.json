@@ -8,11 +8,11 @@
 	},
 	"sequence" : 9,
 	"fields":{
-		"Name of proprietor":{
+		"BothNames":{
 			"fdf":"topmostSubform[0].Page1[0].f1_001[0]",
 			"type":"text"
 		},
-		"Social security number (SSN)":{
+		"YourSSN":{
 			"fdf":"topmostSubform[0].Page1[0].f1_002[0]",
 			"type":"text"
 		},
@@ -39,6 +39,30 @@
 		"E City, town or post office, state, and ZIP code":{
 			"fdf":"topmostSubform[0].Page1[0].f1_008[0]",
 			"type":"text"
+		},
+		"F_Cash" : {
+			"fdf" :"topmostSubform[0].Page1[0].c1_01[0]",
+			"type" : "check",
+			"options" : {
+				"0" : "0",
+				"Off" : "Off"
+			}
+		},
+		"F_Accrual" : {
+			"fdf" :"topmostSubform[0].Page1[0].c1_02[0]",
+			"type" : "check",
+			"options" : {
+				"0" : "0",
+				"Off" : "Off"
+			}
+		},
+		"F_Other" : {
+			"fdf" :"topmostSubform[0].Page1[0].c1_03[0]",
+			"type" : "check",
+			"options" : {
+				"0" : "0",
+				"Off" : "Off"
+			}
 		},
 		"Other accounting method":{
 			"fdf":"topmostSubform[0].Page1[0].f1_009[0]",
@@ -103,8 +127,7 @@
 			"fdf" :"topmostSubform[0].Page1[0].c1_08_0_[0]",
 			"type" : "check",
 			"options" : {
-				"no" : "No",
-				"Off" : "Off"
+				"no" : "1"
 			}
 		},
 		"L1_D":{

@@ -8,11 +8,11 @@
 	},
 	"sequence" : 7,
 	"fields":{
-		"Name(s) shown on Form 1040":{
+		"BothNames":{
 			"fdf":"topmostSubform[0].Page1[0].p1-t1[0]",
 			"type":"text"
 		},
-		"Your social security number":{
+		"YourSSN":{
 			"fdf":"topmostSubform[0].Page1[0].p1-t2[0]",
 			"type":"text"
 		},

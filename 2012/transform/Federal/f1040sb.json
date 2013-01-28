@@ -8,11 +8,11 @@
 	},
 	"sequence" : 8,
 	"fields":{
-		"Name(s) shown on return":{
+		"BothNames":{
 			"fdf":"form1[0].Page1[0].f1_01[0]",
 			"type":"text"
 		},
-		"Your social security number":{
+		"YourSSN":{
 			"fdf":"form1[0].Page1[0].f1_02[0]",
 			"type":"text"
 		},

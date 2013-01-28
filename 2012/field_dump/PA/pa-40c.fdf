@@ -1,0 +1,214 @@
+%FDF-1.2
+1 0 obj<</FDF<< /Fields[
+<</T(Year)/V(F1)>>
+<</T(Main business activity)/V(F2)>>
+<</T(product or service)/V(F3)>>
+<</T(Business Name)/V(F4)>>
+<</T(Employer Identification Number)/V(F5)>>
+<</T(Business address (number & street))/V(F6)>>
+<</T(City, State and Zip Code)/V(F7)>>
+<</T(Sales Tax License Number (if applicable))/V(F9)>>
+<</T(Federal NAICS Code)/V(Fd)>>
+<</T(1. a Gross receipts or sales)/V(Ff)>>
+<</T(1. b. Returns & allowances)/V(F10)>>
+<</T(1. c. Balance)/V(F11)>>
+<</T(1. Total Section 179 depreciation)/V(F12)>>
+<</T(2. Cost)/V(F13)>>
+<</T(2. Less: Section 179 depreciation included in Schedule C-1)/V(F14)>>
+<</T(2. (b1) Date acuired)/V(F15)>>
+<</T(2. (c1)  Cost or other basis)/V(F16)>>
+<</T(2. (d1)  Depreciation allowed or allowable in prior years)/V(F17)>>
+<</T(2. (e1)  Method of computing depreciation)/V(F18)>>
+<</T(2. (f1)  Life or rate)/V(F19)>>
+<</T(2. (b2) Date acuired)/V(F1a)>>
+<</T(2. (c2)  Cost or other basis)/V(F1b)>>
+<</T(2. (d2)  Depreciation allowed or allowable in prior years)/V(F1c)>>
+<</T(2. (e2)  Method of computing depreciation)/V(F1d)>>
+<</T(2. (f2)  Life or rate)/V(F1e)>>
+<</T(2. (b3) Date acuired)/V(F1f)>>
+<</T(2. (c3)  Cost or other basis)/V(F20)>>
+<</T(2. (d3)  Depreciation allowed or allowable in prior years)/V(F21)>>
+<</T(2. (e3)  Method of computing depreciation)/V(F22)>>
+<</T(2. (f3)  Life or rate)/V(F23)>>
+<</T(2. (b4) Date acuired)/V(F24)>>
+<</T(2. (c4)  Cost or other basis)/V(F25)>>
+<</T(2. (d4)  Depreciation allowed or allowable in prior years)/V(F26)>>
+<</T(2. (e4)  Method of computing depreciation)/V(F27)>>
+<</T(2. (f4)  Life or rate)/V(F28)>>
+<</T(2. (b5) Date acuired)/V(F29)>>
+<</T(2. (c5)  Cost or other basis)/V(F2a)>>
+<</T(2. (d5)  Depreciation allowed or allowable in prior years)/V(F2b)>>
+<</T(2. (e5)  Method of computing depreciation)/V(F2c)>>
+<</T(2. (f5)  Life or rate)/V(F2d)>>
+<</T(2. (b6) Date acuired)/V(F2e)>>
+<</T(2. (c6)  Cost or other basis)/V(F2f)>>
+<</T(2. (d6)  Depreciation allowed or allowable in prior years)/V(F30)>>
+<</T(2. (e6)  Method of computing depreciation)/V(F31)>>
+<</T(2. (f6)  Life or rate)/V(F32)>>
+<</T(2. (b7) Date acuired)/V(F33)>>
+<</T(2. (c7)  Cost or other basis)/V(F34)>>
+<</T(2. (d7)  Depreciation allowed or allowable in prior years)/V(F35)>>
+<</T(2. (e7)  Method of computing depreciation)/V(F36)>>
+<</T(2. (f7)  Life or rate)/V(F37)>>
+<</T(2. (b8) Date acuired)/V(F38)>>
+<</T(2. (c8)  Cost or other basis)/V(F39)>>
+<</T(2. (d8)  Depreciation allowed or allowable in prior years)/V(F3a)>>
+<</T(2. (e8)  Method of computing depreciation)/V(F3b)>>
+<</T(2. (f8)  Life or rate)/V(F3c)>>
+<</T(2. (b9) Date acuired)/V(F3d)>>
+<</T(2. (c9)  Cost or other basis)/V(F3e)>>
+<</T(2. (d9)  Depreciation allowed or allowable in prior years)/V(F3f)>>
+<</T(2. (e9)  Method of computing depreciation)/V(F40)>>
+<</T(2. (f9)  Life or rate)/V(F41)>>
+<</T(2. (b10) Date acuired)/V(F42)>>
+<</T(2. (c10)  Cost or other basis)/V(F43)>>
+<</T(2. (d10)  Depreciation allowed or allowable in prior years)/V(F44)>>
+<</T(2. (e10)  Method of computing depreciation)/V(F45)>>
+<</T(2. (f10)  Life or rate)/V(F46)>>
+<</T(2. (b11) Date acuired)/V(F47)>>
+<</T(2. (c11)  Cost or other basis)/V(F48)>>
+<</T(2. (d11)  Depreciation allowed or allowable in prior years)/V(F49)>>
+<</T(2. (e11)  Method of computing depreciation)/V(F4a)>>
+<</T(2. (f11)  Life or rate)/V(F4b)>>
+<</T(2. (b12) Date acuired)/V(F4c)>>
+<</T(2. (c12)  Cost or other basis)/V(F4d)>>
+<</T(2. (d12)  Depreciation allowed or allowable in prior years)/V(F4e)>>
+<</T(2. (e12)  Method of computing depreciation)/V(F4f)>>
+<</T(2. (f12)  Life or rate)/V(F50)>>
+<</T(2. (b13) Date acuired)/V(F51)>>
+<</T(2. (c13)  Cost or other basis)/V(F52)>>
+<</T(2. (d13)  Depreciation allowed or allowable in prior years)/V(F53)>>
+<</T(2. (e13)  Method of computing depreciation)/V(F54)>>
+<</T(2. (f13)  Life or rate)/V(F55)>>
+<</T(2. (b14) Date acuired)/V(F56)>>
+<</T(2. (c14)  Cost or other basis)/V(F57)>>
+<</T(2. (d14)  Depreciation allowed or allowable in prior years)/V(F58)>>
+<</T(2. (e14)  Method of computing depreciation)/V(F59)>>
+<</T(2. (f14)  Life or rate)/V(F5a)>>
+<</T(2. (b15) Date acuired)/V(F5b)>>
+<</T(2. (c15)  Cost or other basis)/V(F5c)>>
+<</T(2. (d15)  Depreciation allowed or allowable in prior years)/V(F5d)>>
+<</T(2. (e15)  Method of computing depreciation)/V(F5e)>>
+<</T(2. (f15)  Life or rate)/V(F5f)>>
+<</T(2. (b16) Date acuired)/V(F60)>>
+<</T(2. (c16)  Cost or other basis)/V(F61)>>
+<</T(2. (d16)  Depreciation allowed or allowable in prior years)/V(F62)>>
+<</T(2. (e16)  Method of computing depreciation)/V(F63)>>
+<</T(2. (f16)  Life or rate)/V(F64)>>
+<</T(2. (b17) Date acuired)/V(F65)>>
+<</T(2. (c17)  Cost or other basis)/V(F66)>>
+<</T(2. (d17)  Depreciation allowed or allowable in prior years)/V(F67)>>
+<</T(2. (e17)  Method of computing depreciation)/V(F68)>>
+<</T(2. (f17)  Life or rate)/V(F69)>>
+<</T(3. Gross profit)/V(F6a)>>
+<</T(3. Cost of labor)/V(F6b)>>
+<</T(3. Balance (Subtract Line 2 from Line 1))/V(F6c)>>
+<</T(3. (c) Totals)/V(F6d)>>
+<</T(4. Other Income. Include interest)/V(F6e)>>
+<</T(4. Materials & supplies)/V(F6f)>>
+<</T(5. Total Income)/V(F70)>>
+<</T(5. Other costs)/V(F71)>>
+<</T(6. Advertising)/V(F72)>>
+<</T(6. Add Lines 1, 2c, 3, 4, &  5)/V(F73)>>
+<</T(7. Amortization)/V(F74)>>
+<</T(7. Inventory at end of year)/V(F75)>>
+<</T(8. Bad Debts from sales or services)/V(F76)>>
+<</T(8. Cost of goods sold and or operations)/V(F77)>>
+<</T(9. Bank charges)/V(F78)>>
+<</T(10. Car & truck expenses)/V(F79)>>
+<</T(11. Commissions)/V(F7a)>>
+<</T(12. Cost Depletion)/V(F7b)>>
+<</T(13a. Regular Depreciation)/V(F7c)>>
+<</T(13b. Section 179 expense)/V(F7d)>>
+<</T(14. Dues & publications)/V(F7e)>>
+<</T(15. Employee benefit programs other than on Line 23)/V(F7f)>>
+<</T(16. Freight)/V(F80)>>
+<</T(17. Insurance)/V(F81)>>
+<</T(18. Interest on business indebtedness)/V(F82)>>
+<</T(19.  Laundry & cleaning)/V(F83)>>
+<</T(20. Legal & professional services)/V(F84)>>
+<</T(21. Management fees)/V(F85)>>
+<</T(22. Office supplies)/V(F86)>>
+<</T(23. Pension & profit-sharing plans)/V(F87)>>
+<</T(24. Postage)/V(F88)>>
+<</T(25. Rent on business property)/V(F89)>>
+<</T(26. Repairs)/V(F8a)>>
+<</T(27. Subcontractor fees)/V(F8b)>>
+<</T(28. Supplies)/V(F8c)>>
+<</T(29. Taxes)/V(F8d)>>
+<</T(30. Telephone)/V(F8e)>>
+<</T(31. Travel and entertainment)/V(F8f)>>
+<</T(32. Utilities)/V(F90)>>
+<</T(33. Wages)/V(F91)>>
+<</T(34 a. Other expenses (specify))/V(F92)>>
+<</T(34 a. Other expenses/amount)/V(F93)>>
+<</T(34 b. Other expenses (specify))/V(F94)>>
+<</T(34 b. Other expenses/amount)/V(F95)>>
+<</T(34 c. Other expenses (specify))/V(F96)>>
+<</T(34 c. Other expenses/amount)/V(F97)>>
+<</T(34 d. Other expenses (specify))/V(F98)>>
+<</T(34 d. Other expenses/amount)/V(F99)>>
+<</T(34 e. Other expenses (specify))/V(F9a)>>
+<</T(34 e. Other expenses/amount)/V(F9b)>>
+<</T(34 f. Other expenses (specify))/V(F9c)>>
+<</T(34 f. Other expenses/amount)/V(F9d)>>
+<</T(34 g. Other expenses (specify))/V(F9e)>>
+<</T(34 g. Other expenses/amount)/V(F9f)>>
+<</T(34 h. Other expenses (specify))/V(Fa0)>>
+<</T(34 h. Other expenses/amount)/V(Fa1)>>
+<</T(34 i. Other expenses (specify))/V(Fa2)>>
+<</T(34 i. Other expenses/amount)/V(Fa3)>>
+<</T(34  j. Other expenses (specify))/V(Fa4)>>
+<</T(34 j. Other expenses/amount)/V(Fa5)>>
+<</T(34 k. Other expenses (specify))/V(Fa6)>>
+<</T(34 k. Other expenses/amount)/V(Fa7)>>
+<</T(34. Total other expenses)/V(Fa8)>>
+<</T(35	Total Expenses. Add Lines 6 through 34)/V(Fa9)>>
+<</T(36. Reduce expenses by the total business credits claimed on your PA-40)/V(Faa)>>
+<</T(37. Total Adjusted Expenses deductions. Subtract Line 36 from Line 35)/V(Fab)>>
+<</T(38. Net profit or loss (subtract Line 37 from Line 5))/V(Fad)>>
+<</T(Name of Owner as shown PA tax return)/V(Faf)>>
+<</T(Owner's Social Security Number)/V(Fb0)>>
+<</T(Schedule C-1 1. Inventory)/V(Fb1)>>
+<</T(2a. Purchases)/V(Fb2)>>
+<</T(2a. Other Depreciation:)/V(Fb3)>>
+<</T(2b. Cost of items withdrawn for personal use)/V(Fb4)>>
+<</T(2b. Other Depreciation:)/V(Fb5)>>
+<</T(2c. Balance)/V(Fb6)>>
+<</T(2c. Other Depreciation:)/V(Fb7)>>
+<</T(2 g1. Depreciation for this year)/V(Fb9)>>
+<</T(2 g2. ODepreciation for this year)/V(Fba)>>
+<</T(2 g3. Depreciation for this year)/V(Fbb)>>
+<</T(2 g4. Depreciation for this year)/V(Fbc)>>
+<</T(2 g5. Depreciation for this year)/V(Fbd)>>
+<</T(2 g6. Depreciation for this year)/V(Fbe)>>
+<</T(2 g7. Depreciation for this year)/V(Fbf)>>
+<</T(2d. Other Depreciation:)/V(Fc0)>>
+<</T(2 g8. Depreciation for this year)/V(Fc1)>>
+<</T(2e. Other Depreciation:)/V(Fc2)>>
+<</T(2 g9. Depreciation for this year)/V(Fc3)>>
+<</T(2f. Other Depreciation:)/V(Fc4)>>
+<</T(2 g10. Depreciation for this year)/V(Fc5)>>
+<</T(2g. Other Depreciation:)/V(Fc6)>>
+<</T(2 g11. Depreciation for this year)/V(Fc7)>>
+<</T(2h. Other Depreciation:)/V(Fc8)>>
+<</T(2 g12. Depreciation for this year)/V(Fc9)>>
+<</T(2i. Other Depreciation:)/V(Fca)>>
+<</T(2 g13. Depreciation for this year)/V(Fcb)>>
+<</T(2j. Other Depreciation:)/V(Fcc)>>
+<</T(2 g14. Depreciation for this year)/V(Fcd)>>
+<</T(2k. Other Depreciation:)/V(Fce)>>
+<</T(2 g15. Depreciation for this year)/V(Fcf)>>
+<</T(2L. Other Depreciation:)/V(Fd0)>>
+<</T(2 g16. Depreciation for this year)/V(Fd1)>>
+<</T(2m. Other Depreciation:)/V(Fd2)>>
+<</T(2 g17. Depreciation for this year)/V(Fd3)>>
+<</T(5 g. Totals)/V(Fd4)>>
+<</T(6 g. Any depreciation included in Schedule C-1)/V(Fd5)>>
+<</T(7 g. Balance)/V(Fd6)>>
+] >> >>
+endobj
+trailer
+<</Root 1 0 R>>
+%%EOF
+

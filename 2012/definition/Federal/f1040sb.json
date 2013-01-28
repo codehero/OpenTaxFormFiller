@@ -66,9 +66,9 @@
 		"L5_16Name" : "Text",
 		"L5_16" : "Amount",
 		"L6" : "Amount",
-		"L7a_1" : "Choice",
-		"L7a_2" : "Choice",
+		"L7a_1" : "ChoiceArray",
+		"L7a_2" : "ChoiceArray",
 		"L7b" : "Text",
-		"L8" : "Choice"
+		"L8" : "ChoiceArray"
 	}
 }

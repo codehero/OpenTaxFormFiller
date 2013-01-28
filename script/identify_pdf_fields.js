@@ -74,7 +74,7 @@ fs.readFile(process.argv[2], "utf8", function(err, data){
 				return;
 
 			/* Skip over already populated fields if desired. */
-			if(("value" in f) && g_keep_values)
+			if(("value" in f) && g_keep_values && f.type != "Button")
 				return;
 
 			fields.push(f);

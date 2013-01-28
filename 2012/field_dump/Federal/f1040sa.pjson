@@ -38,6 +38,16 @@
 "fdf":"topmostSubform[0].Page1[0].p1-t12[0]",
 "type":"text"
 },
+"Fa":{
+"fdf":"topmostSubform[0].Page1[0].p1-cb1[0]",
+"type":"checkbox",
+"options":["1","Off"]
+},
+"Fb":{
+"fdf":"topmostSubform[0].Page1[0].p1-cb1[1]",
+"type":"checkbox",
+"options":["2","Off"]
+},
 "Fc":{
 "fdf":"topmostSubform[0].Page1[0].p1-t13[0]",
 "type":"text"
@@ -277,4 +287,9 @@
 "F47":{
 "fdf":"topmostSubform[0].Page1[0].p1-t72[0]",
 "type":"text"
+},
+"F48":{
+"fdf":"topmostSubform[0].Page1[0].p1-cb5[0]",
+"type":"checkbox",
+"options":["Off","X"]
 },

@@ -8,19 +8,19 @@
 	},
 	"sequence" : 12,
 	"fields":{
-		"Name(s) shown on return":{
+		"BothNames":{
 			"fdf":"topmostSubform[0].Page1[0].f1_001[0]",
 			"type":"text"
 		},
-		"Your social security number":{
+		"YourSSN":{
 			"fdf":"topmostSubform[0].Page1[0].f1_002[0]",
 			"type":"text"
 		},
-		"L1e":{
+		"L1d":{
 			"fdf":"topmostSubform[0].Page1[0].TablePartI[0].Line1[0].f1_003[0]",
 			"type":"text"
 		},
-		"L1f":{
+		"L1e":{
 			"fdf":"topmostSubform[0].Page1[0].TablePartI[0].Line1[0].f1_004[0]",
 			"type":"text"
 		},
@@ -32,11 +32,11 @@
 			"fdf":"topmostSubform[0].Page1[0].TablePartI[0].Line1[0].f1_006[0]",
 			"type":"text"
 		},
-		"L2e":{
+		"L2d":{
 			"fdf":"topmostSubform[0].Page1[0].TablePartI[0].Line2[0].f1_007[0]",
 			"type":"text"
 		},
-		"L2f":{
+		"L2e":{
 			"fdf":"topmostSubform[0].Page1[0].TablePartI[0].Line2[0].f1_008[0]",
 			"type":"text"
 		},
@@ -48,11 +48,11 @@
 			"fdf":"topmostSubform[0].Page1[0].TablePartI[0].Line2[0].f1_010[0]",
 			"type":"text"
 		},
-		"L3e":{
+		"L3d":{
 			"fdf":"topmostSubform[0].Page1[0].TablePartI[0].Line3[0].f1_011[0]",
 			"type":"text"
 		},
-		"L3f":{
+		"L3e":{
 			"fdf":"topmostSubform[0].Page1[0].TablePartI[0].Line3[0].f1_012[0]",
 			"type":"text"
 		},
@@ -80,11 +80,11 @@
 			"fdf":"topmostSubform[0].Page1[0].f1_018[0]",
 			"type":"text"
 		},
-		"L8e":{
+		"L8d":{
 			"fdf":"topmostSubform[0].Page1[0].TablePartII[0].Line8[0].f1_019[0]",
 			"type":"text"
 		},
-		"L8f":{
+		"L8e":{
 			"fdf":"topmostSubform[0].Page1[0].TablePartII[0].Line8[0].f1_020[0]",
 			"type":"text"
 		},
@@ -96,11 +96,11 @@
 			"fdf":"topmostSubform[0].Page1[0].TablePartII[0].Line8[0].f1_022[0]",
 			"type":"text"
 		},
-		"L9e":{
+		"L9d":{
 			"fdf":"topmostSubform[0].Page1[0].TablePartII[0].Line9[0].f1_023[0]",
 			"type":"text"
 		},
-		"L9f":{
+		"L9e":{
 			"fdf":"topmostSubform[0].Page1[0].TablePartII[0].Line9[0].f1_024[0]",
 			"type":"text"
 		},
@@ -112,11 +112,11 @@
 			"fdf":"topmostSubform[0].Page1[0].TablePartII[0].Line9[0].f1_026[0]",
 			"type":"text"
 		},
-		"L10e":{
+		"L10d":{
 			"fdf":"topmostSubform[0].Page1[0].TablePartII[0].Line10[0].f1_027[0]",
 			"type":"text"
 		},
-		"L10f":{
+		"L10e":{
 			"fdf":"topmostSubform[0].Page1[0].TablePartII[0].Line10[0].f1_028[0]",
 			"type":"text"
 		},
