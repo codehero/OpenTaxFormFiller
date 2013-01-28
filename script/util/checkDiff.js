@@ -26,7 +26,7 @@ if(cmd == "dmp_trans"){
 /*
  * Check FIELD DUMP file with Transform file
  * */	
-	function checkDmpTransform(type, data1, data2){
+	function checkDmpTransform(type, data1, data2){ //dont work very well, use DTF, TF or FT
 		firstLoop:
 		for(var e in data1){
 			for(var r in data2){
@@ -52,7 +52,7 @@ if(cmd == "dmp_trans"){
 		return len;
 	}
 
-	function checkDefTransform(type, data1, data2, isDef, ignoreCheck, data3){
+	function checkDefTransform(type, data1, data2, isDef, ignoreCheck, data3){//dont work very well, use DTF, TF or FT
 		firstLoop:
 		for(var e in data1.fields){
 			if(e in supportedJS.commonFields){
