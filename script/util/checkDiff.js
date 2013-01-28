@@ -177,14 +177,27 @@ if(cmd == "dmp_trans"){
 			result.push(transf + " fieldDump not found");
 		}
 	}
-
+}else if(cmd == "MKTRANSFORM"){ //Generate transform from Definition and FieldDump
+	if(definitionJS.fields.length != fieldDumpJS.length){
+		throw new Error("Definition file and field dump file dont have the same size: " + cmd);
+	}
+	var i=0;
+	var defKeys = Object.keys(definitionJS.fields);
+	for(var fieldDump in fieldDumpJS){
+		transfJS.fields[defKeys[i]] = {};
+		transfJS.fields[defKeys[i]] = fieldDumpJS[fieldDump];
+		i++;
+	}
+	var fname = "/tmp/newTranform-"+ new Date().getTime() +".txt";
+	var stream = fs.createWriteStream(fname, {flags: 'w'});
+	stream.write(JSON.stringify(process.argv,null,4) + "\n");
+	stream.write(JSON.stringify(transfJS,null,4) + "\n");
 }else{
 	throw new Error("Command not defined: " + cmd);
 }
 
 var fname = "/tmp/checkdiff-"+ new Date().getTime() +".txt";
 var stream = fs.createWriteStream(fname, {flags: 'w'});
-//console.error(JSON.stringify(result));
 stream.write(JSON.stringify(process.argv,null,4) + "\n");
 stream.write(JSON.stringify(result,null,4));
 console.error(fname + ": " + process.argv.join(" "));
