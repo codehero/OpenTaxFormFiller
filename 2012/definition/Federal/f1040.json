@@ -2,9 +2,11 @@
 	"form" : "1040",
 	"year" : 2012,
 	"fields" : {
+		"SpouseSeparateName" : "Text",
+		"QualifyingPersonName" : "Text",
 		"PEC_You" : "Choice",
 		"PEC_Spouse" : "Choice",
-		"FilingStatus" : "Choice",
+		"FilingStatus" : "ChoiceArray",
 		"L6a" : "Choice",
 		"L6b" : "Choice",
 		"L6c1_4" : "Choice",
@@ -12,6 +14,7 @@
 		"L6c3_4" : "Choice",
 		"L6c4_4" : "Choice",
 		"L6_MoreThan4" : "Choice",
+		"TotalExemptions" : "Text",
 		"L7" : "Amount",
 		"L8a" : "Amount",
 		"L8b" : "Amount",
@@ -110,12 +113,12 @@
 		"L74a" : "Amount",
 		"L74a_8888" : "Choice",
 		"L74b" : "Text",
-		"L74c" : "Choice",
+		"L74c" : "ChoiceArray",
 		"L74d" : "Text",
 		"L75" : "Amount",
 		"L76" : "Amount",
 		"L77" : "Amount",
-		"ThirdPartyDesignee" : "Choice",
+		"ThirdPartyDesignee" : "ChoiceArray",
 		"PaidPreparerSelfEmployed" : "Choice"
 	}
 }

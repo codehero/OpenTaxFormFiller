@@ -36,11 +36,11 @@
 		"L14" : "Number",
 		"L15" : "Number",
 		"L16" : "Number",
-		"L17" : "Choice",
+		"L17" : "ChoiceArray",
 		"L18" : "Number",
 		"L19" : "Number",
-		"L20" : "Choice",
+		"L20" : "ChoiceArray",
 		"L21" : "Number",
-		"L22" : "Choice"
+		"L22" : "ChoiceArray"
 	}
 }
