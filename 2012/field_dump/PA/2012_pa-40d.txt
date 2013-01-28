@@ -1,0 +1,1139 @@
+---
+FieldType: Button
+FieldName: start box
+FieldNameAlt: icon
+FieldFlags: 65537
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Social Security Number
+FieldNameAlt: Social Security Number 
+FieldFlags: 8388608
+FieldJustification: Left
+FieldMaxLength: 9
+---
+FieldType: Button
+FieldName: MM/DD/YY
+FieldFlags: 65537
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 1.(a) Describe the property: 100 shares of XYZ stock, or 10 acres in Dauphin County
+FieldNameAlt: Describe the property: 100 shares of XYZ stock, or 10 acres in Dauphin County
+FieldFlags: 12582912
+FieldJustification: Left
+FieldMaxLength: 43
+---
+FieldType: Text
+FieldName: 1. (b) Date acquired: Month/day/year
+FieldNameAlt: Date acquired: Month/day/year
+FieldFlags: 12582912
+FieldJustification: Center
+FieldMaxLength: 8
+---
+FieldType: Button
+FieldName: 1. Loss
+FieldNameAlt: Loss
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: 1.
+FieldStateOption: Off
+---
+FieldType: Text
+FieldName: 1c. Month/Day/Year - sold
+FieldNameAlt: Date sold: Month/Day/Year
+FieldFlags: 12582912
+FieldJustification: Center
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 1d. Gross sales price less expense od sale
+FieldNameAlt: Gross sales price 
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 1e. Cost or Adjusted Basis of the property sold
+FieldNameAlt: Cost or Adjusted Basis
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 1 (f) Gain or loss (d) minus (e) If a loss, fill in the oval
+FieldNameAlt: Gain or loss (d) minus (e)
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 2.(a) Describe the property: 100 shares of XYZ stock, or 10 acres in Dauphin County
+FieldNameAlt: Describe the property: 100 shares of XYZ stock, or 10 acres in Dauphin County
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 2. (b) Date acquired: Month/day/year
+FieldNameAlt: Date acquired: Month/day/year
+FieldFlags: 12582912
+FieldJustification: Center
+FieldMaxLength: 8
+---
+FieldType: Button
+FieldName: 2. Loss
+FieldNameAlt: Loss
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: 1.
+FieldStateOption: Off
+---
+FieldType: Button
+FieldName: 2. sales loss
+FieldNameAlt: Loss
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: 1.
+FieldStateOption: Off
+---
+FieldType: Text
+FieldName: 2. Net gain or loss from above sales
+FieldNameAlt: Net gain (loss) from above sales
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 2c. Month/Day/Year - sold
+FieldNameAlt: Date sold: Month/Day/Year
+FieldFlags: 12582912
+FieldJustification: Center
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 2d. Gross sales price less expense od sale
+FieldNameAlt: Gross sales price 
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 2e. Cost or Adjusted Basis of the property sold
+FieldNameAlt: Cost or Adjusted Basis
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 2 (f) Gain or loss (d) minus (e) If a loss, fill in the oval
+FieldNameAlt: Gain or loss (d) minus (e)
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 3.(a) Describe the property: 100 shares of XYZ stock, or 10 acres in Dauphin County
+FieldNameAlt: Describe the property: 100 shares of XYZ stock, or 10 acres in Dauphin County
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 3. (b) Date acquired: Month/day/year
+FieldNameAlt: Date acquired: Month/day/year
+FieldFlags: 12582912
+FieldJustification: Center
+FieldMaxLength: 8
+---
+FieldType: Button
+FieldName: 3. Loss
+FieldNameAlt: Loss
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: 1.
+FieldStateOption: Off
+---
+FieldType: Text
+FieldName: 3. Gain from installment sales
+FieldNameAlt: Gain from installment sales from PA Schedule D-1
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 3c. Month/Day/Year - sold
+FieldNameAlt: Date sold: Month/Day/Year
+FieldFlags: 12582912
+FieldJustification: Center
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 3d. Gross sales price less expense od sale
+FieldNameAlt: Gross sales price 
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 3e. Cost or Adjusted Basis of the property sold
+FieldNameAlt: Cost or Adjusted Basis
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 3 (f) Gain or loss (d) minus (e) If a loss, fill in the oval
+FieldNameAlt: Gain or loss (d) minus (e)
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 4.(a) Describe the property: 100 shares of XYZ stock, or 10 acres in Dauphin County
+FieldNameAlt: Describe the property: 100 shares of XYZ stock, or 10 acres in Dauphin County
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 4. (b) Date acquired: Month/day/year
+FieldNameAlt: Date acquired: Month/day/year
+FieldFlags: 12582912
+FieldJustification: Center
+FieldMaxLength: 8
+---
+FieldType: Button
+FieldName: 4. Loss
+FieldNameAlt: Loss
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: 1.
+FieldStateOption: Off
+---
+FieldType: Text
+FieldName: 4. Total distribution
+FieldNameAlt: Enter total distribution
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 12
+---
+FieldType: Text
+FieldName: 4. Minus Adjusted Basis
+FieldNameAlt: Minus Adjusted Basis
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 12
+---
+FieldType: Text
+FieldName: 4. Taxable distributions from C corporations
+FieldNameAlt: Taxable distributions from C corporations
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 12
+---
+FieldType: Text
+FieldName: 4c. Month/Day/Year - sold
+FieldNameAlt: Date sold: Month/Day/Year
+FieldFlags: 12582912
+FieldJustification: Center
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 4d. Gross sales price less expense od sale
+FieldNameAlt: Gross sales price 
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 4e. Cost or Adjusted Basis of the property sold
+FieldNameAlt: Cost or Adjusted Basis
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 4 (f) Gain or loss (d) minus (e) If a loss, fill in the oval
+FieldNameAlt: Gain or loss (d) minus (e)
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 5.(a) Describe the property: 100 shares of XYZ stock, or 10 acres in Dauphin County
+FieldNameAlt: Describe the property: 100 shares of XYZ stock, or 10 acres in Dauphin County
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 5. (b) Date acquired: Month/day/year
+FieldNameAlt: Date acquired: Month/day/year
+FieldFlags: 12582912
+FieldJustification: Center
+FieldMaxLength: 8
+---
+FieldType: Button
+FieldName: 5. Loss
+FieldNameAlt: Loss
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: 1.
+FieldStateOption: Off
+---
+FieldType: Button
+FieldName: 5. Net gain (loss)
+FieldNameAlt: Loss
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: 1.
+FieldStateOption: Off
+---
+FieldType: Text
+FieldName: 5. Net gain or loss from the sale of 6-1-71 property from PA Schedule D-71
+FieldNameAlt: Net gain (loss) from the sale of 6-1-71 property from PA Schedule D-71
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 5c. Month/Day/Year - sold
+FieldNameAlt: Date sold: Month/Day/Year
+FieldFlags: 12582912
+FieldJustification: Center
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 5d. Gross sales price less expense od sale
+FieldNameAlt: Gross sales price 
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 5e. Cost or Adjusted Basis of the property sold
+FieldNameAlt: Cost or Adjusted Basis
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 5 (f) Gain or loss (d) minus (e) If a loss, fill in the oval
+FieldNameAlt: Gain or loss (d) minus (e)
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 6.(a) Describe the property: 100 shares of XYZ stock, or 10 acres in Dauphin County
+FieldNameAlt: Describe the property: 100 shares of XYZ stock, or 10 acres in Dauphin County
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 6. (b) Date acquired: Month/day/year
+FieldNameAlt: Date acquired: Month/day/year
+FieldFlags: 12582912
+FieldJustification: Center
+FieldMaxLength: 8
+---
+FieldType: Button
+FieldName: 6. Loss
+FieldNameAlt: Loss
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: 1.
+FieldStateOption: Off
+---
+FieldType: Button
+FieldName: 6. Net PA S (loss)
+FieldNameAlt: Loss
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: 1.
+FieldStateOption: Off
+---
+FieldType: Text
+FieldName: 6. Net partnership gain or loss from your PA Schedule(s) RK-1 or NRK-1
+FieldNameAlt: Net PA S corporation and partnership gain (loss) from your PA Schedule(s) RK-1 or NRK-1
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 6c. Month/Day/Year - sold
+FieldNameAlt: Date sold: Month/Day/Year
+FieldFlags: 12582912
+FieldJustification: Center
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 6d. Gross sales price less expense od sale
+FieldNameAlt: Gross sales price 
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 6e. Cost or Adjusted Basis of the property sold
+FieldNameAlt: Cost or Adjusted Basis
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 6 (f) Gain or loss (d) minus (e) If a loss, fill in the oval
+FieldNameAlt: Gain or loss (d) minus (e)
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 7.(a) Describe the property: 100 shares of XYZ stock, or 10 acres in Dauphin County
+FieldNameAlt: Describe the property: 100 shares of XYZ stock, or 10 acres in Dauphin County
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 7. (b) Date acquired: Month/day/year
+FieldNameAlt: Date acquired: Month/day/year
+FieldFlags: 12582912
+FieldJustification: Center
+FieldMaxLength: 8
+---
+FieldType: Button
+FieldName: 7. Loss
+FieldNameAlt: Loss
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: 1.
+FieldStateOption: Off
+---
+FieldType: Text
+FieldName: 7. Taxable gain
+FieldNameAlt: Taxable gain from the sale of your principal residence.
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 7c. Month/Day/Year - sold
+FieldNameAlt: Date sold: Month/Day/Year
+FieldFlags: 12582912
+FieldJustification: Center
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 7d. Gross sales price less expense od sale
+FieldNameAlt: Gross sales price 
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 7e. Cost or Adjusted Basis of the property sold
+FieldNameAlt: Cost or Adjusted Basis
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 7 (f) Gain or loss (d) minus (e) If a loss, fill in the oval
+FieldNameAlt: Gain or loss (d) minus (e)
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 8.(a) Describe the property: 100 shares of XYZ stock, or 10 acres in Dauphin County
+FieldNameAlt: Describe the property: 100 shares of XYZ stock, or 10 acres in Dauphin County
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 8. (b) Date acquired: Month/day/year
+FieldNameAlt: Date acquired: Month/day/year
+FieldFlags: 12582912
+FieldJustification: Center
+FieldMaxLength: 8
+---
+FieldType: Button
+FieldName: 8. Loss
+FieldNameAlt: Loss
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: 1.
+FieldStateOption: Off
+---
+FieldType: Text
+FieldName: 8. Taxable distributions from Line 7c of REV-999
+FieldNameAlt: Taxable distributions from Line 7c of REV-999
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 8c. Month/Day/Year - sold
+FieldNameAlt: Date sold: Month/Day/Year
+FieldFlags: 12582912
+FieldJustification: Center
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 8d. Gross sales price less expense od sale
+FieldNameAlt: Gross sales price 
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 8e. Cost or Adjusted Basis of the property sold
+FieldNameAlt: Cost or Adjusted Basis
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 8 (f) Gain or loss (d) minus (e) If a loss, fill in the oval
+FieldNameAlt: Gain or loss (d) minus (e)
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 9.(a) Describe the property: 100 shares of XYZ stock, or 10 acres in Dauphin County
+FieldNameAlt: Describe the property: 100 shares of XYZ stock, or 10 acres in Dauphin County
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 9. (b) Date acquired: Month/day/year
+FieldNameAlt: Date acquired: Month/day/year
+FieldFlags: 12582912
+FieldJustification: Center
+FieldMaxLength: 8
+---
+FieldType: Button
+FieldName: 9. Loss
+FieldNameAlt: Loss
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: 1.
+FieldStateOption: Off
+---
+FieldType: Text
+FieldName: 9. Taxable distributions from Line 17A of REV-998
+FieldNameAlt: Taxable distributions from Line 17A of REV-998
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 9c. Month/Day/Year - sold
+FieldNameAlt: Date sold: Month/Day/Year
+FieldFlags: 12582912
+FieldJustification: Center
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 9d. Gross sales price less expense od sale
+FieldNameAlt: Gross sales price 
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 9e. Cost or Adjusted Basis of the property sold
+FieldNameAlt: Cost or Adjusted Basis
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 9 (f) Gain or loss (d) minus (e) If a loss, fill in the oval
+FieldNameAlt: Gain or loss (d) minus (e)
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 10.(a) Describe the property: 100 shares of XYZ stock, or 10 acres in Dauphin County
+FieldNameAlt: Describe the property: 100 shares of XYZ stock, or 10 acres in Dauphin County
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 10. (b) Date acquired: Month/day/year
+FieldNameAlt: Date acquired: Month/day/year
+FieldFlags: 12582912
+FieldJustification: Center
+FieldMaxLength: 8
+---
+FieldType: Button
+FieldName: 10. Loss
+FieldNameAlt: Loss
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: 1.
+FieldStateOption: Off
+---
+FieldType: Text
+FieldName: 10. Taxable gain from exchange of insurance contracts
+FieldNameAlt: Taxable gain from exchange of insurance contracts.
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 10c. Month/Day/Year - sold
+FieldNameAlt: Date sold: Month/Day/Year
+FieldFlags: 12582912
+FieldJustification: Center
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 10d. Gross sales price less expense od sale
+FieldNameAlt: Gross sales price 
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 10 e. Cost or Adjusted Basis of the property sold
+FieldNameAlt: Cost or Adjusted Basis
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 10 (f) Gain or loss (d) minus (e) If a loss, fill in the oval
+FieldNameAlt: Gain or loss (d) minus (e)
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 11. (a) Describe the property: 100 shares of XYZ stock, or 10 acres in Dauphin County
+FieldNameAlt: Describe the property: 100 shares of XYZ stock, or 10 acres in Dauphin County
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 11. (b) Date acquired: Month/day/year
+FieldNameAlt: Date acquired: Month/day/year
+FieldFlags: 12582912
+FieldJustification: Center
+FieldMaxLength: 8
+---
+FieldType: Button
+FieldName: 11. Loss
+FieldNameAlt: Loss
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: 1.
+FieldStateOption: Off
+---
+FieldType: Text
+FieldName: 11. Total PA taxable gain or loss
+FieldNameAlt: Total PA taxable gain (loss). 
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Button
+FieldName: 11. Loss (Line 5)
+FieldNameAlt: Loss
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: 1.
+FieldStateOption: Off
+---
+FieldType: Text
+FieldName: 11c. Month/Day/Year - sold
+FieldNameAlt: Date sold: Month/Day/Year
+FieldFlags: 12582912
+FieldJustification: Center
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 11d. Gross sales price less expense od sale
+FieldNameAlt: Gross sales price 
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 11 e. Cost or Adjusted Basis of the property sold
+FieldNameAlt: Cost or Adjusted Basis
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 11 (f) Gain or loss (d) minus (e) If a loss, fill in the oval
+FieldNameAlt: Gain or loss (d) minus (e)
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 12. (a) Describe the property: 100 shares of XYZ stock, or 10 acres in Dauphin County
+FieldNameAlt: Describe the property: 100 shares of XYZ stock, or 10 acres in Dauphin County
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 12. (b) Date acquired: Month/day/year
+FieldNameAlt: Date acquired: Month/day/year
+FieldFlags: 12582912
+FieldJustification: Center
+FieldMaxLength: 8
+---
+FieldType: Button
+FieldName: 12. Loss
+FieldNameAlt: Loss
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: 1.
+FieldStateOption: Off
+---
+FieldType: Text
+FieldName: 12c. Month/Day/Year - sold
+FieldNameAlt: Date sold: Month/Day/Year
+FieldFlags: 12582912
+FieldJustification: Center
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 12d. Gross sales price less expense od sale
+FieldNameAlt: Gross sales price 
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 12 e. Cost or Adjusted Basis of the property sold
+FieldNameAlt: Cost or Adjusted Basis
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 12 (f) Gain or loss (d) minus (e) If a loss, fill in the oval
+FieldNameAlt: Gain or loss (d) minus (e)
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 13. (a) Describe the property: 100 shares of XYZ stock, or 10 acres in Dauphin County
+FieldNameAlt: Describe the property: 100 shares of XYZ stock, or 10 acres in Dauphin County
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 13. (b) Date acquired: Month/day/year
+FieldNameAlt: Date acquired: Month/day/year
+FieldFlags: 12582912
+FieldJustification: Center
+FieldMaxLength: 8
+---
+FieldType: Button
+FieldName: 13. Loss
+FieldNameAlt: Loss
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: 1.
+FieldStateOption: Off
+---
+FieldType: Text
+FieldName: 13c. Month/Day/Year - sold
+FieldNameAlt: Date sold: Month/Day/Year
+FieldFlags: 12582912
+FieldJustification: Center
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 13d. Gross sales price less expense od sale
+FieldNameAlt: Gross sales price 
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 13 e. Cost or Adjusted Basis of the property sold
+FieldNameAlt: Cost or Adjusted Basis
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 13 (f) Gain or loss (d) minus (e) If a loss, fill in the oval
+FieldNameAlt: Gain or loss (d) minus (e)
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 14.(a) Describe the property: 100 shares of XYZ stock, or 10 acres in Dauphin County
+FieldNameAlt: Describe the property: 100 shares of XYZ stock, or 10 acres in Dauphin County
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 14. (b) Date acquired: Month/day/year
+FieldNameAlt: Date acquired: Month/day/year
+FieldFlags: 12582912
+FieldJustification: Center
+FieldMaxLength: 8
+---
+FieldType: Button
+FieldName: 14. Loss
+FieldNameAlt: Loss
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: 1.
+FieldStateOption: Off
+---
+FieldType: Text
+FieldName: 14c. Month/Day/Year - sold
+FieldNameAlt: Date sold: Month/Day/Year
+FieldFlags: 12582912
+FieldJustification: Center
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 14d. Gross sales price less expense od sale
+FieldNameAlt: Gross sales price 
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 14 e. Cost or Adjusted Basis of the property sold
+FieldNameAlt: Cost or Adjusted Basis
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 14 (f) Gain or loss (d) minus (e) If a loss, fill in the oval
+FieldNameAlt: Gain or loss (d) minus (e)
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 15.(a) Describe the property: 100 shares of XYZ stock, or 10 acres in Dauphin County
+FieldNameAlt: Describe the property: 100 shares of XYZ stock, or 10 acres in Dauphin County
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 15. (b) Date acquired: Month/day/year
+FieldNameAlt: Date acquired: Month/day/year
+FieldFlags: 12582912
+FieldJustification: Center
+FieldMaxLength: 8
+---
+FieldType: Button
+FieldName: 15. Loss
+FieldNameAlt: Loss
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: 1.
+FieldStateOption: Off
+---
+FieldType: Text
+FieldName: 15c. Month/Day/Year - sold
+FieldNameAlt: Date sold: Month/Day/Year
+FieldFlags: 12582912
+FieldJustification: Center
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 15d. Gross sales price less expense od sale
+FieldNameAlt: Gross sales price 
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 15 e. Cost or Adjusted Basis of the property sold
+FieldNameAlt: Cost or Adjusted Basis
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 15 (f) Gain or loss (d) minus (e) If a loss, fill in the oval
+FieldNameAlt: Gain or loss (d) minus (e)
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 16.(a) Describe the property: 100 shares of XYZ stock, or 10 acres in Dauphin County
+FieldNameAlt: Describe the property: 100 shares of XYZ stock, or 10 acres in Dauphin County
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 16. (b) Date acquired: Month/day/year
+FieldNameAlt: Date acquired: Month/day/year
+FieldFlags: 12582912
+FieldJustification: Center
+FieldMaxLength: 8
+---
+FieldType: Button
+FieldName: 16. Loss
+FieldNameAlt: Loss
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: 1.
+FieldStateOption: Off
+---
+FieldType: Text
+FieldName: 16c. Month/Day/Year - sold
+FieldNameAlt: Date sold: Month/Day/Year
+FieldFlags: 12582912
+FieldJustification: Center
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 16d. Gross sales price less expense od sale
+FieldNameAlt: Gross sales price 
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 16 e. Cost or Adjusted Basis of the property sold
+FieldNameAlt: Cost or Adjusted Basis
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 16 (f) Gain or loss (d) minus (e) If a loss, fill in the oval
+FieldNameAlt: Gain or loss (d) minus (e)
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 17.(a) Describe the property: 100 shares of XYZ stock, or 10 acres in Dauphin County
+FieldNameAlt: Describe the property: 100 shares of XYZ stock, or 10 acres in Dauphin County
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 17. (b) Date acquired: Month/day/year
+FieldNameAlt: Date acquired: Month/day/year
+FieldFlags: 12582912
+FieldJustification: Center
+FieldMaxLength: 8
+---
+FieldType: Button
+FieldName: 17. Loss
+FieldNameAlt: Loss
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: 1.
+FieldStateOption: Off
+---
+FieldType: Text
+FieldName: 17c. Month/Day/Year - sold
+FieldNameAlt: Date sold: Month/Day/Year
+FieldFlags: 12582912
+FieldJustification: Center
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 17d. Gross sales price less expense od sale
+FieldNameAlt: Gross sales price 
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 17 e. Cost or Adjusted Basis of the property sold
+FieldNameAlt: Cost or Adjusted Basis
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 18.(a) Describe the property: 100 shares of XYZ stock, or 10 acres in Dauphin County
+FieldNameAlt: Describe the property: 100 shares of XYZ stock, or 10 acres in Dauphin County
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 18. (b) Date acquired: Month/day/year
+FieldNameAlt: Date acquired: Month/day/year
+FieldFlags: 12582912
+FieldJustification: Center
+FieldMaxLength: 8
+---
+FieldType: Button
+FieldName: 18. Loss
+FieldNameAlt: Loss
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: 1.
+FieldStateOption: Off
+---
+FieldType: Text
+FieldName: 18c. Month/Day/Year - sold
+FieldNameAlt: Date sold: Month/Day/Year
+FieldFlags: 12582912
+FieldJustification: Center
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 18d. Gross sales price less expense od sale
+FieldNameAlt: Gross sales price 
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 18 e. Cost or Adjusted Basis of the property sold
+FieldNameAlt: Cost or Adjusted Basis
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 18 (f) Gain or loss (d) minus (e) If a loss, fill in the oval
+FieldNameAlt: Gain or loss (d) minus (e)
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 19.(a) Describe the property: 100 shares of XYZ stock, or 10 acres in Dauphin County
+FieldNameAlt: Describe the property: 100 shares of XYZ stock, or 10 acres in Dauphin County
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 19. (b) Date acquired: Month/day/year
+FieldNameAlt: Date acquired: Month/day/year
+FieldFlags: 12582912
+FieldJustification: Center
+FieldMaxLength: 8
+---
+FieldType: Button
+FieldName: 19. Loss
+FieldNameAlt: Loss
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: 1.
+FieldStateOption: Off
+---
+FieldType: Text
+FieldName: 19c. Month/Day/Year - sold
+FieldNameAlt: Date sold: Month/Day/Year
+FieldFlags: 12582912
+FieldJustification: Center
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 19d. Gross sales price less expense od sale
+FieldNameAlt: Gross sales price 
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 19 e. Cost or Adjusted Basis of the property sold
+FieldNameAlt: Cost or Adjusted Basis
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 19 (f) Gain or loss (d) minus (e) If a loss, fill in the oval
+FieldNameAlt: Gain or loss (d) minus (e)
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Button
+FieldName: arrow
+FieldFlags: 65537
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: a. Address of residence
+FieldNameAlt: Address of residence
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: b. Date acquired
+FieldNameAlt: Date acquired
+FieldFlags: 12582912
+FieldJustification: Center
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: c. Date sold
+FieldNameAlt: Date sold
+FieldFlags: 12582912
+FieldJustification: Center
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: d. Gross sales price
+FieldNameAlt: Gross sales price
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: e. Cost or Adjusted Basis
+FieldNameAlt: Cost or Adjusted Basis
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Button
+FieldName: RESET FORM
+FieldNameAlt: reset entire form
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: RETURN TO TOP
+FieldNameAlt: RETURN TO TOP
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: Print Form
+FieldNameAlt: print
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: Taxpayer/Spouse/Joint
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: 1
+FieldStateOption: 2
+FieldStateOption: 3
+FieldStateOption: Off
+---
+FieldType: Text
+FieldName: Name of the taxpayer filing this schedule (if filing a PA-40 jointly enter the name shown first)
+FieldNameAlt:  Name of the taxpayer filing this schedule (if filing a PA-40 jointly enter the name shown first)
+FieldFlags: 12582912
+FieldJustification: Left
+FieldMaxLength: 72
+---
+FieldType: Text
+FieldName: 17 (f) Gain or loss (d) minus (e)
+FieldNameAlt: Gain or loss (d) minus (e)
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10

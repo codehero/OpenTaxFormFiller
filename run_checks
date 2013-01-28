@@ -1,0 +1,7 @@
+for x in `echo DTF; echo FT; echo TF`; 
+do 
+	for y in `echo f1040; echo f1040sa; echo f1040sb; echo f1040sc; echo f1040sd; echo f1040sse; echo f4562; echo f8829; echo f8949`;
+	do
+		node script/util/checkDiff.js $x 2012 Federal/$y yes; 
+	done
+done

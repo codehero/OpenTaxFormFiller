@@ -1,0 +1,252 @@
+"F0":{
+"fdf":"Name shown first on the PA-40",
+"type":"text"
+},
+"F1":{
+"fdf":"Social Security Number (shown first)",
+"type":"text"
+},
+"F2":{
+"fdf":"A. Amount of interest received - Line 1",
+"type":"text"
+},
+"F3":{
+"fdf":"A. Amount of interest received - Line 2",
+"type":"text"
+},
+"F4":{
+"fdf":"A. Name of payer of interest - Line 3",
+"type":"text"
+},
+"F5":{
+"fdf":"A. Amount of interest received - Line 3",
+"type":"text"
+},
+"F6":{
+"fdf":"A. Name of payer of interest - Line 4",
+"type":"text"
+},
+"F7":{
+"fdf":"A. Amount of interest received - Line 4",
+"type":"text"
+},
+"F8":{
+"fdf":"A. Name of payer of interest - Line 5",
+"type":"text"
+},
+"F9":{
+"fdf":"A. Amount of interest received - Line 5",
+"type":"text"
+},
+"Fa":{
+"fdf":"A. Name of payer of interest - Line 6",
+"type":"text"
+},
+"Fb":{
+"fdf":"A. Amount of interest received - Line 6",
+"type":"text"
+},
+"Fc":{
+"fdf":"A. Name of payer of interest - Line 7",
+"type":"text"
+},
+"Fd":{
+"fdf":"A. Amount of interest received - Line 7",
+"type":"text"
+},
+"Fe":{
+"fdf":"A. Name of payer of interest - Line 8",
+"type":"text"
+},
+"Ff":{
+"fdf":"A. Amount of interest received - Line 8",
+"type":"text"
+},
+"F10":{
+"fdf":"A. Name of payer of interest - Line 9",
+"type":"text"
+},
+"F11":{
+"fdf":"A. Amount of interest received - Line 9",
+"type":"text"
+},
+"F12":{
+"fdf":"A. Name of payer of interest - Line 10",
+"type":"text"
+},
+"F13":{
+"fdf":"A. Amount of interest received - Line 10",
+"type":"text"
+},
+"F14":{
+"fdf":"A. Name of payer of interest - Line 11",
+"type":"text"
+},
+"F15":{
+"fdf":"A. Amount of interest received - Line 11",
+"type":"text"
+},
+"F16":{
+"fdf":"A. Name of payer of interest - Line 12",
+"type":"text"
+},
+"F17":{
+"fdf":"A. Amount of interest received - Line 12",
+"type":"text"
+},
+"F18":{
+"fdf":"A. Name of payer of interest - Line 1",
+"type":"text"
+},
+"F19":{
+"fdf":"A. Name of payer of interest - Line 2",
+"type":"text"
+},
+"F1a":{
+"fdf":"2. Total Interest Income",
+"type":"text"
+},
+"F1b":{
+"fdf":"2. Total Dividend Income",
+"type":"text"
+},
+"F1c":{
+"fdf":"3. Distributions from Life Insurance, annuity, or endowment contract income",
+"type":"text"
+},
+"F1d":{
+"fdf":"3. Capital Gains Distributions - See instructions",
+"type":"text"
+},
+"F1e":{
+"fdf":"4. Distributions from Charitable Gift Annuities",
+"type":"text"
+},
+"F1f":{
+"fdf":"4.  Dividend Income from PA S corporations and partnerships",
+"type":"text"
+},
+"F20":{
+"fdf":"5. Distributions from IRC Section 529 distributions not used for education",
+"type":"text"
+},
+"F21":{
+"fdf":"5. Total PA Taxable Dividend Income",
+"type":"text"
+},
+"F22":{
+"fdf":"6. Distributions from Health/Medical Savings Accounts",
+"type":"text"
+},
+"F23":{
+"fdf":"7.  Interest Income from PA S corporations and partnerships",
+"type":"text"
+},
+"F24":{
+"fdf":"8. Total PA Taxable Interest Income",
+"type":"text"
+},
+"F27":{
+"fdf":"B. Name of payer of dividends - Line 1",
+"type":"text"
+},
+"F28":{
+"fdf":"B. Amount of dividends received - Line 1",
+"type":"text"
+},
+"F29":{
+"fdf":"B. Name of payer of dividends - Line 2",
+"type":"text"
+},
+"F2a":{
+"fdf":"B. Amount of dividends received - Line 2",
+"type":"text"
+},
+"F2b":{
+"fdf":"B. Name of payer of dividends - Line 3",
+"type":"text"
+},
+"F2c":{
+"fdf":"B. Amount of dividends received - Line 3",
+"type":"text"
+},
+"F2d":{
+"fdf":"B. Name of payer of dividends - Line 4",
+"type":"text"
+},
+"F2e":{
+"fdf":"B. Amount of dividends received - Line 4",
+"type":"text"
+},
+"F2f":{
+"fdf":"B. Name of payer of dividends - Line 5",
+"type":"text"
+},
+"F30":{
+"fdf":"B. Amount of dividends received - Line 5",
+"type":"text"
+},
+"F31":{
+"fdf":"B. Name of payer of dividends - Line 6",
+"type":"text"
+},
+"F32":{
+"fdf":"B. Amount of dividends received - Line 6",
+"type":"text"
+},
+"F33":{
+"fdf":"B. Name of payer of dividends - Line 7",
+"type":"text"
+},
+"F34":{
+"fdf":"B. Amount of dividends received - Line 7",
+"type":"text"
+},
+"F35":{
+"fdf":"B. Name of payer of dividends - Line 8",
+"type":"text"
+},
+"F36":{
+"fdf":"B. Amount of dividends received - Line 8",
+"type":"text"
+},
+"F37":{
+"fdf":"B. Name of payer of dividends - Line 9",
+"type":"text"
+},
+"F38":{
+"fdf":"B. Amount of dividends received - Line 9",
+"type":"text"
+},
+"F39":{
+"fdf":"B. Name of payer of dividends - Line 10",
+"type":"text"
+},
+"F3a":{
+"fdf":"B. Amount of dividends received - Line 10",
+"type":"text"
+},
+"F3b":{
+"fdf":"B. Name of payer of dividends - Line 11",
+"type":"text"
+},
+"F3c":{
+"fdf":"B. Amount of dividends received - Line 11",
+"type":"text"
+},
+"F3d":{
+"fdf":"B. Name of payer of dividends - Line 12",
+"type":"text"
+},
+"F3e":{
+"fdf":"B. Amount of dividends received - Line 12",
+"type":"text"
+},
+"F42":{
+"fdf":"Part A - Taxpayer/Spouse/Joint",
+"type":"text",["1","2","3","Off"]
+},
+"F43":{
+"fdf":"Part B - Taxpayer/Spouse/Joint",
+"type":"text",["1","2","3","Off"]
+},

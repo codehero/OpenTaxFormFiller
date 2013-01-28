@@ -1,0 +1,1712 @@
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].f1_001_0_[0]
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].f1_002_0_[0]
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 11
+---
+FieldType: Button
+FieldName: topmostSubform[0].Page1[0].c1_01_0_[0]
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: A
+FieldStateOption: Off
+---
+FieldType: Button
+FieldName: topmostSubform[0].Page1[0].c1_02_0_[0]
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: B
+FieldStateOption: Off
+---
+FieldType: Button
+FieldName: topmostSubform[0].Page1[0].c1_03_0_[0]
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: C
+FieldStateOption: Off
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row1[0].#field[0]
+FieldFlags: 8392704
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row1[0].f1_2[0]
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row1[0].f1_3[0]
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row1[0].f1_4[0]
+FieldFlags: 0
+FieldJustification: Right
+FieldMaxLength: 14
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row1[0].f1_5[0]
+FieldFlags: 8388608
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row1[0].f1_6[0]
+FieldFlags: 8388608
+FieldJustification: Center
+FieldMaxLength: 7
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row1[0].f1_7[0]
+FieldFlags: 8388608
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row1[0].f1_8[0]
+FieldFlags: 0
+FieldJustification: Right
+FieldMaxLength: 13
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row2[0].f1_11[0]
+FieldFlags: 8392704
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row2[0].f1_12[0]
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row2[0].f1_13[0]
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row2[0].f1_14[0]
+FieldFlags: 0
+FieldJustification: Right
+FieldMaxLength: 14
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row2[0].f1_15[0]
+FieldFlags: 8388608
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row2[0].f1_16[0]
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 7
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row2[0].f1_17[0]
+FieldFlags: 8388608
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row2[0].f1_18[0]
+FieldFlags: 0
+FieldJustification: Right
+FieldMaxLength: 13
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row3[0].f1_21[0]
+FieldFlags: 8392704
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row3[0].f1_22[0]
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row3[0].f1_23[0]
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row3[0].f1_24[0]
+FieldFlags: 0
+FieldJustification: Right
+FieldMaxLength: 14
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row3[0].f1_25[0]
+FieldFlags: 8388608
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row3[0].f1_26[0]
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 7
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row3[0].f1_27[0]
+FieldFlags: 8388608
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row3[0].f1_28[0]
+FieldFlags: 0
+FieldJustification: Right
+FieldMaxLength: 13
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row4[0].f1_31[0]
+FieldFlags: 8392704
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row4[0].f1_32[0]
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row4[0].f1_33[0]
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row4[0].f1_34[0]
+FieldFlags: 0
+FieldJustification: Right
+FieldMaxLength: 14
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row4[0].f1_35[0]
+FieldFlags: 8388608
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row4[0].f1_36[0]
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 7
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row4[0].f1_37[0]
+FieldFlags: 8388608
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row4[0].f1_38[0]
+FieldFlags: 0
+FieldJustification: Right
+FieldMaxLength: 13
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row5[0].f1_1[0]
+FieldFlags: 8392704
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row5[0].f1_42[0]
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row5[0].f1_43[0]
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row5[0].f1_44[0]
+FieldFlags: 0
+FieldJustification: Right
+FieldMaxLength: 14
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row5[0].f1_45[0]
+FieldFlags: 8388608
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row5[0].f1_46[0]
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 7
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row5[0].f1_47[0]
+FieldFlags: 8388608
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row5[0].f1_48[0]
+FieldFlags: 0
+FieldJustification: Right
+FieldMaxLength: 13
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row6[0].f1_51[0]
+FieldFlags: 8392704
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row6[0].f1_52[0]
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row6[0].f1_53[0]
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row6[0].f1_54[0]
+FieldFlags: 0
+FieldJustification: Right
+FieldMaxLength: 14
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row6[0].f1_55[0]
+FieldFlags: 8388608
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row6[0].f1_56[0]
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 7
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row6[0].f1_57[0]
+FieldFlags: 8388608
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row6[0].f1_58[0]
+FieldFlags: 0
+FieldJustification: Right
+FieldMaxLength: 13
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row7[0].f1_61[0]
+FieldFlags: 8392704
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row7[0].f1_62[0]
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row7[0].f1_63[0]
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row7[0].f1_64[0]
+FieldFlags: 0
+FieldJustification: Right
+FieldMaxLength: 14
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row7[0].f1_65[0]
+FieldFlags: 8388608
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row7[0].f1_66[0]
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 7
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row7[0].f1_67[0]
+FieldFlags: 8388608
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row7[0].f1_68[0]
+FieldFlags: 0
+FieldJustification: Right
+FieldMaxLength: 13
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row8[0].f1_71[0]
+FieldFlags: 8392704
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row8[0].f1_72[0]
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row8[0].f1_73[0]
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row8[0].f1_74[0]
+FieldFlags: 0
+FieldJustification: Right
+FieldMaxLength: 14
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row8[0].f1_75[0]
+FieldFlags: 8388608
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row8[0].f1_76[0]
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 7
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row8[0].f1_77[0]
+FieldFlags: 8388608
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row8[0].f1_78[0]
+FieldFlags: 0
+FieldJustification: Right
+FieldMaxLength: 13
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row9[0].f1_81[0]
+FieldFlags: 8392704
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row9[0].f1_82[0]
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row9[0].f1_83[0]
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row9[0].f1_84[0]
+FieldFlags: 0
+FieldJustification: Right
+FieldMaxLength: 14
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row9[0].f1_85[0]
+FieldFlags: 8388608
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row9[0].f1_86[0]
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 7
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row9[0].f1_87[0]
+FieldFlags: 8388608
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row9[0].f1_88[0]
+FieldFlags: 0
+FieldJustification: Right
+FieldMaxLength: 13
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row10[0].f1_91[0]
+FieldFlags: 8392704
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row10[0].f1_92[0]
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row10[0].f1_93[0]
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row10[0].f1_94[0]
+FieldFlags: 0
+FieldJustification: Right
+FieldMaxLength: 14
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row10[0].f1_95[0]
+FieldFlags: 8388608
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row10[0].f1_96[0]
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 7
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row10[0].f1_97[0]
+FieldFlags: 8388608
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row10[0].f1_98[0]
+FieldFlags: 0
+FieldJustification: Right
+FieldMaxLength: 13
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row10[1].f1_101[0]
+FieldNameAlt: f1_101
+FieldFlags: 8392704
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row10[1].f1_102[0]
+FieldNameAlt: f1_102
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row10[1].f1_103[0]
+FieldNameAlt: f1_103
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row10[1].f1_104[0]
+FieldNameAlt: f1_104
+FieldFlags: 0
+FieldJustification: Right
+FieldMaxLength: 14
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row10[1].f1_105[0]
+FieldNameAlt: f1_105
+FieldFlags: 8388608
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row10[1].f1_106[0]
+FieldNameAlt: f1_106
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 7
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row10[1].f1_107[0]
+FieldNameAlt: f1_107
+FieldFlags: 8388608
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row10[1].f1_108[0]
+FieldNameAlt: f1_108
+FieldFlags: 0
+FieldJustification: Right
+FieldMaxLength: 13
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row11[0].f1_111[0]
+FieldNameAlt: f1_111
+FieldFlags: 8392704
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row11[0].f1_112[0]
+FieldNameAlt: f1_112
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row11[0].f1_113[0]
+FieldNameAlt: f1_113
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row11[0].f1_114[0]
+FieldNameAlt: f1_114
+FieldFlags: 0
+FieldJustification: Right
+FieldMaxLength: 14
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row11[0].f1_115[0]
+FieldNameAlt: f1_115
+FieldFlags: 8388608
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row11[0].f1_116[0]
+FieldNameAlt: f1_116
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 7
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row11[0].f1_117[0]
+FieldNameAlt: f1_117
+FieldFlags: 8388608
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row11[0].f1_118[0]
+FieldNameAlt: f1_118
+FieldFlags: 0
+FieldJustification: Right
+FieldMaxLength: 13
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row12[0].f1_121[0]
+FieldNameAlt: f1_121
+FieldFlags: 8392704
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row12[0].f1_122[0]
+FieldNameAlt: f1_122
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row12[0].f1_123[0]
+FieldNameAlt: f1_123
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row12[0].f1_124[0]
+FieldNameAlt: f1_124
+FieldFlags: 0
+FieldJustification: Right
+FieldMaxLength: 14
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row12[0].f1_125[0]
+FieldNameAlt: f1_125
+FieldFlags: 8388608
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row12[0].f1_126[0]
+FieldNameAlt: f1_126
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 7
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row12[0].f1_127[0]
+FieldNameAlt: f1_127
+FieldFlags: 8388608
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row12[0].f1_128[0]
+FieldNameAlt: f1_128
+FieldFlags: 0
+FieldJustification: Right
+FieldMaxLength: 13
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row13[0].f1_131[0]
+FieldNameAlt: f1_131
+FieldFlags: 8392704
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row13[0].f1_132[0]
+FieldNameAlt: f1_132
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row13[0].f1_133[0]
+FieldNameAlt: f1_133
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row13[0].f1_134[0]
+FieldNameAlt: f1_134
+FieldFlags: 0
+FieldJustification: Right
+FieldMaxLength: 14
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row13[0].f1_135[0]
+FieldNameAlt: f1_135
+FieldFlags: 8388608
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row13[0].f1_136[0]
+FieldNameAlt: f1_136
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 7
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row13[0].f1_137[0]
+FieldNameAlt: f1_137
+FieldFlags: 8388608
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row13[0].f1_138[0]
+FieldNameAlt: f1_138
+FieldFlags: 0
+FieldJustification: Right
+FieldMaxLength: 13
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row14[0].f1_141[0]
+FieldNameAlt: f1_141
+FieldFlags: 8392704
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row14[0].f1_142[0]
+FieldNameAlt: f1_142
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row14[0].f1_143[0]
+FieldNameAlt: f1_143
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row14[0].f1_144[0]
+FieldNameAlt: f1_144
+FieldFlags: 0
+FieldJustification: Right
+FieldMaxLength: 14
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row14[0].f1_145[0]
+FieldNameAlt: f1_145
+FieldFlags: 8388608
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row14[0].f1_146[0]
+FieldNameAlt: f1_146
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 7
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row14[0].f1_147[0]
+FieldNameAlt: f1_147
+FieldFlags: 8388608
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row14[0].f1_148[0]
+FieldNameAlt: f1_148
+FieldFlags: 0
+FieldJustification: Right
+FieldMaxLength: 13
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row15[0].f1_151[0]
+FieldNameAlt: f1_151
+FieldFlags: 8392704
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row15[0].f1_152[0]
+FieldNameAlt: f1_152
+FieldFlags: 0
+FieldJustification: Left
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row15[0].f1_153[0]
+FieldNameAlt: f1_153
+FieldFlags: 0
+FieldJustification: Left
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row15[0].f1_154[0]
+FieldNameAlt: f1_154
+FieldFlags: 0
+FieldJustification: Left
+FieldMaxLength: 14
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row15[0].f1_155[0]
+FieldNameAlt: f1_155
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row15[0].f1_156[0]
+FieldNameAlt: f1_156
+FieldFlags: 0
+FieldJustification: Left
+FieldMaxLength: 7
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row15[0].f1_157[0]
+FieldNameAlt: f1_157
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Table2[0].Row15[0].f1_158[0]
+FieldNameAlt: f1_158
+FieldFlags: 0
+FieldJustification: Left
+FieldMaxLength: 13
+---
+FieldType: 
+FieldName: topmostSubform[0].Page1[0].Table2[0]
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Line2[0].f1_159[0]
+FieldFlags: 0
+FieldJustification: Right
+FieldMaxLength: 14
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Line2[0].f1_160[0]
+FieldFlags: 8388608
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Line2[0].f1_161[0]
+FieldFlags: 8388608
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page1[0].Line2[0].f1_162[0]
+FieldFlags: 8388608
+FieldJustification: Right
+FieldMaxLength: 16
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].f1_001_0_[0]
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].f1_002_0_[0]
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 11
+---
+FieldType: Button
+FieldName: topmostSubform[0].Page2[0].c1_01_0_[0]
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: A
+FieldStateOption: Off
+---
+FieldType: Button
+FieldName: topmostSubform[0].Page2[0].c1_02_0_[0]
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: B
+FieldStateOption: Off
+---
+FieldType: Button
+FieldName: topmostSubform[0].Page2[0].c1_03_0_[0]
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: C
+FieldStateOption: Off
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row1[0].f2_1[0]
+FieldFlags: 8392704
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row1[0].f2_2[0]
+FieldFlags: 8388608
+FieldJustification: Center
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row1[0].f2_3[0]
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row1[0].f2_4[0]
+FieldFlags: 0
+FieldJustification: Right
+FieldMaxLength: 14
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row1[0].f2_5[0]
+FieldFlags: 8388608
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row1[0].f2_6[0]
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 7
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row1[0].f2_7[0]
+FieldFlags: 8388608
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row1[0].f2_8[0]
+FieldFlags: 0
+FieldJustification: Right
+FieldMaxLength: 13
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row2[0].f2_11[0]
+FieldFlags: 8392704
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row2[0].f2_12[0]
+FieldFlags: 8388608
+FieldJustification: Center
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row2[0].f2_13[0]
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row2[0].f2_14[0]
+FieldFlags: 0
+FieldJustification: Right
+FieldMaxLength: 14
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row2[0].f2_15[0]
+FieldFlags: 8388608
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row2[0].f2_16[0]
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 7
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row2[0].f2_17[0]
+FieldFlags: 8388608
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row2[0].f2_18[0]
+FieldFlags: 0
+FieldJustification: Right
+FieldMaxLength: 13
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row3[0].f2_21[0]
+FieldFlags: 8392704
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row3[0].f2_22[0]
+FieldFlags: 8388608
+FieldJustification: Center
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row3[0].f2_23[0]
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row3[0].f2_24[0]
+FieldFlags: 0
+FieldJustification: Right
+FieldMaxLength: 14
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row3[0].f2_25[0]
+FieldFlags: 8388608
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row3[0].f2_26[0]
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 7
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row3[0].f2_27[0]
+FieldFlags: 8388608
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row3[0].f2_28[0]
+FieldFlags: 0
+FieldJustification: Right
+FieldMaxLength: 13
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row4[0].f2_31[0]
+FieldFlags: 8392704
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row4[0].f2_32[0]
+FieldFlags: 8388608
+FieldJustification: Center
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row4[0].f2_33[0]
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row4[0].f2_34[0]
+FieldFlags: 0
+FieldJustification: Right
+FieldMaxLength: 14
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row4[0].f2_35[0]
+FieldFlags: 8388608
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row4[0].f2_36[0]
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 7
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row4[0].f2_37[0]
+FieldFlags: 8388608
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row4[0].f2_38[0]
+FieldFlags: 0
+FieldJustification: Right
+FieldMaxLength: 13
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row5[0].f2_41[0]
+FieldFlags: 8392704
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row5[0].f2_42[0]
+FieldFlags: 8388608
+FieldJustification: Center
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row5[0].f2_43[0]
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row5[0].f2_44[0]
+FieldFlags: 0
+FieldJustification: Right
+FieldMaxLength: 14
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row5[0].f2_45[0]
+FieldFlags: 8388608
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row5[0].f2_46[0]
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 7
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row5[0].f2_47[0]
+FieldFlags: 8388608
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row5[0].f2_48[0]
+FieldFlags: 0
+FieldJustification: Right
+FieldMaxLength: 13
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row6[0].f2_51[0]
+FieldFlags: 8392704
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row6[0].f2_52[0]
+FieldFlags: 8388608
+FieldJustification: Center
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row6[0].f2_53[0]
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row6[0].f2_54[0]
+FieldFlags: 0
+FieldJustification: Right
+FieldMaxLength: 14
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row6[0].f2_55[0]
+FieldFlags: 8388608
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row6[0].f2_56[0]
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 7
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row6[0].f2_57[0]
+FieldFlags: 8388608
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row6[0].f2_58[0]
+FieldFlags: 0
+FieldJustification: Right
+FieldMaxLength: 13
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row7[0].f2_61[0]
+FieldFlags: 8392704
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row7[0].f2_62[0]
+FieldFlags: 8388608
+FieldJustification: Center
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row7[0].f2_63[0]
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row7[0].f2_64[0]
+FieldFlags: 0
+FieldJustification: Right
+FieldMaxLength: 14
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row7[0].f2_65[0]
+FieldFlags: 8388608
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row7[0].f2_66[0]
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 7
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row7[0].f2_67[0]
+FieldFlags: 8388608
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row7[0].f2_68[0]
+FieldFlags: 0
+FieldJustification: Right
+FieldMaxLength: 13
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row8[0].f2_71[0]
+FieldFlags: 8392704
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row8[0].f2_72[0]
+FieldFlags: 8388608
+FieldJustification: Center
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row8[0].f2_73[0]
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row8[0].f2_74[0]
+FieldFlags: 0
+FieldJustification: Right
+FieldMaxLength: 14
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row8[0].f2_75[0]
+FieldFlags: 8388608
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row8[0].f2_76[0]
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 7
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row8[0].f2_77[0]
+FieldFlags: 8388608
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row8[0].f2_78[0]
+FieldFlags: 0
+FieldJustification: Right
+FieldMaxLength: 13
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row9[0].f2_81[0]
+FieldFlags: 8392704
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row9[0].f2_82[0]
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row9[0].f2_83[0]
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row9[0].f2_84[0]
+FieldFlags: 0
+FieldJustification: Right
+FieldMaxLength: 14
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row9[0].f2_85[0]
+FieldFlags: 8388608
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row9[0].f2_86[0]
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 7
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row9[0].f2_87[0]
+FieldFlags: 8388608
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row9[0].f2_88[0]
+FieldFlags: 0
+FieldJustification: Right
+FieldMaxLength: 13
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row10[0].f2_91[0]
+FieldFlags: 8392704
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row10[0].f2_92[0]
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row10[0].f2_93[0]
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row10[0].f2_94[0]
+FieldFlags: 0
+FieldJustification: Right
+FieldMaxLength: 14
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row10[0].f2_95[0]
+FieldFlags: 8388608
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row10[0].f2_96[0]
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 7
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row10[0].f2_97[0]
+FieldFlags: 8388608
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row10[0].f2_98[0]
+FieldFlags: 0
+FieldJustification: Right
+FieldMaxLength: 13
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row10[1].f2_101[0]
+FieldNameAlt: f2_101
+FieldFlags: 8392704
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row10[1].f2_102[0]
+FieldNameAlt: f2_102
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row10[1].f2_103[0]
+FieldNameAlt: f2_103
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row10[1].f2_104[0]
+FieldNameAlt: f2_104
+FieldFlags: 0
+FieldJustification: Right
+FieldMaxLength: 14
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row10[1].f2_105[0]
+FieldNameAlt: f2_105
+FieldFlags: 8388608
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row10[1].f2_106[0]
+FieldNameAlt: f2_106
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 7
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row10[1].f2_107[0]
+FieldNameAlt: f2_107
+FieldFlags: 8388608
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row10[1].f2_108[0]
+FieldNameAlt: f2_108
+FieldFlags: 0
+FieldJustification: Right
+FieldMaxLength: 13
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row11[0].f2_111[0]
+FieldNameAlt: f2_111
+FieldFlags: 8392704
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row11[0].f2_112[0]
+FieldNameAlt: f2_112
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row11[0].f2_113[0]
+FieldNameAlt: f2_113
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row11[0].f2_114[0]
+FieldNameAlt: f2_114
+FieldFlags: 0
+FieldJustification: Right
+FieldMaxLength: 14
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row11[0].f2_115[0]
+FieldNameAlt: f2_115
+FieldFlags: 8388608
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row11[0].f2_116[0]
+FieldNameAlt: f2_116
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 7
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row11[0].f2_117[0]
+FieldNameAlt: f2_117
+FieldFlags: 8388608
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row11[0].f2_118[0]
+FieldNameAlt: f2_118
+FieldFlags: 0
+FieldJustification: Right
+FieldMaxLength: 13
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row12[0].f2_121[0]
+FieldNameAlt: f2_121
+FieldFlags: 8392704
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row12[0].f2_122[0]
+FieldNameAlt: f2_122
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row12[0].f2_123[0]
+FieldNameAlt: f2_123
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row12[0].f2_124[0]
+FieldNameAlt: f2_124
+FieldFlags: 0
+FieldJustification: Right
+FieldMaxLength: 14
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row12[0].f2_125[0]
+FieldNameAlt: f2_125
+FieldFlags: 8388608
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row12[0].f2_126[0]
+FieldNameAlt: f2_126
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 7
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row12[0].f2_127[0]
+FieldNameAlt: f2_127
+FieldFlags: 8388608
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row12[0].f2_128[0]
+FieldNameAlt: f2_128
+FieldFlags: 0
+FieldJustification: Right
+FieldMaxLength: 13
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row13[0].f2_131[0]
+FieldNameAlt: f2_131
+FieldFlags: 8392704
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row13[0].f2_132[0]
+FieldNameAlt: f2_132
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row13[0].f2_133[0]
+FieldNameAlt: f2_133
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row13[0].f2_134[0]
+FieldNameAlt: f2_134
+FieldFlags: 0
+FieldJustification: Right
+FieldMaxLength: 14
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row13[0].f2_135[0]
+FieldNameAlt: f2_135
+FieldFlags: 8388608
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row13[0].f2_136[0]
+FieldNameAlt: f2_136
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 7
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row13[0].f2_137[0]
+FieldNameAlt: f2_137
+FieldFlags: 8388608
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row13[0].f2_138[0]
+FieldNameAlt: f2_138
+FieldFlags: 0
+FieldJustification: Right
+FieldMaxLength: 13
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row14[0].f2_141[0]
+FieldNameAlt: f2_141
+FieldFlags: 8392704
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row14[0].f2_142[0]
+FieldNameAlt: f2_142
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row14[0].f2_143[0]
+FieldNameAlt: f2_143
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row14[0].f2_144[0]
+FieldNameAlt: f2_144
+FieldFlags: 0
+FieldJustification: Right
+FieldMaxLength: 14
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row14[0].f2_145[0]
+FieldNameAlt: f2_145
+FieldFlags: 8388608
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row14[0].f2_146[0]
+FieldNameAlt: f2_146
+FieldFlags: 0
+FieldJustification: Center
+FieldMaxLength: 7
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row14[0].f2_147[0]
+FieldNameAlt: f2_147
+FieldFlags: 8388608
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row14[0].f2_148[0]
+FieldNameAlt: f2_148
+FieldFlags: 0
+FieldJustification: Right
+FieldMaxLength: 13
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row15[0].f2_251[0]
+FieldNameAlt: f2_251
+FieldFlags: 8392704
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row15[0].f2_252[0]
+FieldNameAlt: f2_252
+FieldFlags: 0
+FieldJustification: Left
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row15[0].f2_253[0]
+FieldNameAlt: f2_253
+FieldFlags: 0
+FieldJustification: Left
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row15[0].f2_154[0]
+FieldNameAlt: f2_154
+FieldFlags: 0
+FieldJustification: Left
+FieldMaxLength: 14
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row15[0].f2_155[0]
+FieldNameAlt: f2_155
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row15[0].f2_156[0]
+FieldNameAlt: f2_156
+FieldFlags: 0
+FieldJustification: Left
+FieldMaxLength: 7
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row15[0].f2_157[0]
+FieldNameAlt: f2_157
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row15[0].f2_158[0]
+FieldNameAlt: f2_158
+FieldFlags: 0
+FieldJustification: Left
+FieldMaxLength: 13
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row15[1].f2_159[0]
+FieldNameAlt: f2_159
+FieldFlags: 8392704
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row15[1].f2_160[0]
+FieldNameAlt: f2_160
+FieldFlags: 0
+FieldJustification: Left
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row15[1].f2_161[0]
+FieldNameAlt: f2_161
+FieldFlags: 0
+FieldJustification: Left
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row15[1].f2_162[0]
+FieldNameAlt: f2_162
+FieldFlags: 0
+FieldJustification: Left
+FieldMaxLength: 14
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row15[1].f2_163[0]
+FieldNameAlt: f2_163
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row15[1].f2_164[0]
+FieldNameAlt: f2_164
+FieldFlags: 0
+FieldJustification: Left
+FieldMaxLength: 7
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row15[1].f2_165[0]
+FieldNameAlt: f2_165
+FieldFlags: 8388608
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Table2[0].Row15[1].f2_166[0]
+FieldNameAlt: f2_166
+FieldFlags: 0
+FieldJustification: Left
+FieldMaxLength: 13
+---
+FieldType: 
+FieldName: topmostSubform[0].Page2[0].Table2[0]
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Line2[0].f2_167[0]
+FieldFlags: 0
+FieldJustification: Right
+FieldMaxLength: 14
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Line2[0].f2_168[0]
+FieldFlags: 8388608
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Line2[0].f2_169[0]
+FieldFlags: 8388608
+FieldJustification: Right
+---
+FieldType: Text
+FieldName: topmostSubform[0].Page2[0].Line2[0].f2_170[0]
+FieldFlags: 0
+FieldJustification: Right
+FieldMaxLength: 13
+---
+FieldType: 
+FieldName: topmostSubform[0]
+FieldFlags: 0
+FieldJustification: Left
