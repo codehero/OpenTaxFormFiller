@@ -1,0 +1,737 @@
+---
+FieldType: Button
+FieldName: start box
+FieldNameAlt: icon
+FieldFlags: 65537
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: arrow
+FieldNameAlt: icon
+FieldFlags: 65537
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Name of taxpayer filing this schedule
+FieldNameAlt: Name of taxpayer filing this schedule.
+FieldFlags: 12582914
+FieldJustification: Left
+FieldMaxLength: 65
+---
+FieldType: Text
+FieldName: Your Social Security Number
+FieldNameAlt: Social Security Number
+FieldFlags: 12582912
+FieldJustification: Left
+FieldMaxLength: 9
+---
+FieldType: Text
+FieldName: A. Kind of Property
+FieldNameAlt: Kind of Property
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: A. Address 1
+FieldNameAlt: Address
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: A. 17. Other (itemize):
+FieldNameAlt: Other expenses
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Button
+FieldName: Description A1 Y/N
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: 1
+FieldStateOption: 2
+FieldStateOption: Off
+---
+FieldType: Text
+FieldName: B. Kind of Property
+FieldNameAlt: Kind of Property
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: B. Address 1
+FieldNameAlt: Address
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: B. 17. Other (itemize):
+FieldNameAlt: Other expenses
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Button
+FieldName: Description A2 Y/N
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: 3
+FieldStateOption: 4
+FieldStateOption: Off
+---
+FieldType: Text
+FieldName: C. Kind of Property
+FieldNameAlt: Kind of Property
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: C. Address 1
+FieldNameAlt: Address
+FieldFlags: 12587008
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: C. 17. Other (itemize):
+FieldNameAlt: Other expenses
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Button
+FieldName: Description A3 Y/N
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: 5
+FieldStateOption: 6
+FieldStateOption: Off
+---
+FieldType: Button
+FieldName: Part A1
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: 1
+FieldStateOption: 2
+FieldStateOption: 3
+FieldStateOption: Off
+---
+FieldType: Button
+FieldName: Part B1
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: 1
+FieldStateOption: 2
+FieldStateOption: 3
+FieldStateOption: Off
+---
+FieldType: Button
+FieldName: Part C1
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: 1
+FieldStateOption: 2
+FieldStateOption: 3
+FieldStateOption: Off
+---
+FieldType: Text
+FieldName: 1. 1. Rent received
+FieldNameAlt: Rent received
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 1. 2. Royalties received
+FieldNameAlt: Royalties received
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 1. 3. Advertising
+FieldNameAlt: Advertising
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 1. 4. Automobile and travel
+FieldNameAlt: Automobile and travel
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 1. 5. Cleaning and maintenance
+FieldNameAlt: Cleaning and maintenance
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 1. 6. Commissions
+FieldNameAlt: Commissions
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 1. 7. Insurance
+FieldNameAlt: Insurance
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 1. 8. Legal and professional fees
+FieldNameAlt: Legal and professional fees
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 1. 9. Management fees
+FieldNameAlt: Management fees
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 1. 10. mortgage interest
+FieldNameAlt: Mortgage interest
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 1. 12. Repairs
+FieldNameAlt: Repairs
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 1. 13. Supplies
+FieldNameAlt: Supplies
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 1. 14. Taxes - not based on net income
+FieldNameAlt: Taxes - not based on net income
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 1. 16. Depreciation expense
+FieldNameAlt: Depreciation expense.
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 1. 17. Other (itemize):
+FieldNameAlt: Other expenses
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 1. 18. Total expenses - Add Lines 3 through 17
+FieldNameAlt: Total expenses – Add Lines 3 through 17
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Button
+FieldName: 1. LOSS
+FieldNameAlt: LOSS
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: 3
+FieldStateOption: Off
+---
+FieldType: Text
+FieldName: 1. 20. Loss - Subtract Line 1 or 2 from Line 18
+FieldNameAlt: Loss – Subtract Line 1 or 2 from Line 18
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 1. 21. Net Income or Loss
+FieldNameAlt: Net Income or Loss
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 1. 22. Rent or royalty income (loss)
+FieldNameAlt: Rent or royalty income (loss)
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 1. 23. Net Rent or royalty income (loss) from partnership(s), from your PA Schedule(s) RK-1 or NRK-1
+FieldNameAlt: Net Rent or royalty income (Loss)
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 1.11. Other interest
+FieldNameAlt: Other interest
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 1.15. Utilities
+FieldNameAlt: Utilities
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 1. 19. Income - Subtract Line 18 from Line 1 or 2
+FieldNameAlt: Income – Subtract Line 18 from Line 1 or 2
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 17. Others
+FieldNameAlt: Other expenses (itemize):
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 17.( A.) Others
+FieldNameAlt: Other expenses (itemize):
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 17.( B.) Others
+FieldNameAlt: Other expenses (itemize):
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 17.( C.) Others
+FieldNameAlt: Other expenses (itemize):
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 2. 1.	Rent received
+FieldNameAlt: Rent received
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 2. 2.	Royalties received
+FieldNameAlt: Royalties received
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 2. 3.	Advertising
+FieldNameAlt: Advertising
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 2. 5.	Cleaning and maintenance
+FieldNameAlt: Cleaning and maintenance
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 2. 6.	Commissions
+FieldNameAlt: Commissions
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 2. 7.	Insurance
+FieldNameAlt: Insurance
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 2. 8.	Legal and professional fees
+FieldNameAlt: Legal and professional fees
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 2. 9.	Management fees
+FieldNameAlt: Management fees
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 2. 10. mortgage interest
+FieldNameAlt: Mortgage interest
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 2.11.	Other interest
+FieldNameAlt: Other interest
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 2. 12. Repairs
+FieldNameAlt: Repairs
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 2. 13. Supplies
+FieldNameAlt: Supplies
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 2. 14. Taxes - not based on net income
+FieldNameAlt: Taxes - not based on net income
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 2.15.	Utilities
+FieldNameAlt: Utilities
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 2. 16. Depreciation expense
+FieldNameAlt: Depreciation expense.
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 2. 17. Other (itemize):
+FieldNameAlt: Other expenses
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 2. 18. Total expenses - Add Lines 3 through 17
+FieldNameAlt: Total expenses – Add Lines 3 through 17
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 2.19.	Income - Subtract Line 18 from Line 1 or 2
+FieldNameAlt: Income – Subtract Line 18 from Line 1 or 2
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Button
+FieldName: 2. LOSS
+FieldNameAlt: LOSS
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: 3
+FieldStateOption: Off
+---
+FieldType: Text
+FieldName: 2. 20. Loss - Subtract Line 1 or 2 from Line 18
+FieldNameAlt: Loss – Subtract Line 1 or 2 from Line 18
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 2 4.	Automobile and travel
+FieldNameAlt: Automobile and travel
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 2a.17. Other (itemize):
+FieldNameAlt: Other expenses
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: 
+FieldName: 2a
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 2b. 17. Other (itemize):
+FieldNameAlt: Other expenses
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: 
+FieldName: 2b
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 2c. 17. Other (itemize):
+FieldNameAlt: Other expenses
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: 
+FieldName: 2c
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 3. 1.	Rent received
+FieldNameAlt: Rent received
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 3. 2.	Royalties received
+FieldNameAlt: Royalties received
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 3. 3.	Advertising
+FieldNameAlt: Advertising
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 3. 4.	Automobile and travel
+FieldNameAlt: Automobile and travel
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 3. 5.	Cleaning and maintenance
+FieldNameAlt: Cleaning and maintenance
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 3. 6.	Commissions
+FieldNameAlt: Commissions
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 3. 7.	Insurance
+FieldNameAlt: Insurance
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 3. 9.	Management fees
+FieldNameAlt: Management fees
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 3. 10.	mortgage interest
+FieldNameAlt: Mortgage interest
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 3.11.	Other interest
+FieldNameAlt: Other interest
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 3. 12. Repairs
+FieldNameAlt: Repairs
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 3. 13. Supplies
+FieldNameAlt: Supplies
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 3. 14. Taxes - not based on net income
+FieldNameAlt: Taxes - not based on net income
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 3.15.	Utilities
+FieldNameAlt: Utilities
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 3. 16. Depreciation expense
+FieldNameAlt: Depreciation expense.
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 3. 17. Other (itemize):
+FieldNameAlt: Other expenses
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 3. 18. Total expenses - Add Lines 3 through 17
+FieldNameAlt: Total expenses – Add Lines 3 through 17
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 3.19.	Income - Subtract Line 18 from Line 1 or 2
+FieldNameAlt: Income – Subtract Line 18 from Line 1 or 2
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Button
+FieldName: 3. LOSS
+FieldNameAlt: LOSS
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: 3
+FieldStateOption: Off
+---
+FieldType: Text
+FieldName: 3. 20. Loss - Subtract Line 1 or 2 from Line 18
+FieldNameAlt: Loss – Subtract Line 1 or 2 from Line 18
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 3 8.	Legal and professional fees
+FieldNameAlt: Legal and professional fees
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 3A. 17. Other (itemize):
+FieldNameAlt: Other expenses
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: 
+FieldName: 3A
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 3B. 17. Other (itemize):
+FieldNameAlt: Other expenses
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: 
+FieldName: 3B
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 3C. 17. Other (itemize):
+FieldNameAlt: Other expenses
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: 
+FieldName: 3C
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: 21.Loss
+FieldNameAlt: Loss
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: 3
+FieldStateOption: Off
+---
+FieldType: Button
+FieldName: 22. Loss
+FieldNameAlt: Loss
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: 3
+FieldStateOption: Off
+---
+FieldType: Button
+FieldName: 23. Loss
+FieldNameAlt: Loss
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: 3
+FieldStateOption: Off
+---
+FieldType: Button
+FieldName: RESET FORM
+FieldNameAlt: reset entire form
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: Return to Top
+FieldNameAlt: Return to Top
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: Print Form
+FieldNameAlt: print
+FieldFlags: 65536
+FieldJustification: Left

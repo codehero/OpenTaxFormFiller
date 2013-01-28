@@ -4,6 +4,7 @@
 		"Common fields specify IDs for fields like Last name, Social Security, etc; these are 'standard' on tax forms."
 	],
 	"commonFields" : {
+		"IdentifyingNumber": "Text",
 		"OtherTaxYearBeginDayMonth" : "Text",
 		"OtherTaxYearEndDayMonth" : "Text",
 		"OtherTaxYearEndYear" : "Text",
@@ -14,6 +15,7 @@
 		"SpouseFirstName" : "Text",
 		"SpouseFirstName_Initial" : "Text",
 		"SpouseLastName" : "Text",
+		"BothNames" : "Text",
 		"SpouseSSN" : "Text",
 		"HouseNumberStreet" : "Text",
 		"AptNumber" : "Text",

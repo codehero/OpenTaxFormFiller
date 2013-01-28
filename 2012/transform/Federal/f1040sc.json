@@ -1,0 +1,733 @@
+{
+	"form" : "1040sc",
+	"title" : "Profit or Loss From Business (Sole Proprietorship)",
+	"year" : 2012,
+	"pdfSum" : {
+		"type" : "MD5",
+		"sum" : "4c90003b9744ee04ff5112a5d31b13f0"
+	},
+	"sequence" : 9,
+	"fields":{
+		"BothNames":{
+			"fdf":"topmostSubform[0].Page1[0].f1_001[0]",
+			"type":"text"
+		},
+		"YourSSN":{
+			"fdf":"topmostSubform[0].Page1[0].f1_002[0]",
+			"type":"text"
+		},
+		"A Principal business or profession, including product or service (see instructions)":{
+			"fdf":"topmostSubform[0].Page1[0].f1_003[0]",
+			"type":"text"
+		},
+		"B Enter code from instructions":{
+			"fdf":"topmostSubform[0].Page1[0].f1_004[0]",
+			"type":"text"
+		},
+		"C Business name. If no separate business name, leave blank.":{
+			"fdf":"topmostSubform[0].Page1[0].f1_005[0]",
+			"type":"text"
+		},
+		"D Employer ID number (EIN),(see instr.)":{
+			"fdf":"topmostSubform[0].Page1[0].f1_006[0]",
+			"type":"text"
+		},
+		"E Business address (including suite or room no.)":{
+			"fdf":"topmostSubform[0].Page1[0].f1_007[0]",
+			"type":"text"
+		},
+		"E City, town or post office, state, and ZIP code":{
+			"fdf":"topmostSubform[0].Page1[0].f1_008[0]",
+			"type":"text"
+		},
+		"F_Cash" : {
+			"fdf" :"topmostSubform[0].Page1[0].c1_01[0]",
+			"type" : "check",
+			"options" : {
+				"0" : "0",
+				"Off" : "Off"
+			}
+		},
+		"F_Accrual" : {
+			"fdf" :"topmostSubform[0].Page1[0].c1_02[0]",
+			"type" : "check",
+			"options" : {
+				"0" : "0",
+				"Off" : "Off"
+			}
+		},
+		"F_Other" : {
+			"fdf" :"topmostSubform[0].Page1[0].c1_03[0]",
+			"type" : "check",
+			"options" : {
+				"0" : "0",
+				"Off" : "Off"
+			}
+		},
+		"Other accounting method":{
+			"fdf":"topmostSubform[0].Page1[0].f1_009[0]",
+			"type":"text"
+		},
+		"G_yes" : {
+			"fdf" :"topmostSubform[0].Page1[0].c1_04[0]",
+			"type" : "check",
+			"options" : {
+				"yes" : "Yes",
+				"Off" : "Off"
+			}
+		},
+		"G_no" : {
+			"fdf" :"topmostSubform[0].Page1[0].c1_04[1]",
+			"type" : "check",
+			"options" : {
+				"no" : "No",
+				"Off" : "Off"
+			}
+		},
+		"H" : {
+			"fdf" :"topmostSubform[0].Page1[0].c1_05[0]",
+			"type" : "check",
+			"options" : {
+				"yes" : "1"
+			}
+		},
+		"I_yes" : {
+			"fdf" :"topmostSubform[0].Page1[0].c1_06[0]",
+			"type" : "check",
+			"options" : {
+				"yes" : "Yes",
+				"Off" : "Off"
+			}
+		},
+		"I_no" : {
+			"fdf" :"topmostSubform[0].Page1[0].c1_06[1]",
+			"type" : "check",
+			"options" : {
+				"no" : "No",
+				"Off" : "Off"
+			}
+		},
+		"J_yes" : {
+			"fdf" :"topmostSubform[0].Page1[0].c1_07[0]",
+			"type" : "check",
+			"options" : {
+				"yes" : "Yes",
+				"Off" : "Off"
+			}
+		},
+		"J_no" : {
+			"fdf" :"topmostSubform[0].Page1[0].c1_07[1]",
+			"type" : "check",
+			"options" : {
+				"no" : "No",
+				"Off" : "Off"
+			}
+		},
+		"L1_check" : {
+			"fdf" :"topmostSubform[0].Page1[0].c1_08_0_[0]",
+			"type" : "check",
+			"options" : {
+				"no" : "1"
+			}
+		},
+		"L1_D":{
+			"fdf":"topmostSubform[0].Page1[0].f1_010[0]",
+			"type":"text"
+		},
+		"L1_C":{
+			"fdf":"topmostSubform[0].Page1[0].f1_011[0]",
+			"type":"text"
+		},
+		"L2_D":{
+			"fdf":"topmostSubform[0].Page1[0].f1_018[0]",
+			"type":"text"
+		},
+		"L2_C":{
+			"fdf":"topmostSubform[0].Page1[0].f1_019[0]",
+			"type":"text"
+		},
+		"L3_D":{
+			"fdf":"topmostSubform[0].Page1[0].f1_020[0]",
+			"type":"text"
+		},
+		"L3_C":{
+			"fdf":"topmostSubform[0].Page1[0].f1_021[0]",
+			"type":"text"
+		},
+		"L4_D":{
+			"fdf":"topmostSubform[0].Page1[0].f1_022[0]",
+			"type":"text"
+		},
+		"L4_C":{
+			"fdf":"topmostSubform[0].Page1[0].f1_023[0]",
+			"type":"text"
+		},
+		"L5_D":{
+			"fdf":"topmostSubform[0].Page1[0].f1_024[0]",
+			"type":"text"
+		},
+		"L5_C":{
+			"fdf":"topmostSubform[0].Page1[0].f1_025[0]",
+			"type":"text"
+		},
+		"L6_D":{
+			"fdf":"topmostSubform[0].Page1[0].f1_026[0]",
+			"type":"text"
+		},
+		"L6_C":{
+			"fdf":"topmostSubform[0].Page1[0].f1_027[0]",
+			"type":"text"
+		},
+		"L7_D":{
+			"fdf":"topmostSubform[0].Page1[0].f1_028[0]",
+			"type":"text"
+		},
+		"L7_C":{
+			"fdf":"topmostSubform[0].Page1[0].f1_029[0]",
+			"type":"text"
+		},
+		"L8_D":{
+			"fdf":"topmostSubform[0].Page1[0].Lines8-17[0].f1_030[0]",
+			"type":"text"
+		},
+		"L8_C":{
+			"fdf":"topmostSubform[0].Page1[0].Lines8-17[0].f1_031[0]",
+			"type":"text"
+		},
+		"L9_D":{
+			"fdf":"topmostSubform[0].Page1[0].Lines8-17[0].f1_032[0]",
+			"type":"text"
+		},
+		"L9_C":{
+			"fdf":"topmostSubform[0].Page1[0].Lines8-17[0].f1_033[0]",
+			"type":"text"
+		},
+		"L10_D":{
+			"fdf":"topmostSubform[0].Page1[0].Lines8-17[0].f1_034[0]",
+			"type":"text"
+		},
+		"L10_C":{
+			"fdf":"topmostSubform[0].Page1[0].Lines8-17[0].f1_035[0]",
+			"type":"text"
+		},
+		"L11_D":{
+			"fdf":"topmostSubform[0].Page1[0].Lines8-17[0].f1_036[0]",
+			"type":"text"
+		},
+		"L11_C":{
+			"fdf":"topmostSubform[0].Page1[0].Lines8-17[0].f1_037[0]",
+			"type":"text"
+		},
+		"L12_D":{
+			"fdf":"topmostSubform[0].Page1[0].Lines8-17[0].f1_038[0]",
+			"type":"text"
+		},
+		"L12_C":{
+			"fdf":"topmostSubform[0].Page1[0].Lines8-17[0].f1_039[0]",
+			"type":"text"
+		},
+		"L13_D":{
+			"fdf":"topmostSubform[0].Page1[0].Lines8-17[0].f1_040[0]",
+			"type":"text"
+		},
+		"L13_C":{
+			"fdf":"topmostSubform[0].Page1[0].Lines8-17[0].f1_041[0]",
+			"type":"text"
+		},
+		"L14_D":{
+			"fdf":"topmostSubform[0].Page1[0].Lines8-17[0].f1_042[0]",
+			"type":"text"
+		},
+		"L14_C":{
+			"fdf":"topmostSubform[0].Page1[0].Lines8-17[0].f1_043[0]",
+			"type":"text"
+		},
+		"L15_D":{
+			"fdf":"topmostSubform[0].Page1[0].Lines8-17[0].f1_044[0]",
+			"type":"text"
+		},
+		"L15_C":{
+			"fdf":"topmostSubform[0].Page1[0].Lines8-17[0].f1_045[0]",
+			"type":"text"
+		},
+		"L16a_D":{
+			"fdf":"topmostSubform[0].Page1[0].Lines8-17[0].f1_046[0]",
+			"type":"text"
+		},
+		"L16a_C":{
+			"fdf":"topmostSubform[0].Page1[0].Lines8-17[0].f1_047[0]",
+			"type":"text"
+		},
+		"L16b_D":{
+			"fdf":"topmostSubform[0].Page1[0].Lines8-17[0].f1_048[0]",
+			"type":"text"
+		},
+		"L16b_C":{
+			"fdf":"topmostSubform[0].Page1[0].Lines8-17[0].f1_049[0]",
+			"type":"text"
+		},
+		"L17_D":{
+			"fdf":"topmostSubform[0].Page1[0].Lines8-17[0].f1_050[0]",
+			"type":"text"
+		},
+		"L17_C":{
+			"fdf":"topmostSubform[0].Page1[0].Lines8-17[0].f1_051[0]",
+			"type":"text"
+		},
+		"L18_D":{
+			"fdf":"topmostSubform[0].Page1[0].Lines18-27[0].f1_052[0]",
+			"type":"text"
+		},
+		"L18_C":{
+			"fdf":"topmostSubform[0].Page1[0].Lines18-27[0].f1_053[0]",
+			"type":"text"
+		},
+		"L19_D":{
+			"fdf":"topmostSubform[0].Page1[0].Lines18-27[0].f1_054[0]",
+			"type":"text"
+		},
+		"L19_C":{
+			"fdf":"topmostSubform[0].Page1[0].Lines18-27[0].f1_055[0]",
+			"type":"text"
+		},
+		"L20a_D":{
+			"fdf":"topmostSubform[0].Page1[0].Lines18-27[0].f1_056[0]",
+			"type":"text"
+		},
+		"L20a_C":{
+			"fdf":"topmostSubform[0].Page1[0].Lines18-27[0].f1_057[0]",
+			"type":"text"
+		},
+		"L20b_D":{
+			"fdf":"topmostSubform[0].Page1[0].Lines18-27[0].f1_058[0]",
+			"type":"text"
+		},
+		"L20b_C":{
+			"fdf":"topmostSubform[0].Page1[0].Lines18-27[0].f1_059[0]",
+			"type":"text"
+		},
+		"L21_D":{
+			"fdf":"topmostSubform[0].Page1[0].Lines18-27[0].f1_060[0]",
+			"type":"text"
+		},
+		"L21_C":{
+			"fdf":"topmostSubform[0].Page1[0].Lines18-27[0].f1_061[0]",
+			"type":"text"
+		},
+		"L22_D":{
+			"fdf":"topmostSubform[0].Page1[0].Lines18-27[0].f1_062[0]",
+			"type":"text"
+		},
+		"L22_C":{
+			"fdf":"topmostSubform[0].Page1[0].Lines18-27[0].f1_063[0]",
+			"type":"text"
+		},
+		"L23_D":{
+			"fdf":"topmostSubform[0].Page1[0].Lines18-27[0].f1_064[0]",
+			"type":"text"
+		},
+		"L23_C":{
+			"fdf":"topmostSubform[0].Page1[0].Lines18-27[0].f1_065[0]",
+			"type":"text"
+		},
+		"L24a_D":{
+			"fdf":"topmostSubform[0].Page1[0].Lines18-27[0].f1_066[0]",
+			"type":"text"
+		},
+		"L24a_C":{
+			"fdf":"topmostSubform[0].Page1[0].Lines18-27[0].f1_067[0]",
+			"type":"text"
+		},
+		"L24b_D":{
+			"fdf":"topmostSubform[0].Page1[0].Lines18-27[0].f1_068[0]",
+			"type":"text"
+		},
+		"L24b_C":{
+			"fdf":"topmostSubform[0].Page1[0].Lines18-27[0].f1_069[0]",
+			"type":"text"
+		},
+		"L25_D":{
+			"fdf":"topmostSubform[0].Page1[0].Lines18-27[0].f1_070[0]",
+			"type":"text"
+		},
+		"L25_C":{
+			"fdf":"topmostSubform[0].Page1[0].Lines18-27[0].f1_071[0]",
+			"type":"text"
+		},
+		"L26_D":{
+			"fdf":"topmostSubform[0].Page1[0].Lines18-27[0].f1_072[0]",
+			"type":"text"
+		},
+		"L26_C":{
+			"fdf":"topmostSubform[0].Page1[0].Lines18-27[0].f1_073[0]",
+			"type":"text"
+		},
+		"L27a_D":{
+			"fdf":"topmostSubform[0].Page1[0].Lines18-27[0].f1_074[0]",
+			"type":"text"
+		},
+		"L27a_C":{
+			"fdf":"topmostSubform[0].Page1[0].Lines18-27[0].f1_075[0]",
+			"type":"text"
+		},
+		"L27b_D":{
+			"fdf":"topmostSubform[0].Page1[0].Lines18-27[0].f1_084[0]",
+			"type":"text"
+		},
+		"L27b_C":{
+			"fdf":"topmostSubform[0].Page1[0].Lines18-27[0].f1_085[0]",
+			"type":"text"
+		},
+		"L28_D":{
+			"fdf":"topmostSubform[0].Page1[0].f1_076[0]",
+			"type":"text"
+		},
+		"L28_C":{
+			"fdf":"topmostSubform[0].Page1[0].f1_077[0]",
+			"type":"text"
+		},
+		"L29_D":{
+			"fdf":"topmostSubform[0].Page1[0].f1_078[0]",
+			"type":"text"
+		},
+		"L29_C":{
+			"fdf":"topmostSubform[0].Page1[0].f1_079[0]",
+			"type":"text"
+		},
+		"L30_D":{
+			"fdf":"topmostSubform[0].Page1[0].f1_080[0]",
+			"type":"text"
+		},
+		"L30_C":{
+			"fdf":"topmostSubform[0].Page1[0].f1_081[0]",
+			"type":"text"
+		},
+		"L31_D":{
+			"fdf":"topmostSubform[0].Page1[0].f1_082[0]",
+			"type":"text"
+		},
+		"L31_C":{
+			"fdf":"topmostSubform[0].Page1[0].f1_083[0]",
+			"type":"text"
+		},
+		"L32a" : {
+			"fdf" :"topmostSubform[0].Page1[0].c1_08[0]",
+			"type" : "check",
+			"options" : {
+				"yes" : "1"
+			}
+		},
+		"L32b" : {
+			"fdf" :"topmostSubform[0].Page1[0].c1_09[0]",
+			"type" : "check",
+			"options" : {
+				"yes" : "1"
+			}
+		},
+		"L33a" : {
+			"fdf" :"topmostSubform[0].Page2[0].c2_01[0]",
+			"type" : "check",
+			"options" : {
+				"yes" : "1"
+			}
+		},
+		"L33b" : {
+			"fdf" :"topmostSubform[0].Page2[0].c2_02[0]",
+			"type" : "check",
+			"options" : {
+				"yes" : "1"
+			}
+		},
+		"L33c" : {
+			"fdf" :"topmostSubform[0].Page2[0].c2_03[0]",
+			"type" : "check",
+			"options" : {
+				"yes" : "1"
+			}
+		},
+		"L34_yes" : {
+			"fdf" :"topmostSubform[0].Page2[0].c2_04[0]",
+			"type" : "check",
+			"options" : {
+				"yes" : "Yes",
+				"Off" : "Off"
+			}
+		},
+		"L34_no" : {
+			"fdf" :"topmostSubform[0].Page2[0].c2_04[1]",
+			"type" : "check",
+			"options" : {
+				"no" : "No",
+				"Off" : "Off"
+			}
+		},
+		"L35_D":{
+			"fdf":"topmostSubform[0].Page2[0].f2_001[0]",
+			"type":"text"
+		},
+		"L35_C":{
+			"fdf":"topmostSubform[0].Page2[0].f2_002[0]",
+			"type":"text"
+		},
+		"L36_D":{
+			"fdf":"topmostSubform[0].Page2[0].f2_003[0]",
+			"type":"text"
+		},
+		"L36_C":{
+			"fdf":"topmostSubform[0].Page2[0].f2_004[0]",
+			"type":"text"
+		},
+		"L37_D":{
+			"fdf":"topmostSubform[0].Page2[0].f2_005[0]",
+			"type":"text"
+		},
+		"L37_C":{
+			"fdf":"topmostSubform[0].Page2[0].f2_006[0]",
+			"type":"text"
+		},
+		"L38_D":{
+			"fdf":"topmostSubform[0].Page2[0].f2_007[0]",
+			"type":"text"
+		},
+		"L38_C":{
+			"fdf":"topmostSubform[0].Page2[0].f2_008[0]",
+			"type":"text"
+		},
+		"L39_D":{
+			"fdf":"topmostSubform[0].Page2[0].f2_009[0]",
+			"type":"text"
+		},
+		"L39_C":{
+			"fdf":"topmostSubform[0].Page2[0].f2_010[0]",
+			"type":"text"
+		},
+		"L40_D":{
+			"fdf":"topmostSubform[0].Page2[0].f2_011[0]",
+			"type":"text"
+		},
+		"L40_C":{
+			"fdf":"topmostSubform[0].Page2[0].f2_012[0]",
+			"type":"text"
+		},
+		"L41_D":{
+			"fdf":"topmostSubform[0].Page2[0].f2_013[0]",
+			"type":"text"
+		},
+		"L41_C":{
+			"fdf":"topmostSubform[0].Page2[0].f2_014[0]",
+			"type":"text"
+		},
+		"L42_D":{
+			"fdf":"topmostSubform[0].Page2[0].f2_015[0]",
+			"type":"text"
+		},
+		"L42_C":{
+			"fdf":"topmostSubform[0].Page2[0].f2_016[0]",
+			"type":"text"
+		},
+		"L43_month":{
+			"fdf":"topmostSubform[0].Page2[0].f2_017[0]",
+			"type":"text"
+		},
+		"L43_day":{
+			"fdf":"topmostSubform[0].Page2[0].f2_018[0]",
+			"type":"text"
+		},
+		"L43_year":{
+			"fdf":"topmostSubform[0].Page2[0].f2_019[0]",
+			"type":"text"
+		},
+		"L44a":{
+			"fdf":"topmostSubform[0].Page2[0].f2_020[0]",
+			"type":"text"
+		},
+		"L44b":{
+			"fdf":"topmostSubform[0].Page2[0].f2_021[0]",
+			"type":"text"
+		},
+		"L44c":{
+			"fdf":"topmostSubform[0].Page2[0].f2_022[0]",
+			"type":"text"
+		},
+		"L45_yes" : {
+			"fdf" :"topmostSubform[0].Page2[0].c2_05[0]",
+			"type" : "check",
+			"options" : {
+				"yes" : "Yes",
+				"Off" : "Off"
+			}
+		},
+		"L45_no" : {
+			"fdf" :"topmostSubform[0].Page2[0].c2_05[1]",
+			"type" : "check",
+			"options" : {
+				"no" : "No",
+				"Off" : "Off"
+			}
+		},
+		"L46_yes" : {
+			"fdf" :"topmostSubform[0].Page2[0].c2_06[0]",
+			"type" : "check",
+			"options" : {
+				"yes" : "Yes",
+				"Off" : "Off"
+			}
+		},
+		"L46_no" : {
+			"fdf" :"topmostSubform[0].Page2[0].c2_06[1]",
+			"type" : "check",
+			"options" : {
+				"no" : "No",
+				"Off" : "Off"
+			}
+		},
+		"L47a_yes" : {
+			"fdf" :"topmostSubform[0].Page2[0].c2_07[0]",
+			"type" : "check",
+			"options" : {
+				"yes" : "Yes",
+				"Off" : "Off"
+			}
+		},
+		"L47a_no" : {
+			"fdf" :"topmostSubform[0].Page2[0].c2_07[1]",
+			"type" : "check",
+			"options" : {
+				"no" : "No",
+				"Off" : "Off"
+			}
+		},
+		"L47b_yes" : {
+			"fdf" :"topmostSubform[0].Page2[0].c2_08[0]",
+			"type" : "check",
+			"options" : {
+				"yes" : "Yes",
+				"Off" : "Off"
+			}
+		},
+		"L47b_no" : {
+			"fdf" :"topmostSubform[0].Page2[0].c2_08[1]",
+			"type" : "check",
+			"options" : {
+				"no" : "No",
+				"Off" : "Off"
+			}
+		},
+		"OtherExpenses1_description":{
+			"fdf":"topmostSubform[0].Page2[0].PartVTable[0].Item1[0].f2_023[0]",
+			"type":"text"
+		},
+		"OtherExpenses1_D":{
+			"fdf":"topmostSubform[0].Page2[0].PartVTable[0].Item1[0].f2_024[0]",
+			"type":"text"
+		},
+		"OtherExpenses1_C":{
+			"fdf":"topmostSubform[0].Page2[0].PartVTable[0].Item1[0].f2_025[0]",
+			"type":"text"
+		},
+		"OtherExpenses2_description":{
+			"fdf":"topmostSubform[0].Page2[0].PartVTable[0].Item2[0].f2_026[0]",
+			"type":"text"
+		},
+		"OtherExpenses2_D":{
+			"fdf":"topmostSubform[0].Page2[0].PartVTable[0].Item2[0].f2_027[0]",
+			"type":"text"
+		},
+		"OtherExpenses2_C":{
+			"fdf":"topmostSubform[0].Page2[0].PartVTable[0].Item2[0].f2_028[0]",
+			"type":"text"
+		},
+		"OtherExpenses3_description":{
+			"fdf":"topmostSubform[0].Page2[0].PartVTable[0].Item3[0].f2_029[0]",
+			"type":"text"
+		},
+		"OtherExpenses3_D":{
+			"fdf":"topmostSubform[0].Page2[0].PartVTable[0].Item3[0].f2_030[0]",
+			"type":"text"
+		},
+		"OtherExpenses3_C":{
+			"fdf":"topmostSubform[0].Page2[0].PartVTable[0].Item3[0].f2_031[0]",
+			"type":"text"
+		},
+		"OtherExpenses4_description":{
+			"fdf":"topmostSubform[0].Page2[0].PartVTable[0].Item4[0].f2_032[0]",
+			"type":"text"
+		},
+		"OtherExpenses4_D":{
+			"fdf":"topmostSubform[0].Page2[0].PartVTable[0].Item4[0].f2_033[0]",
+			"type":"text"
+		},
+		"OtherExpenses4_C":{
+			"fdf":"topmostSubform[0].Page2[0].PartVTable[0].Item4[0].f2_034[0]",
+			"type":"text"
+		},
+		"OtherExpenses5_description":{
+			"fdf":"topmostSubform[0].Page2[0].PartVTable[0].Item5[0].f2_035[0]",
+			"type":"text"
+		},
+		"OtherExpenses5_D":{
+			"fdf":"topmostSubform[0].Page2[0].PartVTable[0].Item5[0].f2_036[0]",
+			"type":"text"
+		},
+		"OtherExpenses5_C":{
+			"fdf":"topmostSubform[0].Page2[0].PartVTable[0].Item5[0].f2_037[0]",
+			"type":"text"
+		},
+		"OtherExpenses6_description":{
+			"fdf":"topmostSubform[0].Page2[0].PartVTable[0].Item6[0].f2_038[0]",
+			"type":"text"
+		},
+		"OtherExpenses6_D":{
+			"fdf":"topmostSubform[0].Page2[0].PartVTable[0].Item6[0].f2_039[0]",
+			"type":"text"
+		},
+		"OtherExpenses6_C":{
+			"fdf":"topmostSubform[0].Page2[0].PartVTable[0].Item6[0].f2_040[0]",
+			"type":"text"
+		},
+		"OtherExpenses7_description":{
+			"fdf":"topmostSubform[0].Page2[0].PartVTable[0].Item7[0].f2_041[0]",
+			"type":"text"
+		},
+		"OtherExpenses7_D":{
+			"fdf":"topmostSubform[0].Page2[0].PartVTable[0].Item7[0].f2_042[0]",
+			"type":"text"
+		},
+		"OtherExpenses7_C":{
+			"fdf":"topmostSubform[0].Page2[0].PartVTable[0].Item7[0].f2_043[0]",
+			"type":"text"
+		},
+		"OtherExpenses8_description":{
+			"fdf":"topmostSubform[0].Page2[0].PartVTable[0].Item8[0].f2_044[0]",
+			"type":"text"
+		},
+		"OtherExpenses8_D":{
+			"fdf":"topmostSubform[0].Page2[0].PartVTable[0].Item8[0].f2_045[0]",
+			"type":"text"
+		},
+		"OtherExpenses8_C":{
+			"fdf":"topmostSubform[0].Page2[0].PartVTable[0].Item8[0].f2_046[0]",
+			"type":"text"
+		},
+		"OtherExpenses9_description":{
+			"fdf":"topmostSubform[0].Page2[0].PartVTable[0].Item9[0].f2_047[0]",
+			"type":"text"
+		},
+		"OtherExpenses9_D":{
+			"fdf":"topmostSubform[0].Page2[0].PartVTable[0].Item9[0].f2_048[0]",
+			"type":"text"
+		},
+		"OtherExpenses9_C":{
+			"fdf":"topmostSubform[0].Page2[0].PartVTable[0].Item9[0].f2_049[0]",
+			"type":"text"
+		},
+		"L48_D":{
+			"fdf":"topmostSubform[0].Page2[0].f2_050[0]",
+			"type":"text"
+		},
+		"L48_C":{
+			"fdf":"topmostSubform[0].Page2[0].f2_051[0]",
+			"type":"text"
+		}
+	}
+}

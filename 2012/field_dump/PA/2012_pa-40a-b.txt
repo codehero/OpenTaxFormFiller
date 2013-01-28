@@ -1,0 +1,447 @@
+---
+FieldType: Text
+FieldName: Name shown first on the PA-40
+FieldNameAlt: Name shown first on the PA-40
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Social Security Number (shown first)
+FieldNameAlt: Social Security Number (shown first)
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: A. Amount of interest received - Line 1
+FieldNameAlt: A. Amount of interest received - Line 1
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: A. Amount of interest received - Line 2
+FieldNameAlt: A. Amount of interest received - Line 2
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: A. Name of payer of interest - Line 3
+FieldNameAlt: A. Name of payer of interest - Line 3
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: A. Amount of interest received - Line 3
+FieldNameAlt: A. Amount of interest received - Line 3
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: A. Name of payer of interest - Line 4
+FieldNameAlt: A. Name of payer of interest - Line 4
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: A. Amount of interest received - Line 4
+FieldNameAlt: A. Amount of interest received - Line 4
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: A. Name of payer of interest - Line 5
+FieldNameAlt: A. Name of payer of interest - Line 5
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: A. Amount of interest received - Line 5
+FieldNameAlt: A. Amount of interest received - Line 5
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: A. Name of payer of interest - Line 6
+FieldNameAlt: A. Name of payer of interest - Line 6
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: A. Amount of interest received - Line 6
+FieldNameAlt: A. Amount of interest received - Line 6
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: A. Name of payer of interest - Line 7
+FieldNameAlt: A. Name of payer of interest - Line7
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: A. Amount of interest received - Line 7
+FieldNameAlt: A. Amount of interest received - Line 7
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: A. Name of payer of interest - Line 8
+FieldNameAlt: A. Name of payer of interest - Line 8
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: A. Amount of interest received - Line 8
+FieldNameAlt: A. Amount of interest received - Line 8
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: A. Name of payer of interest - Line 9
+FieldNameAlt: A. Name of payer of interest - Line 9
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: A. Amount of interest received - Line 9
+FieldNameAlt: A. Amount of interest received - Line 9
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: A. Name of payer of interest - Line 10
+FieldNameAlt: A. Name of payer of interest - Line 10
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: A. Amount of interest received - Line 10
+FieldNameAlt: A. Amount of interest received - Line 10
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: A. Name of payer of interest - Line 11
+FieldNameAlt: A. Name of payer of interest - Line 11
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: A. Amount of interest received - Line 11
+FieldNameAlt: A. Amount of interest received - Line 11
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: A. Name of payer of interest - Line 12
+FieldNameAlt: A. Name of payer of interest - Line 12
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: A. Amount of interest received - Line 12
+FieldNameAlt: A. Amount of interest received - Line 12
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: A. Name of payer of interest - Line 1
+FieldNameAlt: A. Name of payer of interest - Line 1
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: A. Name of payer of interest - Line 2
+FieldNameAlt: A. Name of payer of interest - Line 2
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: 2. Total Interest Income
+FieldNameAlt: 2. Total Interest Income
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 2. Total Dividend Income
+FieldNameAlt: 2. Total Dividend Income
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 3. Distributions from Life Insurance, annuity, or endowment contract income
+FieldNameAlt: 3. Distributions from Life Insurance, annuity, or endowment contract income.
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 3. Capital Gains Distributions - See instructions
+FieldNameAlt: 3. Capital Gains Distributions - See instructions.
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 4. Distributions from Charitable Gift Annuities
+FieldNameAlt: 4. Distributions from Charitable Gift Annuities
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 4.  Dividend Income from PA S corporations and partnerships
+FieldNameAlt: 4.  Dividend Income from PA S corporations and partnerships.
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 5. Distributions from IRC Section 529 distributions not used for education
+FieldNameAlt: 5. Distributions from IRC Section 529 distributions not used for education.
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 5. Total PA Taxable Dividend Income
+FieldNameAlt: 5. Total PA Taxable Dividend Income
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 6. Distributions from Health/Medical Savings Accounts
+FieldNameAlt: 6. Distributions from Health/Medical Savings Accounts
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 7.  Interest Income from PA S corporations and partnerships
+FieldNameAlt: 7.  Interest Income from PA S corporations and partnerships.
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: 8. Total PA Taxable Interest Income
+FieldNameAlt: 8. Total PA Taxable Interest Income
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Button
+FieldName: start box
+FieldFlags: 65537
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: arrow
+FieldFlags: 65537
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: B. Name of payer of dividends - Line 1
+FieldNameAlt: B. Name of payer of dividends - Line 1
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: B. Amount of dividends received - Line 1
+FieldNameAlt: B. Amount of dividends received - Line 1
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: B. Name of payer of dividends - Line 2
+FieldNameAlt: B. Name of payer of dividends - Line 2
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: B. Amount of dividends received - Line 2
+FieldNameAlt: B. Amount of dividends received - Line 2
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: B. Name of payer of dividends - Line 3
+FieldNameAlt: B. Name of payer of dividends - Line 3
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: B. Amount of dividends received - Line 3
+FieldNameAlt: B. Amount of dividends received - Line 3
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: B. Name of payer of dividends - Line 4
+FieldNameAlt: B. Name of payer of dividends - Line 4
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: B. Amount of dividends received - Line 4
+FieldNameAlt: B. Amount of dividends received - Line 4
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: B. Name of payer of dividends - Line 5
+FieldNameAlt: B. Name of payer of dividends - Line 5
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: B. Amount of dividends received - Line 5
+FieldNameAlt: B. Amount of dividends received - Line 5
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: B. Name of payer of dividends - Line 6
+FieldNameAlt: B. Name of payer of dividends - Line 6
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: B. Amount of dividends received - Line 6
+FieldNameAlt: B. Amount of dividends received - Line 6
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: B. Name of payer of dividends - Line 7
+FieldNameAlt: B. Name of payer of dividends - Line 7
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: B. Amount of dividends received - Line 7
+FieldNameAlt: B. Amount of dividends received - Line 7
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: B. Name of payer of dividends - Line 8
+FieldNameAlt: B. Name of payer of dividends - Line 8
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: B. Amount of dividends received - Line 8
+FieldNameAlt: B. Amount of dividends received - Line 8
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: B. Name of payer of dividends - Line 9
+FieldNameAlt: B. Name of payer of dividends - Line 9
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: B. Amount of dividends received - Line 9
+FieldNameAlt: B. Amount of dividends received - Line 9
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: B. Name of payer of dividends - Line 10
+FieldNameAlt: B. Name of payer of dividends - Line 10
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: B. Amount of dividends received - Line 10
+FieldNameAlt: B. Amount of dividends received - Line 10
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: B. Name of payer of dividends - Line 11
+FieldNameAlt: B. Name of payer of dividends - Line 11
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: B. Amount of dividends received - Line 11
+FieldNameAlt: B. Amount of dividends received - Line 11
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: B. Name of payer of dividends - Line 12
+FieldNameAlt: B. Name of payer of dividends - Line 12
+FieldFlags: 12582912
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: B. Amount of dividends received - Line 12
+FieldNameAlt: B. Amount of dividends received - Line 12
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Button
+FieldName: RESET FORM
+FieldNameAlt: reset entire form
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: RETURN TO TOP
+FieldNameAlt: RETURN TO TOP
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: Print Form
+FieldNameAlt: print
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: Part A - Taxpayer/Spouse/Joint
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: 1
+FieldStateOption: 2
+FieldStateOption: 3
+FieldStateOption: Off
+---
+FieldType: Button
+FieldName: Part B - Taxpayer/Spouse/Joint
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: 1
+FieldStateOption: 2
+FieldStateOption: 3
+FieldStateOption: Off
