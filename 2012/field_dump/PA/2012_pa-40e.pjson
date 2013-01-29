@@ -1,384 +1,396 @@
-"F2":{
-"fdf":"Name of taxpayer filing this schedule",
-"type":"text"
-},
-"F3":{
-"fdf":"Your Social Security Number",
-"type":"text"
-},
-"F4":{
-"fdf":"A. Kind of Property",
-"type":"text"
-},
-"F5":{
-"fdf":"A. Address 1",
-"type":"text"
-},
-"F6":{
-"fdf":"A. 17. Other (itemize):",
-"type":"text"
-},
-"F7":{
-"fdf":"Description A1 Y/N",
-"type":"text",["1","2","Off"]
-},
-"F8":{
-"fdf":"B. Kind of Property",
-"type":"text"
-},
-"F9":{
-"fdf":"B. Address 1",
-"type":"text"
-},
-"Fa":{
-"fdf":"B. 17. Other (itemize):",
-"type":"text"
-},
-"Fb":{
-"fdf":"Description A2 Y/N",
-"type":"text",["3","4","Off"]
-},
-"Fc":{
-"fdf":"C. Kind of Property",
-"type":"text"
-},
-"Fd":{
-"fdf":"C. Address 1",
-"type":"text"
-},
-"Fe":{
-"fdf":"C. 17. Other (itemize):",
-"type":"text"
-},
-"Ff":{
-"fdf":"Description A3 Y/N",
-"type":"text",["5","6","Off"]
-},
-"F10":{
-"fdf":"Part A1",
-"type":"text",["1","2","3","Off"]
-},
-"F11":{
-"fdf":"Part B1",
-"type":"text",["1","2","3","Off"]
-},
-"F12":{
-"fdf":"Part C1",
-"type":"text",["1","2","3","Off"]
-},
-"F13":{
-"fdf":"1. 1. Rent received",
-"type":"text"
-},
-"F14":{
-"fdf":"1. 2. Royalties received",
-"type":"text"
-},
-"F15":{
-"fdf":"1. 3. Advertising",
-"type":"text"
-},
-"F16":{
-"fdf":"1. 4. Automobile and travel",
-"type":"text"
-},
-"F17":{
-"fdf":"1. 5. Cleaning and maintenance",
-"type":"text"
-},
-"F18":{
-"fdf":"1. 6. Commissions",
-"type":"text"
-},
-"F19":{
-"fdf":"1. 7. Insurance",
-"type":"text"
-},
-"F1a":{
-"fdf":"1. 8. Legal and professional fees",
-"type":"text"
-},
-"F1b":{
-"fdf":"1. 9. Management fees",
-"type":"text"
-},
-"F1c":{
-"fdf":"1. 10. mortgage interest",
-"type":"text"
-},
-"F1d":{
-"fdf":"1. 12. Repairs",
-"type":"text"
-},
-"F1e":{
-"fdf":"1. 13. Supplies",
-"type":"text"
-},
-"F1f":{
-"fdf":"1. 14. Taxes - not based on net income",
-"type":"text"
-},
-"F20":{
-"fdf":"1. 16. Depreciation expense",
-"type":"text"
-},
-"F21":{
-"fdf":"1. 17. Other (itemize):",
-"type":"text"
-},
-"F22":{
-"fdf":"1. 18. Total expenses - Add Lines 3 through 17",
-"type":"text"
-},
-"F23":{
-"fdf":"1. LOSS",
-"type":"text",["3","Off"]
-},
-"F24":{
-"fdf":"1. 20. Loss - Subtract Line 1 or 2 from Line 18",
-"type":"text"
-},
-"F25":{
-"fdf":"1. 21. Net Income or Loss",
-"type":"text"
-},
-"F26":{
-"fdf":"1. 22. Rent or royalty income (loss)",
-"type":"text"
-},
-"F27":{
-"fdf":"1. 23. Net Rent or royalty income (loss) from partnership(s), from your PA Schedule(s) RK-1 or NRK-1",
-"type":"text"
-},
-"F28":{
-"fdf":"1.11. Other interest",
-"type":"text"
-},
-"F29":{
-"fdf":"1.15. Utilities",
-"type":"text"
-},
-"F2a":{
-"fdf":"1. 19. Income - Subtract Line 18 from Line 1 or 2",
-"type":"text"
-},
-"F2b":{
-"fdf":"17. Others",
-"type":"text"
-},
-"F2c":{
-"fdf":"17.( A.) Others",
-"type":"text"
-},
-"F2d":{
-"fdf":"17.( B.) Others",
-"type":"text"
-},
-"F2e":{
-"fdf":"17.( C.) Others",
-"type":"text"
-},
-"F2f":{
-"fdf":"2. 1.	Rent received",
-"type":"text"
-},
-"F30":{
-"fdf":"2. 2.	Royalties received",
-"type":"text"
-},
-"F31":{
-"fdf":"2. 3.	Advertising",
-"type":"text"
-},
-"F32":{
-"fdf":"2. 5.	Cleaning and maintenance",
-"type":"text"
-},
-"F33":{
-"fdf":"2. 6.	Commissions",
-"type":"text"
-},
-"F34":{
-"fdf":"2. 7.	Insurance",
-"type":"text"
-},
-"F35":{
-"fdf":"2. 8.	Legal and professional fees",
-"type":"text"
-},
-"F36":{
-"fdf":"2. 9.	Management fees",
-"type":"text"
-},
-"F37":{
-"fdf":"2. 10. mortgage interest",
-"type":"text"
-},
-"F38":{
-"fdf":"2.11.	Other interest",
-"type":"text"
-},
-"F39":{
-"fdf":"2. 12. Repairs",
-"type":"text"
-},
-"F3a":{
-"fdf":"2. 13. Supplies",
-"type":"text"
-},
-"F3b":{
-"fdf":"2. 14. Taxes - not based on net income",
-"type":"text"
-},
-"F3c":{
-"fdf":"2.15.	Utilities",
-"type":"text"
-},
-"F3d":{
-"fdf":"2. 16. Depreciation expense",
-"type":"text"
-},
-"F3e":{
-"fdf":"2. 17. Other (itemize):",
-"type":"text"
-},
-"F3f":{
-"fdf":"2. 18. Total expenses - Add Lines 3 through 17",
-"type":"text"
-},
-"F40":{
-"fdf":"2.19.	Income - Subtract Line 18 from Line 1 or 2",
-"type":"text"
-},
-"F41":{
-"fdf":"2. LOSS",
-"type":"text",["3","Off"]
-},
-"F42":{
-"fdf":"2. 20. Loss - Subtract Line 1 or 2 from Line 18",
-"type":"text"
-},
-"F43":{
-"fdf":"2 4.	Automobile and travel",
-"type":"text"
-},
-"F44":{
-"fdf":"2a.17. Other (itemize):",
-"type":"text"
-},
-"F45":{
-"fdf":"2b. 17. Other (itemize):",
-"type":"text"
-},
-"F46":{
-"fdf":"2c. 17. Other (itemize):",
-"type":"text"
-},
-"F47":{
-"fdf":"3. 1.	Rent received",
-"type":"text"
-},
-"F48":{
-"fdf":"3. 2.	Royalties received",
-"type":"text"
-},
-"F49":{
-"fdf":"3. 3.	Advertising",
-"type":"text"
-},
-"F4a":{
-"fdf":"3. 4.	Automobile and travel",
-"type":"text"
-},
-"F4b":{
-"fdf":"3. 5.	Cleaning and maintenance",
-"type":"text"
-},
-"F4c":{
-"fdf":"3. 6.	Commissions",
-"type":"text"
-},
-"F4d":{
-"fdf":"3. 7.	Insurance",
-"type":"text"
-},
-"F4e":{
-"fdf":"3. 9.	Management fees",
-"type":"text"
-},
-"F4f":{
-"fdf":"3. 10.	mortgage interest",
-"type":"text"
-},
-"F50":{
-"fdf":"3.11.	Other interest",
-"type":"text"
-},
-"F51":{
-"fdf":"3. 12. Repairs",
-"type":"text"
-},
-"F52":{
-"fdf":"3. 13. Supplies",
-"type":"text"
-},
-"F53":{
-"fdf":"3. 14. Taxes - not based on net income",
-"type":"text"
-},
-"F54":{
-"fdf":"3.15.	Utilities",
-"type":"text"
-},
-"F55":{
-"fdf":"3. 16. Depreciation expense",
-"type":"text"
-},
-"F56":{
-"fdf":"3. 17. Other (itemize):",
-"type":"text"
-},
-"F57":{
-"fdf":"3. 18. Total expenses - Add Lines 3 through 17",
-"type":"text"
-},
-"F58":{
-"fdf":"3.19.	Income - Subtract Line 18 from Line 1 or 2",
-"type":"text"
-},
-"F59":{
-"fdf":"3. LOSS",
-"type":"text",["3","Off"]
-},
-"F5a":{
-"fdf":"3. 20. Loss - Subtract Line 1 or 2 from Line 18",
-"type":"text"
-},
-"F5b":{
-"fdf":"3 8.	Legal and professional fees",
-"type":"text"
-},
-"F5c":{
-"fdf":"3A. 17. Other (itemize):",
-"type":"text"
-},
-"F5d":{
-"fdf":"3B. 17. Other (itemize):",
-"type":"text"
-},
-"F5e":{
-"fdf":"3C. 17. Other (itemize):",
-"type":"text"
-},
-"F5f":{
-"fdf":"21.Loss",
-"type":"text",["3","Off"]
-},
-"F60":{
-"fdf":"22. Loss",
-"type":"text",["3","Off"]
-},
-"F61":{
-"fdf":"23. Loss",
-"type":"text",["3","Off"]
+"F2" : {
+"fdf" : "Name of taxpayer filing this schedule",
+"type" : "text"
+},
+"F3" : {
+"fdf" : "Your Social Security Number",
+"type" : "text"
+},
+"F4" : {
+"fdf" : "A. Kind of Property",
+"type" : "text"
+},
+"F5" : {
+"fdf" : "A. Address 1",
+"type" : "text"
+},
+"F6" : {
+"fdf" : "A. 17. Other (itemize):",
+"type" : "text"
+},
+"F7" : {
+"fdf" : "Description A1 Y/N",
+"type" : "checkbox",
+"options":["1","2","Off"]
+},
+"F8" : {
+"fdf" : "B. Kind of Property",
+"type" : "text"
+},
+"F9" : {
+"fdf" : "B. Address 1",
+"type" : "text"
+},
+"Fa" : {
+"fdf" : "B. 17. Other (itemize):",
+"type" : "text"
+},
+"Fb" : {
+"fdf" : "Description A2 Y/N",
+"type" : "checkbox",
+"options":["3","4","Off"]
+},
+"Fc" : {
+"fdf" : "C. Kind of Property",
+"type" : "text"
+},
+"Fd" : {
+"fdf" : "C. Address 1",
+"type" : "text"
+},
+"Fe" : {
+"fdf" : "C. 17. Other (itemize):",
+"type" : "text"
+},
+"Ff" : {
+"fdf" : "Description A3 Y/N",
+"type" : "checkbox",
+"options":["5","6","Off"]
+},
+"F10" : {
+"fdf" : "Part A1",
+"type" : "checkbox",
+"options":["1","2","3","Off"]
+},
+"F11" : {
+"fdf" : "Part B1",
+"type" : "checkbox",
+"options":["1","2","3","Off"]
+},
+"F12" : {
+"fdf" : "Part C1",
+"type" : "checkbox",
+"options":["1","2","3","Off"]
+},
+"F13" : {
+"fdf" : "1. 1. Rent received",
+"type" : "text"
+},
+"F14" : {
+"fdf" : "1. 2. Royalties received",
+"type" : "text"
+},
+"F15" : {
+"fdf" : "1. 3. Advertising",
+"type" : "text"
+},
+"F16" : {
+"fdf" : "1. 4. Automobile and travel",
+"type" : "text"
+},
+"F17" : {
+"fdf" : "1. 5. Cleaning and maintenance",
+"type" : "text"
+},
+"F18" : {
+"fdf" : "1. 6. Commissions",
+"type" : "text"
+},
+"F19" : {
+"fdf" : "1. 7. Insurance",
+"type" : "text"
+},
+"F1a" : {
+"fdf" : "1. 8. Legal and professional fees",
+"type" : "text"
+},
+"F1b" : {
+"fdf" : "1. 9. Management fees",
+"type" : "text"
+},
+"F1c" : {
+"fdf" : "1. 10. mortgage interest",
+"type" : "text"
+},
+"F1d" : {
+"fdf" : "1. 12. Repairs",
+"type" : "text"
+},
+"F1e" : {
+"fdf" : "1. 13. Supplies",
+"type" : "text"
+},
+"F1f" : {
+"fdf" : "1. 14. Taxes - not based on net income",
+"type" : "text"
+},
+"F20" : {
+"fdf" : "1. 16. Depreciation expense",
+"type" : "text"
+},
+"F21" : {
+"fdf" : "1. 17. Other (itemize):",
+"type" : "text"
+},
+"F22" : {
+"fdf" : "1. 18. Total expenses - Add Lines 3 through 17",
+"type" : "text"
+},
+"F23" : {
+"fdf" : "1. LOSS",
+"type" : "checkbox",
+"options":["3","Off"]
+},
+"F24" : {
+"fdf" : "1. 20. Loss - Subtract Line 1 or 2 from Line 18",
+"type" : "text"
+},
+"F25" : {
+"fdf" : "1. 21. Net Income or Loss",
+"type" : "text"
+},
+"F26" : {
+"fdf" : "1. 22. Rent or royalty income (loss)",
+"type" : "text"
+},
+"F27" : {
+"fdf" : "1. 23. Net Rent or royalty income (loss) from partnership(s), from your PA Schedule(s) RK-1 or NRK-1",
+"type" : "text"
+},
+"F28" : {
+"fdf" : "1.11. Other interest",
+"type" : "text"
+},
+"F29" : {
+"fdf" : "1.15. Utilities",
+"type" : "text"
+},
+"F2a" : {
+"fdf" : "1. 19. Income - Subtract Line 18 from Line 1 or 2",
+"type" : "text"
+},
+"F2b" : {
+"fdf" : "17. Others",
+"type" : "text"
+},
+"F2c" : {
+"fdf" : "17.( A.) Others",
+"type" : "text"
+},
+"F2d" : {
+"fdf" : "17.( B.) Others",
+"type" : "text"
+},
+"F2e" : {
+"fdf" : "17.( C.) Others",
+"type" : "text"
+},
+"F2f" : {
+"fdf" : "2. 1.&#9;Rent received",
+"type" : "text"
+},
+"F30" : {
+"fdf" : "2. 2.&#9;Royalties received",
+"type" : "text"
+},
+"F31" : {
+"fdf" : "2. 3.&#9;Advertising",
+"type" : "text"
+},
+"F32" : {
+"fdf" : "2. 5.&#9;Cleaning and maintenance",
+"type" : "text"
+},
+"F33" : {
+"fdf" : "2. 6.&#9;Commissions",
+"type" : "text"
+},
+"F34" : {
+"fdf" : "2. 7.&#9;Insurance",
+"type" : "text"
+},
+"F35" : {
+"fdf" : "2. 8.&#9;Legal and professional fees",
+"type" : "text"
+},
+"F36" : {
+"fdf" : "2. 9.&#9;Management fees",
+"type" : "text"
+},
+"F37" : {
+"fdf" : "2. 10. mortgage interest",
+"type" : "text"
+},
+"F38" : {
+"fdf" : "2.11.&#9;Other interest",
+"type" : "text"
+},
+"F39" : {
+"fdf" : "2. 12. Repairs",
+"type" : "text"
+},
+"F3a" : {
+"fdf" : "2. 13. Supplies",
+"type" : "text"
+},
+"F3b" : {
+"fdf" : "2. 14. Taxes - not based on net income",
+"type" : "text"
+},
+"F3c" : {
+"fdf" : "2.15.&#9;Utilities",
+"type" : "text"
+},
+"F3d" : {
+"fdf" : "2. 16. Depreciation expense",
+"type" : "text"
+},
+"F3e" : {
+"fdf" : "2. 17. Other (itemize):",
+"type" : "text"
+},
+"F3f" : {
+"fdf" : "2. 18. Total expenses - Add Lines 3 through 17",
+"type" : "text"
+},
+"F40" : {
+"fdf" : "2.19.&#9;Income - Subtract Line 18 from Line 1 or 2",
+"type" : "text"
+},
+"F41" : {
+"fdf" : "2. LOSS",
+"type" : "checkbox",
+"options":["3","Off"]
+},
+"F42" : {
+"fdf" : "2. 20. Loss - Subtract Line 1 or 2 from Line 18",
+"type" : "text"
+},
+"F43" : {
+"fdf" : "2 4.&#9;Automobile and travel",
+"type" : "text"
+},
+"F44" : {
+"fdf" : "2a.17. Other (itemize):",
+"type" : "text"
+},
+"F45" : {
+"fdf" : "2b. 17. Other (itemize):",
+"type" : "text"
+},
+"F46" : {
+"fdf" : "2c. 17. Other (itemize):",
+"type" : "text"
+},
+"F47" : {
+"fdf" : "3. 1.&#9;Rent received",
+"type" : "text"
+},
+"F48" : {
+"fdf" : "3. 2.&#9;Royalties received",
+"type" : "text"
+},
+"F49" : {
+"fdf" : "3. 3.&#9;Advertising",
+"type" : "text"
+},
+"F4a" : {
+"fdf" : "3. 4.&#9;Automobile and travel",
+"type" : "text"
+},
+"F4b" : {
+"fdf" : "3. 5.&#9;Cleaning and maintenance",
+"type" : "text"
+},
+"F4c" : {
+"fdf" : "3. 6.&#9;Commissions",
+"type" : "text"
+},
+"F4d" : {
+"fdf" : "3. 7.&#9;Insurance",
+"type" : "text"
+},
+"F4e" : {
+"fdf" : "3. 9.&#9;Management fees",
+"type" : "text"
+},
+"F4f" : {
+"fdf" : "3. 10.&#9;mortgage interest",
+"type" : "text"
+},
+"F50" : {
+"fdf" : "3.11.&#9;Other interest",
+"type" : "text"
+},
+"F51" : {
+"fdf" : "3. 12. Repairs",
+"type" : "text"
+},
+"F52" : {
+"fdf" : "3. 13. Supplies",
+"type" : "text"
+},
+"F53" : {
+"fdf" : "3. 14. Taxes - not based on net income",
+"type" : "text"
+},
+"F54" : {
+"fdf" : "3.15.&#9;Utilities",
+"type" : "text"
+},
+"F55" : {
+"fdf" : "3. 16. Depreciation expense",
+"type" : "text"
+},
+"F56" : {
+"fdf" : "3. 17. Other (itemize):",
+"type" : "text"
+},
+"F57" : {
+"fdf" : "3. 18. Total expenses - Add Lines 3 through 17",
+"type" : "text"
+},
+"F58" : {
+"fdf" : "3.19.&#9;Income - Subtract Line 18 from Line 1 or 2",
+"type" : "text"
+},
+"F59" : {
+"fdf" : "3. LOSS",
+"type" : "checkbox",
+"options":["3","Off"]
+},
+"F5a" : {
+"fdf" : "3. 20. Loss - Subtract Line 1 or 2 from Line 18",
+"type" : "text"
+},
+"F5b" : {
+"fdf" : "3 8.&#9;Legal and professional fees",
+"type" : "text"
+},
+"F5c" : {
+"fdf" : "3A. 17. Other (itemize):",
+"type" : "text"
+},
+"F5d" : {
+"fdf" : "3B. 17. Other (itemize):",
+"type" : "text"
+},
+"F5e" : {
+"fdf" : "3C. 17. Other (itemize):",
+"type" : "text"
+},
+"F5f" : {
+"fdf" : "21.Loss",
+"type" : "checkbox",
+"options":["3","Off"]
+},
+"F60" : {
+"fdf" : "22. Loss",
+"type" : "checkbox",
+"options":["3","Off"]
+},
+"F61" : {
+"fdf" : "23. Loss",
+"type" : "checkbox",
+"options":["3","Off"]
 },
