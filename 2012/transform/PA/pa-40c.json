@@ -12,11 +12,11 @@
 			"fdf" : "Year",
 			"type" : "text"
 		},
-		"Name" : {
+		"BothNames" : {
 			"fdf" : "Name of Owner as shown PA tax return",
 			"type" : "text"
 		},
-		"SSN" : {
+		"YourSSN" : {
 			"fdf" : "Owner's Social Security Number",
 			"type" : "text"
 		},

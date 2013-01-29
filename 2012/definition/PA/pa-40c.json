@@ -3,8 +3,6 @@
 	"year" : 2012,
 	"fields" : {
 		"Year" : "Text",
-		"Name" : "Text",
-		"SSN" : "Text",
 		"A" : "Text",
 		"ProductOrService" : "Text",
 		"B" : "Text",

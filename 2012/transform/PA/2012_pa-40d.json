@@ -8,11 +8,11 @@
 	},
 	"sequence" : 7,
 	"fields" : {
-		"Name" : {
+		"BothNames" : {
 			"fdf" : "Name of the taxpayer filing this schedule (if filing a PA-40 jointly enter the name shown first)",
 			"type" : "text"
 		},
-		"SSN" : {
+		"YourSSN" : {
 			"fdf" : "Social Security Number",
 			"type" : "text"
 		},

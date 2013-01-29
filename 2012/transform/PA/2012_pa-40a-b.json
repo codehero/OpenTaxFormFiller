@@ -8,11 +8,11 @@
 	},
 	"sequence" : 7,
 	"fields" : {
-		"Name" : {
+		"BothNames" : {
 			"fdf" : "Name shown first on the PA-40",
 			"type" : "text"
 		},
-		"SSN" : {
+		"YourSSN" : {
 			"fdf" : "Social Security Number (shown first)",
 			"type" : "text"
 		},

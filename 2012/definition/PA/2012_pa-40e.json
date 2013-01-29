@@ -2,8 +2,6 @@
 	"form" : "pa-40e",
 	"year" : 2012,
 	"fields" : {
-		"Name" : "Text",
-		"SSN" : "Text",
 		"A_Property" : "Text",
 		"A_Address" : "Text",
 		"A_ForProfit" : "Choice",

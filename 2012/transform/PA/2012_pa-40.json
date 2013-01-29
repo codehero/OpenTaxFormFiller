@@ -8,11 +8,11 @@
 	},
 	"sequence" : 7,
 	"fields" : {
-		"Spouse_SSN" : {
+		"SpouseSSN" : {
 			"fdf" : "Enter SSN of spouse without dashes or spaces",
 			"type" : "text"
 		},
-		"LastName" : {
+		"YourLastName" : {
 			"fdf" : "Use all caps to enter taxpayer's last name",
 			"type" : "text"
 		},
@@ -20,7 +20,7 @@
 			"fdf" : "Use all caps to enter suffixes such as JR, SR, III",
 			"type" : "text"
 		},
-		"FirstName" : {
+		"YourFirstName" : {
 			"fdf" : "Use all caps to enter taxpayer's first name",
 			"type" : "text"
 		},
@@ -28,19 +28,19 @@
 			"fdf" : "Your Middle Initial",
 			"type" : "text"
 		},
-		"Spouse_FirstName" : {
+		"SpouseFirstName" : {
 			"fdf" : "Use all caps to enter spouse's first name",
 			"type" : "text"
 		},
-		"Spouse_MiddleInitial" : {
+		"SpouseMiddleInitial" : {
 			"fdf" : "Spouse's Middle Initial",
 			"type" : "text"
 		},
-		"Spouse_LastName" : {
+		"SpouseLastName" : {
 			"fdf" : "Use all caps to enter spouse's last name if different from above",
 			"type" : "text"
 		},
-		"Spouse_Suffix" : {
+		"SpouseSuffix" : {
 			"fdf" : "Use all caps to enter spouse's suffixes such as JR, SR, III",
 			"type" : "text"
 		},

@@ -2,8 +2,6 @@
 	"form" : "pa-40d",
 	"year" : 2012,
 	"fields" : {
-		"Name" : "Text",
-		"SSN" : "Text",
 		"Filing" : "Choice",
 		"L1_1a" : "Text",
 		"L1_1b" : "Text",

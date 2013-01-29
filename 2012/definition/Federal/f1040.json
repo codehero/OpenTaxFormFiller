@@ -2,7 +2,6 @@
 	"form" : "1040",
 	"year" : 2012,
 	"fields" : {
-		"SpouseSeparateName" : "Text",
 		"QualifyingPersonName" : "Text",
 		"PEC_You" : "Choice",
 		"PEC_Spouse" : "Choice",

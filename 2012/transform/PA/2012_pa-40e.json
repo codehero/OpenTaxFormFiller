@@ -8,11 +8,11 @@
 	},
 	"sequence" : null,
 	"fields" : {
-		"Name" : {
+		"BothNames" : {
 			"fdf" : "Name of taxpayer filing this schedule",
 			"type" : "text"
 		},
-		"SSN" : {
+		"YourSSN" : {
 			"fdf" : "Your Social Security Number",
 			"type" : "text"
 		},

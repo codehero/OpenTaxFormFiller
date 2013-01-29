@@ -2,8 +2,6 @@
 	"form" : "pa-40a-b",
 	"year" : 2012,
 	"fields" : {
-		"Name" : "Text",
-		"SSN" : "Text",
 		"A1_1" : "Number",
 		"A1_1_Name" : "Text",
 		"A1_2" : "Number",
