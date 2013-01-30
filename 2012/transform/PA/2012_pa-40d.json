@@ -1,0 +1,715 @@
+{
+	"form" : "pa-40d",
+	"title" : "Sale, Exchange or Disposition of Property",
+	"year" : 2012,
+	"pdfSum" : {
+		"type" : "MD5",
+		"sum" : "63b9a34b3b082c0c85580624a6069504"
+	},
+	"sequence" : 7,
+	"fields" : {
+		"BothNames" : {
+			"fdf" : "Name of the taxpayer filing this schedule (if filing a PA-40 jointly enter the name shown first)",
+			"type" : "text"
+		},
+		"YourSSN" : {
+			"fdf" : "Social Security Number",
+			"type" : "text"
+		},
+		"Filing" : {
+			"fdf" : "Taxpayer/Spouse/Joint",
+			"type" : "checkbox",
+			"options" : {
+				"Taxpayer" : "1",
+				"Spouse" : "2",
+				"Joint" : "3"
+			}
+		},
+		"L1_1a" : {
+			"fdf" : "1.(a) Describe the property: 100 shares of XYZ stock, or 10 acres in Dauphin County",
+			"type" : "text"
+		},
+		"L1_1b" : {
+			"fdf" : "1. (b) Date acquired: Month/day/year",
+			"type" : "text"
+		},
+		"L1_1c" : {
+			"fdf" : "1c. Month/Day/Year - sold",
+			"type" : "text"
+		},
+		"L1_1d" : {
+			"fdf" : "1d. Gross sales price less expense od sale",
+			"type" : "text"
+		},
+		"L1_1e" : {
+			"fdf" : "1e. Cost or Adjusted Basis of the property sold",
+			"type" : "text"
+		},
+		"L1_1f" : {
+			"fdf" : "1 (f) Gain or loss (d) minus (e) If a loss, fill in the oval",
+			"type" : "text"
+		},
+		"L1_1_Loss" : {
+			"fdf" : "1. Loss",
+			"type" : "checkbox",
+			"options" : {
+				"yes" : "1."
+			}
+		},
+		"L1_2a" : {
+			"fdf" : "2.(a) Describe the property: 100 shares of XYZ stock, or 10 acres in Dauphin County",
+			"type" : "text"
+		},
+		"L1_2b" : {
+			"fdf" : "2. (b) Date acquired: Month/day/year",
+			"type" : "text"
+		},
+		"L1_2c" : {
+			"fdf" : "2c. Month/Day/Year - sold",
+			"type" : "text"
+		},
+		"L1_2d" : {
+			"fdf" : "2d. Gross sales price less expense od sale",
+			"type" : "text"
+		},
+		"L1_2e" : {
+			"fdf" : "2e. Cost or Adjusted Basis of the property sold",
+			"type" : "text"
+		},
+		"L1_2f" : {
+			"fdf" : "2 (f) Gain or loss (d) minus (e) If a loss, fill in the oval",
+			"type" : "text"
+		},
+		"L1_2_Loss" : {
+			"fdf" : "2. Loss",
+			"type" : "checkbox",
+			"options" : {
+				"yes" : "1."
+			}
+		},
+		"L1_3a" : {
+			"fdf" : "3.(a) Describe the property: 100 shares of XYZ stock, or 10 acres in Dauphin County",
+			"type" : "text"
+		},
+		"L1_3b" : {
+			"fdf" : "3. (b) Date acquired: Month/day/year",
+			"type" : "text"
+		},
+		"L1_3c" : {
+			"fdf" : "3c. Month/Day/Year - sold",
+			"type" : "text"
+		},
+		"L1_3d" : {
+			"fdf" : "3d. Gross sales price less expense od sale",
+			"type" : "text"
+		},
+		"L1_3e" : {
+			"fdf" : "3e. Cost or Adjusted Basis of the property sold",
+			"type" : "text"
+		},
+		"L1_3f" : {
+			"fdf" : "3 (f) Gain or loss (d) minus (e) If a loss, fill in the oval",
+			"type" : "text"
+		},
+		"L1_3_Loss" : {
+			"fdf" : "3. Loss",
+			"type" : "checkbox",
+			"options" : {
+				"yes" : "1."
+			}
+		},
+		"L1_4a" : {
+			"fdf" : "4.(a) Describe the property: 100 shares of XYZ stock, or 10 acres in Dauphin County",
+			"type" : "text"
+		},
+		"L1_4b" : {
+			"fdf" : "4. (b) Date acquired: Month/day/year",
+			"type" : "text"
+		},
+		"L1_4c" : {
+			"fdf" : "4c. Month/Day/Year - sold",
+			"type" : "text"
+		},
+		"L1_4d" : {
+			"fdf" : "4d. Gross sales price less expense od sale",
+			"type" : "text"
+		},
+		"L1_4e" : {
+			"fdf" : "4e. Cost or Adjusted Basis of the property sold",
+			"type" : "text"
+		},
+		"L1_4f" : {
+			"fdf" : "4 (f) Gain or loss (d) minus (e) If a loss, fill in the oval",
+			"type" : "text"
+		},
+		"L1_4_Loss" : {
+			"fdf" : "4. Loss",
+			"type" : "checkbox",
+			"options" : {
+				"yes" : "1."
+			}
+		},
+		"L1_5a" : {
+			"fdf" : "5.(a) Describe the property: 100 shares of XYZ stock, or 10 acres in Dauphin County",
+			"type" : "text"
+		},
+		"L1_5b" : {
+			"fdf" : "5. (b) Date acquired: Month/day/year",
+			"type" : "text"
+		},
+		"L1_5c" : {
+			"fdf" : "5c. Month/Day/Year - sold",
+			"type" : "text"
+		},
+		"L1_5d" : {
+			"fdf" : "5d. Gross sales price less expense od sale",
+			"type" : "text"
+		},
+		"L1_5e" : {
+			"fdf" : "5e. Cost or Adjusted Basis of the property sold",
+			"type" : "text"
+		},
+		"L1_5f" : {
+			"fdf" : "5 (f) Gain or loss (d) minus (e) If a loss, fill in the oval",
+			"type" : "text"
+		},
+		"L1_5_Loss" : {
+			"fdf" : "5. Loss",
+			"type" : "checkbox",
+			"options" : {
+				"yes" : "1."
+			}
+		},
+		"L1_6a" : {
+			"fdf" : "6.(a) Describe the property: 100 shares of XYZ stock, or 10 acres in Dauphin County",
+			"type" : "text"
+		},
+		"L1_6b" : {
+			"fdf" : "6. (b) Date acquired: Month/day/year",
+			"type" : "text"
+		},
+		"L1_6c" : {
+			"fdf" : "6c. Month/Day/Year - sold",
+			"type" : "text"
+		},
+		"L1_6d" : {
+			"fdf" : "6d. Gross sales price less expense od sale",
+			"type" : "text"
+		},
+		"L1_6e" : {
+			"fdf" : "6e. Cost or Adjusted Basis of the property sold",
+			"type" : "text"
+		},
+		"L1_6f" : {
+			"fdf" : "6 (f) Gain or loss (d) minus (e) If a loss, fill in the oval",
+			"type" : "text"
+		},
+		"L1_6_Loss" : {
+			"fdf" : "6. Loss",
+			"type" : "checkbox",
+			"options" : {
+				"yes" : "1."
+			}
+		},
+		"L1_7a" : {
+			"fdf" : "7.(a) Describe the property: 100 shares of XYZ stock, or 10 acres in Dauphin County",
+			"type" : "text"
+		},
+		"L1_7b" : {
+			"fdf" : "7. (b) Date acquired: Month/day/year",
+			"type" : "text"
+		},
+		"L1_7c" : {
+			"fdf" : "7c. Month/Day/Year - sold",
+			"type" : "text"
+		},
+		"L1_7d" : {
+			"fdf" : "7d. Gross sales price less expense od sale",
+			"type" : "text"
+		},
+		"L1_7e" : {
+			"fdf" : "7e. Cost or Adjusted Basis of the property sold",
+			"type" : "text"
+		},
+		"L1_7f" : {
+			"fdf" : "7 (f) Gain or loss (d) minus (e) If a loss, fill in the oval",
+			"type" : "text"
+		},
+		"L1_7_Loss" : {
+			"fdf" : "7. Loss",
+			"type" : "checkbox",
+			"options" : {
+				"yes" : "1."
+			}
+		},
+		"L1_8a" : {
+			"fdf" : "8.(a) Describe the property: 100 shares of XYZ stock, or 10 acres in Dauphin County",
+			"type" : "text"
+		},
+		"L1_8b" : {
+			"fdf" : "8. (b) Date acquired: Month/day/year",
+			"type" : "text"
+		},
+		"L1_8c" : {
+			"fdf" : "8c. Month/Day/Year - sold",
+			"type" : "text"
+		},
+		"L1_8d" : {
+			"fdf" : "8d. Gross sales price less expense od sale",
+			"type" : "text"
+		},
+		"L1_8e" : {
+			"fdf" : "8e. Cost or Adjusted Basis of the property sold",
+			"type" : "text"
+		},
+		"L1_8f" : {
+			"fdf" : "8 (f) Gain or loss (d) minus (e) If a loss, fill in the oval",
+			"type" : "text"
+		},
+		"L1_8_Loss" : {
+			"fdf" : "8. Loss",
+			"type" : "checkbox",
+			"options" : {
+				"yes" : "1."
+			}
+		},
+		"L1_9a" : {
+			"fdf" : "9.(a) Describe the property: 100 shares of XYZ stock, or 10 acres in Dauphin County",
+			"type" : "text"
+		},
+		"L1_9b" : {
+			"fdf" : "9. (b) Date acquired: Month/day/year",
+			"type" : "text"
+		},
+		"L1_9c" : {
+			"fdf" : "9c. Month/Day/Year - sold",
+			"type" : "text"
+		},
+		"L1_9d" : {
+			"fdf" : "9d. Gross sales price less expense od sale",
+			"type" : "text"
+		},
+		"L1_9e" : {
+			"fdf" : "9e. Cost or Adjusted Basis of the property sold",
+			"type" : "text"
+		},
+		"L1_9f" : {
+			"fdf" : "9 (f) Gain or loss (d) minus (e) If a loss, fill in the oval",
+			"type" : "text"
+		},
+		"L1_9_Loss" : {
+			"fdf" : "9. Loss",
+			"type" : "checkbox",
+			"options" : {
+				"yes" : "1."
+			}
+		},
+		"L1_10a" : {
+			"fdf" : "10.(a) Describe the property: 100 shares of XYZ stock, or 10 acres in Dauphin County",
+			"type" : "text"
+		},
+		"L1_10b" : {
+			"fdf" : "10. (b) Date acquired: Month/day/year",
+			"type" : "text"
+		},
+		"L1_10c" : {
+			"fdf" : "10c. Month/Day/Year - sold",
+			"type" : "text"
+		},
+		"L1_10d" : {
+			"fdf" : "10d. Gross sales price less expense od sale",
+			"type" : "text"
+		},
+		"L1_10e" : {
+			"fdf" : "10 e. Cost or Adjusted Basis of the property sold",
+			"type" : "text"
+		},
+		"L1_10f" : {
+			"fdf" : "10 (f) Gain or loss (d) minus (e) If a loss, fill in the oval",
+			"type" : "text"
+		},
+		"L1_10_Loss" : {
+			"fdf" : "10. Loss",
+			"type" : "checkbox",
+			"options" : {
+				"yes" : "1."
+			}
+		},
+		"L1_11a" : {
+			"fdf" : "11. (a) Describe the property: 100 shares of XYZ stock, or 10 acres in Dauphin County",
+			"type" : "text"
+		},
+		"L1_11b" : {
+			"fdf" : "11. (b) Date acquired: Month/day/year",
+			"type" : "text"
+		},
+		"L1_11c" : {
+			"fdf" : "11c. Month/Day/Year - sold",
+			"type" : "text"
+		},
+		"L1_11d" : {
+			"fdf" : "11d. Gross sales price less expense od sale",
+			"type" : "text"
+		},
+		"L1_11e" : {
+			"fdf" : "11 e. Cost or Adjusted Basis of the property sold",
+			"type" : "text"
+		},
+		"L1_11f" : {
+			"fdf" : "11 (f) Gain or loss (d) minus (e) If a loss, fill in the oval",
+			"type" : "text"
+		},
+		"L1_11_Loss" : {
+			"fdf" : "11. Loss",
+			"type" : "checkbox",
+			"options" : {
+				"yes" : "1."
+			}
+		},
+		"L1_12a" : {
+			"fdf" : "12. (a) Describe the property: 100 shares of XYZ stock, or 10 acres in Dauphin County",
+			"type" : "text"
+		},
+		"L1_12b" : {
+			"fdf" : "12. (b) Date acquired: Month/day/year",
+			"type" : "text"
+		},
+		"L1_12c" : {
+			"fdf" : "12c. Month/Day/Year - sold",
+			"type" : "text"
+		},
+		"L1_12d" : {
+			"fdf" : "12d. Gross sales price less expense od sale",
+			"type" : "text"
+		},
+		"L1_12e" : {
+			"fdf" : "12 e. Cost or Adjusted Basis of the property sold",
+			"type" : "text"
+		},
+		"L1_12f" : {
+			"fdf" : "12 (f) Gain or loss (d) minus (e) If a loss, fill in the oval",
+			"type" : "text"
+		},
+		"L1_12_Loss" : {
+			"fdf" : "12. Loss",
+			"type" : "checkbox",
+			"options" : {
+				"yes" : "1."
+			}
+		},
+		"L1_13a" : {
+			"fdf" : "13. (a) Describe the property: 100 shares of XYZ stock, or 10 acres in Dauphin County",
+			"type" : "text"
+		},
+		"L1_13b" : {
+			"fdf" : "13. (b) Date acquired: Month/day/year",
+			"type" : "text"
+		},
+		"L1_13c" : {
+			"fdf" : "13c. Month/Day/Year - sold",
+			"type" : "text"
+		},
+		"L1_13d" : {
+			"fdf" : "13d. Gross sales price less expense od sale",
+			"type" : "text"
+		},
+		"L1_13e" : {
+			"fdf" : "13 e. Cost or Adjusted Basis of the property sold",
+			"type" : "text"
+		},
+		"L1_13f" : {
+			"fdf" : "13 (f) Gain or loss (d) minus (e) If a loss, fill in the oval",
+			"type" : "text"
+		},
+		"L1_13_Loss" : {
+			"fdf" : "13. Loss",
+			"type" : "checkbox",
+			"options" : {
+				"yes" : "1."
+			}
+		},
+		"L1_14a" : {
+			"fdf" : "14.(a) Describe the property: 100 shares of XYZ stock, or 10 acres in Dauphin County",
+			"type" : "text"
+		},
+		"L1_14b" : {
+			"fdf" : "14. (b) Date acquired: Month/day/year",
+			"type" : "text"
+		},
+		"L1_14c" : {
+			"fdf" : "14c. Month/Day/Year - sold",
+			"type" : "text"
+		},
+		"L1_14d" : {
+			"fdf" : "14d. Gross sales price less expense od sale",
+			"type" : "text"
+		},
+		"L1_14e" : {
+			"fdf" : "14 e. Cost or Adjusted Basis of the property sold",
+			"type" : "text"
+		},
+		"L1_14f" : {
+			"fdf" : "14 (f) Gain or loss (d) minus (e) If a loss, fill in the oval",
+			"type" : "text"
+		},
+		"L1_14_Loss" : {
+			"fdf" : "14. Loss",
+			"type" : "checkbox",
+			"options" : {
+				"yes" : "1."
+			}
+		},
+		"L1_15a" : {
+			"fdf" : "15.(a) Describe the property: 100 shares of XYZ stock, or 10 acres in Dauphin County",
+			"type" : "text"
+		},
+		"L1_15b" : {
+			"fdf" : "15. (b) Date acquired: Month/day/year",
+			"type" : "text"
+		},
+		"L1_15c" : {
+			"fdf" : "15c. Month/Day/Year - sold",
+			"type" : "text"
+		},
+		"L1_15d" : {
+			"fdf" : "15d. Gross sales price less expense od sale",
+			"type" : "text"
+		},
+		"L1_15e" : {
+			"fdf" : "15 e. Cost or Adjusted Basis of the property sold",
+			"type" : "text"
+		},
+		"L1_15f" : {
+			"fdf" : "15 (f) Gain or loss (d) minus (e) If a loss, fill in the oval",
+			"type" : "text"
+		},
+		"L1_15_Loss" : {
+			"fdf" : "15. Loss",
+			"type" : "checkbox",
+			"options" : {
+				"yes" : "1."
+			}
+		},
+		"L1_16a" : {
+			"fdf" : "16.(a) Describe the property: 100 shares of XYZ stock, or 10 acres in Dauphin County",
+			"type" : "text"
+		},
+		"L1_16b" : {
+			"fdf" : "16. (b) Date acquired: Month/day/year",
+			"type" : "text"
+		},
+		"L1_16c" : {
+			"fdf" : "16c. Month/Day/Year - sold",
+			"type" : "text"
+		},
+		"L1_16d" : {
+			"fdf" : "16d. Gross sales price less expense od sale",
+			"type" : "text"
+		},
+		"L1_16e" : {
+			"fdf" : "16 e. Cost or Adjusted Basis of the property sold",
+			"type" : "text"
+		},
+		"L1_16f" : {
+			"fdf" : "16 (f) Gain or loss (d) minus (e) If a loss, fill in the oval",
+			"type" : "text"
+		},
+		"L1_16_Loss" : {
+			"fdf" : "16. Loss",
+			"type" : "checkbox",
+			"options" : {
+				"yes" : "1."
+			}
+		},
+		"L1_17a" : {
+			"fdf" : "17.(a) Describe the property: 100 shares of XYZ stock, or 10 acres in Dauphin County",
+			"type" : "text"
+		},
+		"L1_17b" : {
+			"fdf" : "17. (b) Date acquired: Month/day/year",
+			"type" : "text"
+		},
+		"L1_17c" : {
+			"fdf" : "17c. Month/Day/Year - sold",
+			"type" : "text"
+		},
+		"L1_17d" : {
+			"fdf" : "17d. Gross sales price less expense od sale",
+			"type" : "text"
+		},
+		"L1_17e" : {
+			"fdf" : "17 e. Cost or Adjusted Basis of the property sold",
+			"type" : "text"
+		},
+		"L1_17f" : {
+			"fdf" : "17 (f) Gain or loss (d) minus (e)",
+			"type" : "text"
+		},
+		"L1_17_Loss" : {
+			"fdf" : "17. Loss",
+			"type" : "checkbox",
+			"options" : {
+				"yes" : "1."
+			}
+		},
+		"L1_18a" : {
+			"fdf" : "18.(a) Describe the property: 100 shares of XYZ stock, or 10 acres in Dauphin County",
+			"type" : "text"
+		},
+		"L1_18b" : {
+			"fdf" : "18. (b) Date acquired: Month/day/year",
+			"type" : "text"
+		},
+		"L1_18c" : {
+			"fdf" : "18c. Month/Day/Year - sold",
+			"type" : "text"
+		},
+		"L1_18d" : {
+			"fdf" : "18d. Gross sales price less expense od sale",
+			"type" : "text"
+		},
+		"L1_18e" : {
+			"fdf" : "18 e. Cost or Adjusted Basis of the property sold",
+			"type" : "text"
+		},
+		"L1_18f" : {
+			"fdf" : "18 (f) Gain or loss (d) minus (e) If a loss, fill in the oval",
+			"type" : "text"
+		},
+		"L1_18_Loss" : {
+			"fdf" : "18. Loss",
+			"type" : "checkbox",
+			"options" : {
+				"yes" : "1."
+			}
+		},
+		"L1_19a" : {
+			"fdf" : "19.(a) Describe the property: 100 shares of XYZ stock, or 10 acres in Dauphin County",
+			"type" : "text"
+		},
+		"L1_19b" : {
+			"fdf" : "19. (b) Date acquired: Month/day/year",
+			"type" : "text"
+		},
+		"L1_19c" : {
+			"fdf" : "19c. Month/Day/Year - sold",
+			"type" : "text"
+		},
+		"L1_19d" : {
+			"fdf" : "19d. Gross sales price less expense od sale",
+			"type" : "text"
+		},
+		"L1_19e" : {
+			"fdf" : "19 e. Cost or Adjusted Basis of the property sold",
+			"type" : "text"
+		},
+		"L1_19f" : {
+			"fdf" : "19 (f) Gain or loss (d) minus (e) If a loss, fill in the oval",
+			"type" : "text"
+		},
+		"L1_19_Loss" : {
+			"fdf" : "19. Loss",
+			"type" : "checkbox",
+			"options" : {
+				"yes" : "1."
+			}
+		},
+		"L2" : {
+			"fdf" : "2. Net gain or loss from above sales",
+			"type" : "text"
+		},
+		"L2_Loss" : {
+			"fdf" : "2. sales loss",
+			"type" : "checkbox",
+			"options" : {
+				"yes" : "1."
+			}
+		},
+		"L3" : {
+			"fdf" : "3. Gain from installment sales",
+			"type" : "text"
+		},
+		"L4_Total" : {
+			"fdf" : "4. Total distribution",
+			"type" : "text"
+		},
+		"L4_Basis" : {
+			"fdf" : "4. Minus Adjusted Basis",
+			"type" : "text"
+		},
+		"L4" : {
+			"fdf" : "4. Taxable distributions from C corporations",
+			"type" : "text"
+		},
+		"L5" : {
+			"fdf" : "5. Net gain or loss from the sale of 6-1-71 property from PA Schedule D-71",
+			"type" : "text"
+		},
+		"L5_Loss" : {
+			"fdf" : "5. Net gain (loss)",
+			"type" : "checkbox",
+			"options" : {
+				"yes" : "1."
+			}
+		},
+		"L6" : {
+			"fdf" : "6. Net partnership gain or loss from your PA Schedule(s) RK-1 or NRK-1",
+			"type" : "text"
+		},
+		"L6_Loss" : {
+			"fdf" : "6. Net PA S (loss)",
+			"type" : "checkbox",
+			"options" : {
+				"yes" : "1.",
+				"Off" : "Off"
+			}
+		},
+		"L7a" : {
+			"fdf" : "a. Address of residence",
+			"type" : "text"
+		},
+		"L7b" : {
+			"fdf" : "b. Date acquired",
+			"type" : "text"
+		},
+		"L7c" : {
+			"fdf" : "c. Date sold",
+			"type" : "text"
+		},
+		"L7d" : {
+			"fdf" : "d. Gross sales price",
+			"type" : "text"
+		},
+		"L7e" : {
+			"fdf" : "e. Cost or Adjusted Basis",
+			"type" : "text"
+		},
+		"L7" : {
+			"fdf" : "7. Taxable gain",
+			"type" : "text"
+		},
+		"L8" : {
+			"fdf" : "8. Taxable distributions from Line 7c of REV-999",
+			"type" : "text"
+		},
+		"L9" : {
+			"fdf" : "9. Taxable distributions from Line 17A of REV-998",
+			"type" : "text"
+		},
+		"L10" : {
+			"fdf" : "10. Taxable gain from exchange of insurance contracts",
+			"type" : "text"
+		},
+		"L11" : {
+			"fdf" : "11. Total PA taxable gain or loss",
+			"type" : "text"
+		},
+		"L11_Loss" : {
+			"fdf" : "11. Loss (Line 5)",
+			"type" : "checkbox",
+			"options" : {
+				"yes" : "1."
+			}
+		}
+	}
+}
