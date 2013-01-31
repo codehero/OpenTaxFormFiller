@@ -1,0 +1,909 @@
+{
+    "form": "it201_fill_in",
+    "year": 2012,
+    "fields": {
+        "BeginningDate": {
+            "fdf": "beginning date",
+            "type": "text"
+        },
+        "EndingDate": {
+            "fdf": "ending date",
+            "type": "text"
+        },
+        "YourFirstName": {
+            "fdf": "Your first name",
+            "type": "text"
+        },
+        "YourLastName": {
+            "fdf": "Your last name",
+            "type": "text"
+        },
+        "YourDateBirth": {
+            "fdf": "Your DOB",
+            "type": "text"
+        },
+        "YourSSN": {
+            "fdf": "Your SSN",
+            "type": "text"
+        },
+        "SpouseFirstName": {
+            "fdf": "Spouse's first name",
+            "type": "text"
+        },
+        "SpouseLastName": {
+            "fdf": "Spouse's last name",
+            "type": "text"
+        },
+        "SpouseDateBirth": {
+            "fdf": "Spouse DOB",
+            "type": "text"
+        },
+        "SpouseSSN": {
+            "fdf": "Spouse's SSN",
+            "type": "text"
+        },
+        "mailing_address": {
+            "fdf": "Mailing address",
+            "type": "text"
+        },
+        "AptNumber1": {
+            "fdf": "Apartment number 1",
+            "type": "text"
+        },
+        "NYCountryResidence": {
+            "fdf": "NY State county of residence",
+            "type": "text"
+        },
+        "CityVillage1": {
+            "fdf": "City, village or post office 1",
+            "type": "text"
+        },
+        "State1": {
+            "fdf": "State 1",
+            "type": "text"
+        },
+        "ZipCode1": {
+            "fdf": "ZIP code 1",
+            "type": "text"
+        },
+        "Country": {
+            "fdf": "Country",
+            "type": "text"
+        },
+        "SchoolDistrictName": {
+            "fdf": "nys school district name",
+            "type": "text"
+        },
+        "HomeAddress": {
+            "fdf": "permanent home address",
+            "type": "text"
+        },
+        "AptNumber2": {
+            "fdf": "apartment number 2",
+            "type": "text"
+        },
+        "SchoolDistrictNumber": {
+            "fdf": "school district code number",
+            "type": "text"
+        },
+        "CityVillage2": {
+            "fdf": "city, village or post office 2",
+            "type": "text"
+        },
+        "ZipCode2": {
+            "fdf": "zip code 2",
+            "type": "text"
+        },
+        "TaxpayerDateDeath": {
+            "fdf": "if taxpayer is deceased",
+            "type": "text"
+        },
+        "SpouseDateDeath": {
+            "fdf": "date of death",
+            "type": "text"
+        },
+        "A_FilingStatus": {
+            "fdf": "Filing Status",
+            "type": "checkbox",
+            "options": {
+                "1" : "1 Single",
+                "2" : "2 Married Filing Joint Return (enter spouse&#144;s social security number above)",
+                "3" : "3 Married Filing Seperate Return (enter spouse&#144;s social security number above)",
+                "Head" : "Head of Household (with qualifying person)",
+                "Off" : "Off",
+                "QA" : "Qualifying widow(er) with dependent child"
+            }
+        },
+        "B_Itemized": {
+            "fdf": "Itemized",
+            "type": "checkbox",
+            "options": {
+                "Off" : "Off",
+                "no" : "no",
+                "yes" : "yes"
+            }
+        },
+        "C_Dependent": {
+            "fdf": "Dependent",
+            "type": "checkbox",
+            "options": {
+                "Off" : "Off",
+                "no" : "no",
+                "yes" : "yes"
+            }
+        },
+        "D_fiscal": {
+            "fdf": "Fiscal",
+            "type": "checkbox",
+            "options": {
+                "Off" : "Off",
+                "no" : "no",
+                "yes" : "yes"
+            }
+        },
+        "E_1_InNYC": {
+            "fdf": "In NYC",
+            "type": "checkbox",
+            "options": {
+                "Off" : "Off",
+                "no" : "no",
+                "yes" : "yes"
+            }
+        },
+        "E_2": {
+            "fdf": "E2",
+            "type": "text"
+        },
+        "F_1": {
+            "fdf": "(1)",
+            "type": "text"
+        },
+        "F_2": {
+            "fdf": "(2)",
+            "type": "text"
+        },
+        "G_1": {
+            "fdf": "G1",
+            "type": "text"
+        },
+        "G_2": {
+            "fdf": "G2",
+            "type": "text"
+        },
+        "H_1_first_name": {
+            "fdf": "first and middle I.0",
+            "type": "text"
+        },
+        "H_1_last_name": {
+            "fdf": "last name chart.0",
+            "type": "text"
+        },
+        "H_1_relationship": {
+            "fdf": "relationship.0",
+            "type": "text"
+        },
+        "H_1_SSN": {
+            "fdf": "dependent ssn.0",
+            "type": "text"
+        },
+        "H_1_DOB": {
+            "fdf": "dependent dob.0",
+            "type": "text"
+        },
+        "H_2_first_name": {
+            "fdf": "first and middle I.1",
+            "type": "text"
+        },
+        "H_2_last_name": {
+            "fdf": "last name chart.1",
+            "type": "text"
+        },
+        "H_2_relationship": {
+            "fdf": "relationship.1",
+            "type": "text"
+        },
+        "H_2_SSN": {
+            "fdf": "dependent ssn.1",
+            "type": "text"
+        },
+        "H_2_DOB": {
+            "fdf": "dependent dob.1",
+            "type": "text"
+        },
+        "H_3_first_name": {
+            "fdf": "first and middle I.2",
+            "type": "text"
+        },
+        "H_3_last_name": {
+            "fdf": "last name chart.2",
+            "type": "text"
+        },
+        "H_3_relationship": {
+            "fdf": "relationship.2",
+            "type": "text"
+        },
+        "H_3_SSN": {
+            "fdf": "dependent ssn.2",
+            "type": "text"
+        },
+        "H_3_DOB": {
+            "fdf": "dependent dob.2",
+            "type": "text"
+        },
+        "H_4_first_name": {
+            "fdf": "first and middle I.3",
+            "type": "text"
+        },
+        "H_4_last_name": {
+            "fdf": "last name chart.3",
+            "type": "text"
+        },
+        "H_4_relationship": {
+            "fdf": "relationship.3",
+            "type": "text"
+        },
+        "H_4_SSN": {
+            "fdf": "dependent ssn.3",
+            "type": "text"
+        },
+        "H_4_DOB": {
+            "fdf": "dependent dob.3",
+            "type": "text"
+        },
+        "H_5_first_name": {
+            "fdf": "first and middle I.4",
+            "type": "text"
+        },
+        "H_5_last_name": {
+            "fdf": "last name chart.4",
+            "type": "text"
+        },
+        "H_5_relationship": {
+            "fdf": "relationship.4",
+            "type": "text"
+        },
+        "H_5_SSN": {
+            "fdf": "dependent ssn.4",
+            "type": "text"
+        },
+        "H_5_DOB": {
+            "fdf": "dependent dob.4",
+            "type": "text"
+        },
+        "H_6_first_name": {
+            "fdf": "first and middle I.5",
+            "type": "text"
+        },
+        "H_6_last_name": {
+            "fdf": "last name chart.5",
+            "type": "text"
+        },
+        "H_6_relationship": {
+            "fdf": "relationship.5",
+            "type": "text"
+        },
+        "H_6_SSN": {
+            "fdf": "dependent ssn.5",
+            "type": "text"
+        },
+        "H_6_DOB": {
+            "fdf": "dependent dob.5",
+            "type": "text"
+        },
+        "H_7_first_name": {
+            "fdf": "first and middle I.6",
+            "type": "text"
+        },
+        "H_7_last_name": {
+            "fdf": "last name chart.6",
+            "type": "text"
+        },
+        "H_7_relationship": {
+            "fdf": "relationship.6",
+            "type": "text"
+        },
+        "H_7_SSN": {
+            "fdf": "dependent ssn.6",
+            "type": "text"
+        },
+        "H_7_DOB": {
+            "fdf": "dependent dob.6",
+            "type": "text"
+        },
+        "H_8_first_name": {
+            "fdf": "first and middle I.7",
+            "type": "text"
+        },
+        "H_8_last_name": {
+            "fdf": "last name chart.7",
+            "type": "text"
+        },
+        "H_8_relationship": {
+            "fdf": "relationship.7",
+            "type": "text"
+        },
+        "H_8_SSN": {
+            "fdf": "dependent ssn.7",
+            "type": "text"
+        },
+        "H_8_DOB": {
+            "fdf": "dependent dob.7",
+            "type": "text"
+        },
+        "H_9_first_name": {
+            "fdf": "first and middle I.8",
+            "type": "text"
+        },
+        "H_9_last_name": {
+            "fdf": "last name chart.8",
+            "type": "text"
+        },
+        "H_9_relationship": {
+            "fdf": "relationship.8",
+            "type": "text"
+        },
+        "H_9_SSN": {
+            "fdf": "dependent ssn.8",
+            "type": "text"
+        },
+        "H_9_DOB": {
+            "fdf": "dependent dob.8",
+            "type": "text"
+        },
+        "MoreThan9Dependents": {
+            "fdf": "more than 9",
+            "type": "checkbox",
+            "options": {
+                "Off" : "Off",
+                "yes" : "yes"
+            }
+        },
+        "L1": {
+            "fdf": "nys 1 dollars",
+            "type": "text"
+        },
+        "L2": {
+            "fdf": "nys 2 dollars",
+            "type": "text"
+        },
+        "L3": {
+            "fdf": "nys 3 dollars",
+            "type": "text"
+        },
+        "L4": {
+            "fdf": "nys 4 dollars",
+            "type": "text"
+        },
+        "L5": {
+            "fdf": "nys 5 dollars",
+            "type": "text"
+        },
+        "L6": {
+            "fdf": "nys 6 dollars",
+            "type": "text"
+        },
+        "L7": {
+            "fdf": "nys 7 dollars",
+            "type": "text"
+        },
+        "L8": {
+            "fdf": "nys 8 dollars",
+            "type": "text"
+        },
+        "L9_beneficiary": {
+            "fdf": "Check Box Line 9",
+            "type": "checkbox",
+            "options": {
+                "Off" : "Off",
+                "Yes" : "Yes"
+            }
+        },
+        "L9": {
+            "fdf": "nys 9 dollars",
+            "type": "text"
+        },
+        "L10_beneficiary": {
+            "fdf": "Check Box Line 10",
+            "type": "checkbox",
+            "options": {
+                "Off" : "Off",
+                "Yes" : "Yes"
+            }
+        },
+        "L10": {
+            "fdf": "nys 10 dollars",
+            "type": "text"
+        },
+        "L11": {
+            "fdf": "nys 11 dollars",
+            "type": "text"
+        },
+        "L12": {
+            "fdf": "nys 12 dollars",
+            "type": "text"
+        },
+        "L13": {
+            "fdf": "nys 13 dollars",
+            "type": "text"
+        },
+        "L14": {
+            "fdf": "nys 14 dollars",
+            "type": "text"
+        },
+        "L15": {
+            "fdf": "nys 15 dollars",
+            "type": "text"
+        },
+        "L16_identify": {
+            "fdf": "15 identify",
+            "type": "text"
+        },
+        "L16": {
+            "fdf": "nys 16 dollars",
+            "type": "text"
+        },
+        "L17": {
+            "fdf": "nys 17 dollars",
+            "type": "text"
+        },
+        "L18_identify": {
+            "fdf": "17 identify",
+            "type": "text"
+        },
+        "L18": {
+            "fdf": "nys 18 dollars",
+            "type": "text"
+        },
+        "L19": {
+            "fdf": "nys 19 dollars",
+            "type": "text"
+        },
+        "L20": {
+            "fdf": "nys 20 dollars",
+            "type": "text"
+        },
+        "L21": {
+            "fdf": "nys 21 dollars",
+            "type": "text"
+        },
+        "L22": {
+            "fdf": "nys 22 dollars",
+            "type": "text"
+        },
+        "L23_identify": {
+            "fdf": "22 identify",
+            "type": "text"
+        },
+        "L23": {
+            "fdf": "nys 23 dollars",
+            "type": "text"
+        },
+        "L24": {
+            "fdf": "nys 24 dollars",
+            "type": "text"
+        },
+        "L25": {
+            "fdf": "nys 25 dollars",
+            "type": "text"
+        },
+        "L26": {
+            "fdf": "nys 26 dollars",
+            "type": "text"
+        },
+        "L27": {
+            "fdf": "nys 27 dollars",
+            "type": "text"
+        },
+        "L28": {
+            "fdf": "nys 28 dollars",
+            "type": "text"
+        },
+        "L29": {
+            "fdf": "nys 29 dollars",
+            "type": "text"
+        },
+        "L30": {
+            "fdf": "nys 30 dollars",
+            "type": "text"
+        },
+        "L31_identify": {
+            "fdf": "31 identify",
+            "type": "text"
+        },
+        "L31": {
+            "fdf": "nys 31 dollars",
+            "type": "text"
+        },
+        "L32": {
+            "fdf": "nys 32 dollars",
+            "type": "text"
+        },
+        "L33": {
+            "fdf": "nys 33 dollars",
+            "type": "text"
+        },
+        "L34_deduction": {
+            "fdf": "Deduction",
+            "type": "checkbox",
+            "options": {
+                "Itemized" : "Itemized",
+                "Off" : "Off",
+                "Standard" : "Standard"
+            }
+        },
+        "L34": {
+            "fdf": "34 dollars",
+            "type": "text"
+        },
+        "L35": {
+            "fdf": "35 dollars",
+            "type": "text"
+        },
+        "L36": {
+            "fdf": "36 dollars",
+            "type": "text"
+        },
+        "L37": {
+            "fdf": "37 dollars",
+            "type": "text"
+        },
+        "YourFirstName2": {
+            "fdf": "Name as shown on page 1",
+            "type": "text"
+        },
+        "L38": {
+            "fdf": "38 dollars",
+            "type": "text"
+        },
+        "L39": {
+            "fdf": "39 dollars",
+            "type": "text"
+        },
+        "L40": {
+            "fdf": "40 dollars",
+            "type": "text"
+        },
+        "L41": {
+            "fdf": "41 dollars",
+            "type": "text"
+        },
+        "L42": {
+            "fdf": "42 dollars",
+            "type": "text"
+        },
+        "L43": {
+            "fdf": "43 dollars",
+            "type": "text"
+        },
+        "L44": {
+            "fdf": "44 dollars",
+            "type": "text"
+        },
+        "L45": {
+            "fdf": "45 dollars",
+            "type": "text"
+        },
+        "L46": {
+            "fdf": "46 dollars",
+            "type": "text"
+        },
+        "L47": {
+            "fdf": "47 dollars",
+            "type": "text"
+        },
+        "L48": {
+            "fdf": "48 dollars",
+            "type": "text"
+        },
+        "L49": {
+            "fdf": "49 dollars",
+            "type": "text"
+        },
+        "L50": {
+            "fdf": "50 dollars",
+            "type": "text"
+        },
+        "L51": {
+            "fdf": "51 dollars",
+            "type": "text"
+        },
+        "L52": {
+            "fdf": "52 dollars",
+            "type": "text"
+        },
+        "L53": {
+            "fdf": "53 dollars",
+            "type": "text"
+        },
+        "L54": {
+            "fdf": "54 dollars",
+            "type": "text"
+        },
+        "L55": {
+            "fdf": "55 dollars",
+            "type": "text"
+        },
+        "L56": {
+            "fdf": "56 dollars",
+            "type": "text"
+        },
+        "L57": {
+            "fdf": "57 dollars",
+            "type": "text"
+        },
+        "L58": {
+            "fdf": "58 dollars",
+            "type": "text"
+        },
+        "L59": {
+            "fdf": "59 dollars",
+            "type": "text"
+        },
+        "L60a": {
+            "fdf": "60a dollars",
+            "type": "text"
+        },
+        "L60b": {
+            "fdf": "60b dollars",
+            "type": "text"
+        },
+        "L60c": {
+            "fdf": "60c dollars",
+            "type": "text"
+        },
+        "L60d": {
+            "fdf": "60d dollars",
+            "type": "text"
+        },
+        "L60e": {
+            "fdf": "60e dollars",
+            "type": "text"
+        },
+        "L60f": {
+            "fdf": "60f dollars",
+            "type": "text"
+        },
+        "L60g": {
+            "fdf": "60g dollars",
+            "type": "text"
+        },
+        "L60h": {
+            "fdf": "60h dollars",
+            "type": "text"
+        },
+        "L60": {
+            "fdf": "60 dollars",
+            "type": "text"
+        },
+        "L61": {
+            "fdf": "61 dollars",
+            "type": "text"
+        },
+        "L63": {
+            "fdf": "63 dollars",
+            "type": "text"
+        },
+        "L64": {
+            "fdf": "64 dollars",
+            "type": "text"
+        },
+        "L65_EIC": {
+            "fdf": "65 EIC",
+            "type": "text"
+        },
+        "L65": {
+            "fdf": "65 dollars",
+            "type": "text"
+        },
+        "L66": {
+            "fdf": "66 dollars",
+            "type": "text"
+        },
+        "L67": {
+            "fdf": "67 dollars",
+            "type": "text"
+        },
+        "L68": {
+            "fdf": "68 dollars",
+            "type": "text"
+        },
+        "L69": {
+            "fdf": "69 dollars",
+            "type": "text"
+        },
+        "L70_EIC": {
+            "fdf": "70 EIC",
+            "type": "text"
+        },
+        "L70": {
+            "fdf": "70 dollars",
+            "type": "text"
+        },
+        "L71": {
+            "fdf": "71 dollars",
+            "type": "text"
+        },
+        "L72": {
+            "fdf": "72 dollars",
+            "type": "text"
+        },
+        "L73": {
+            "fdf": "73 dollars",
+            "type": "text"
+        },
+        "L74": {
+            "fdf": "74 dollars",
+            "type": "text"
+        },
+        "L75": {
+            "fdf": "75 dollars",
+            "type": "text"
+        },
+        "L76": {
+            "fdf": "76 dollars",
+            "type": "text"
+        },
+        "L77": {
+            "fdf": "77 dollars",
+            "type": "text"
+        },
+        "L78_refunded": {
+            "fdf": "line 78",
+            "type": "checkbox",
+            "options": {
+                "Off" : "Off",
+                "debit card refund" : "debit card refund",
+                "direct deposit" : "direct deposit",
+                "paper check refund" : "paper check refund"
+            }
+        },
+        "L78": {
+            "fdf": "78 dollars",
+            "type": "text"
+        },
+        "L79": {
+            "fdf": "79 dollars",
+            "type": "text"
+        },
+        "L80_electronic_funds": {
+            "fdf": "line 80",
+            "type": "checkbox",
+            "options": {
+                "Off" : "Off",
+                "elec funds withdrawal" : "elec funds withdrawal"
+            }
+        },
+        "L80": {
+            "fdf": "80 dollars",
+            "type": "text"
+        },
+        "L83": {
+            "fdf": "Funds outside US",
+            "type": "checkbox",
+            "options": {
+                "Off" : "Off",
+                "Yes" : "Yes"
+            }
+        },
+        "L83a": {
+            "fdf": "line 82 a",
+            "type": "checkbox",
+            "options": {
+                "Off" : "Off",
+                "business checking" : "business checking",
+                "business savings" : "business savings",
+                "personal checking" : "personal checking",
+                "personal savings" : "personal savings"
+            }
+        },
+        "L83b": {
+            "fdf": "routing number",
+            "type": "text"
+        },
+        "L83c": {
+            "fdf": "account number",
+            "type": "text"
+        },
+        "L84_date": {
+            "fdf": "Electronic Withdrawal Date",
+            "type": "text"
+        },
+        "L84_amount": {
+            "fdf": "withdrawal amount",
+            "type": "text"
+        },
+        "3rdPartyDiscuss": {
+            "fdf": "3rd Party Discuss",
+            "type": "checkbox",
+            "options": {
+                "Off" : "Off",
+                "no" : "no",
+                "yes" : "no"
+            }
+        },
+        "DesigneeName": {
+            "fdf": "designee name",
+            "type": "text"
+        },
+        "DesigneePhoneAreaCode": {
+            "fdf": "designee phone number",
+            "type": "text"
+        },
+        "DesigneePhoneNumber": {
+            "fdf": "designees phone number",
+            "type": "text"
+        },
+        "DesigneeEmail": {
+            "fdf": "email1",
+            "type": "text"
+        },
+        "DesigneePIN": {
+            "fdf": "designee pin",
+            "type": "text"
+        },
+        "PreparerDate": {
+            "fdf": "date",
+            "type": "text"
+        },
+        "PreparerNYTPRIN": {
+            "fdf": "NYTPRIN",
+            "type": "text"
+        },
+        "PreparerName": {
+            "fdf": "firmsname",
+            "type": "text"
+        },
+        "PreparerSSN": {
+            "fdf": "preparersssno",
+            "type": "text"
+        },
+        "PreparerAddress": {
+            "fdf": "address",
+            "type": "text"
+        },
+        "PreparerCity": {
+            "fdf": "City",
+            "type": "text"
+        },
+        "EmployIdNumber": {
+            "fdf": "employidnumber",
+            "type": "text"
+        },
+        "SelfEmployed": {
+            "fdf": "selfemployed",
+            "type": "checkbox",
+            "options": {
+                "Off" : "Off",
+                "Yes" : "Yes"
+            }
+        },
+        "PreparerEmail": {
+            "fdf": "email2",
+            "type": "text"
+        },
+        "TaxpayerOccupation": {
+            "fdf": "Occupation",
+            "type": "text"
+        },
+        "OccupationSpouse": {
+            "fdf": "Occupation - Spouse",
+            "type": "text"
+        },
+        "TaxpayerDate": {
+            "fdf": "date2",
+            "type": "text"
+        },
+        "DayTimePhoneAreaCode": {
+            "fdf": "day phone area code",
+            "type": "text"
+        },
+        "DayTimePhoneNumber": {
+            "fdf": "daytimephoneno",
+            "type": "text"
+        },
+        "TaxpayerEmail": {
+            "fdf": "email3",
+            "type": "text"
+        }
+    }
+}

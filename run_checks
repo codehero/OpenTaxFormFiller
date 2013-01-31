@@ -1,7 +1,7 @@
 for x in `echo DTF; echo FT; echo TF`; 
 do 
-	for y in `echo 2012_pa-40; echo 2012_pa-40a-b; echo 2012_pa-40d; echo 2012_pa-40e; echo pa-40c;`;
+	for y in `echo it201_fill_in;`;
 	do
-		node script/util/checkDiff.js $x 2012 PA/$y yes; 
+		node script/util/checkDiff.js $x 2012 NY/$y yes; 
 	done
 done
