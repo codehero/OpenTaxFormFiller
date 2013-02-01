@@ -111,7 +111,7 @@
                 "3" : "3 Married Filing Seperate Return (enter spouse&#144;s social security number above)",
                 "Head" : "Head of Household (with qualifying person)",
                 "Off" : "Off",
-                "QA" : "Qualifying widow(er) with dependent child"
+                "widow(er)" : "Qualifying widow(er) with dependent child"
             }
         },
         "B_Itemized" : {
@@ -395,7 +395,7 @@
             "type" : "checkbox",
             "options" : {
                 "Off" : "Off",
-                "Yes" : "Yes"
+                "yes" : "Yes"
             }
         },
         "L9" : {
@@ -407,7 +407,7 @@
             "type" : "checkbox",
             "options" : {
                 "Off" : "Off",
-                "Yes" : "Yes"
+                "yes" : "Yes"
             }
         },
         "L10" : {
@@ -782,7 +782,7 @@
             "type" : "checkbox",
             "options" : {
                 "Off" : "Off",
-                "Yes" : "Yes"
+                "yes" : "Yes"
             }
         },
         "L83a" : {
@@ -874,7 +874,7 @@
             "type" : "checkbox",
             "options" : {
                 "Off" : "Off",
-                "Yes" : "Yes"
+                "yes" : "Yes"
             }
         },
         "PreparerEmail" : {

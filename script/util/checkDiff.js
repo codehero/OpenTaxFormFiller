@@ -193,7 +193,7 @@ if(cmd == "dmp_trans"){
 	stream.write(JSON.stringify(process.argv,null,4) + "\n");
 	stream.write(JSON.stringify(transfJS,null,4) + "\n");
 
-}else if(cmd == "MKDEF"){ //Generate defrinition from  FieldDump
+}else if(cmd == "MKDEF"){ //Generate definition from  FieldDump
 	function fixFDFname(fdfStr){
 		var hash = {
 			" " : "_" ,
