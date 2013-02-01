@@ -192,6 +192,33 @@ if(cmd == "dmp_trans"){
 	var stream = fs.createWriteStream(fname, {flags: 'w'});
 	stream.write(JSON.stringify(process.argv,null,4) + "\n");
 	stream.write(JSON.stringify(transfJS,null,4) + "\n");
+
+}else if(cmd == "MKDEF"){ //Generate definition from  FieldDump
+	function fixFDFname(fdfStr){
+		var hash = {
+			" " : "_" ,
+			"(" : ""  , 
+			")" : ""  ,
+			"'" : "_" ,
+			"." : "_" ,
+			"\," : "_" 
+		};
+
+		return fdfStr
+			.replace( /[ ()'.]/g , function ( $0 ) {
+				return hash[ $0 ];
+			})
+			.replace( /__/g , "_" )
+			;
+	}
+	for(var fieldDump in fieldDumpJS){
+		definitionJS.fields[ fixFDFname( fieldDumpJS[ fieldDump ].fdf) ] = "Text";
+	}
+	var fname = "/tmp/newDefinition-" + new Date().getTime() + ".txt" ;
+	var stream = fs.createWriteStream( fname, { flags : 'w'} ) ;
+	stream.write( JSON.stringify( process.argv, null, 4 ) + "\n" );
+	stream.write( JSON.stringify( definitionJS, null, 4 ) + "\n" );
+
 }else{
 	throw new Error("Command not defined: " + cmd);
 }
