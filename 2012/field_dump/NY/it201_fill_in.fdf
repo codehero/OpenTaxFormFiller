@@ -1,0 +1,201 @@
+%FDF-1.2
+1 0 obj<</FDF<< /Fields[
+<</T(beginning date)/V(F0)>>
+<</T(ending date)/V(F1)>>
+<</T(Your last name)/V(F2)>>
+<</T(Spouse's first name)/V(F3)>>
+<</T(Spouse's last name)/V(F4)>>
+<</T(Spouse's SSN)/V(F5)>>
+<</T(Mailing address)/V(F6)>>
+<</T(City, village or post office 1)/V(F7)>>
+<</T(State 1)/V(F8)>>
+<</T(ZIP code 1)/V(F9)>>
+<</T(permanent home address)/V(Fa)>>
+<</T(apartment number 2)/V(Fb)>>
+<</T(city, village or post office 2)/V(Fc)>>
+<</T(zip code 2)/V(Fd)>>
+<</T(NY State county of residence)/V(Fe)>>
+<</T(nys school district name)/V(Ff)>>
+<</T(school district code number)/V(F10)>>
+<</T(if taxpayer is deceased)/V(F11)>>
+<</T(date of death)/V(F12)>>
+<</T((1))/V(F17)>>
+<</T((2))/V(F18)>>
+<</T(G1)/V(F19)>>
+<</T(G2)/V(F1a)>>
+<</T(Your SSN)/V(F1b)>>
+<</T(nys 20 dollars)/V(F1c)>>
+<</T(nys 21 dollars)/V(F1d)>>
+<</T(nys 22 dollars)/V(F1e)>>
+<</T(22 identify)/V(F1f)>>
+<</T(nys 23 dollars)/V(F20)>>
+<</T(nys 24 dollars)/V(F21)>>
+<</T(nys 25 dollars)/V(F22)>>
+<</T(nys 26 dollars)/V(F23)>>
+<</T(nys 27 dollars)/V(F24)>>
+<</T(nys 28 dollars)/V(F25)>>
+<</T(nys 29 dollars)/V(F26)>>
+<</T(nys 30 dollars)/V(F27)>>
+<</T(31 identify)/V(F28)>>
+<</T(nys 31 dollars)/V(F29)>>
+<</T(nys 32 dollars)/V(F2a)>>
+<</T(nys 33 dollars)/V(F2b)>>
+<</T(34 dollars)/V(F2d)>>
+<</T(35 dollars)/V(F2e)>>
+<</T(36 dollars)/V(F2f)>>
+<</T(Name as shown on page 1)/V(F30)>>
+<</T(37 dollars)/V(F31)>>
+<</T(39 dollars)/V(F32)>>
+<</T(40 dollars)/V(F33)>>
+<</T(41 dollars)/V(F34)>>
+<</T(42 dollars)/V(F35)>>
+<</T(43 dollars)/V(F36)>>
+<</T(44 dollars)/V(F37)>>
+<</T(45 dollars)/V(F38)>>
+<</T(46 dollars)/V(F39)>>
+<</T(47 dollars)/V(F3a)>>
+<</T(48 dollars)/V(F3b)>>
+<</T(49 dollars)/V(F3c)>>
+<</T(50 dollars)/V(F3d)>>
+<</T(51 dollars)/V(F3e)>>
+<</T(52 dollars)/V(F3f)>>
+<</T(53 dollars)/V(F40)>>
+<</T(54 dollars)/V(F41)>>
+<</T(55 dollars)/V(F42)>>
+<</T(56 dollars)/V(F43)>>
+<</T(57 dollars)/V(F44)>>
+<</T(58 dollars)/V(F45)>>
+<</T(59 dollars)/V(F46)>>
+<</T(60a dollars)/V(F47)>>
+<</T(60b dollars)/V(F48)>>
+<</T(60c dollars)/V(F49)>>
+<</T(60d dollars)/V(F4a)>>
+<</T(60e dollars)/V(F4b)>>
+<</T(60f dollars)/V(F4c)>>
+<</T(60 dollars)/V(F4d)>>
+<</T(61 dollars)/V(F4e)>>
+<</T(63 dollars)/V(F4f)>>
+<</T(64 dollars)/V(F50)>>
+<</T(65 EIC)/V(F51)>>
+<</T(65 dollars)/V(F52)>>
+<</T(66 dollars)/V(F53)>>
+<</T(67 dollars)/V(F54)>>
+<</T(68 dollars)/V(F55)>>
+<</T(69 dollars)/V(F56)>>
+<</T(70 EIC)/V(F57)>>
+<</T(70 dollars)/V(F58)>>
+<</T(71 dollars)/V(F59)>>
+<</T(72 dollars)/V(F5a)>>
+<</T(73 dollars)/V(F5b)>>
+<</T(74 dollars)/V(F5c)>>
+<</T(75 dollars)/V(F5d)>>
+<</T(76 dollars)/V(F5e)>>
+<</T(77 dollars)/V(F5f)>>
+<</T(78 dollars)/V(F60)>>
+<</T(79 dollars)/V(F61)>>
+<</T(80 dollars)/V(F62)>>
+<</T(routing number)/V(F63)>>
+<</T(Electronic Withdrawal Date)/V(F64)>>
+<</T(account number)/V(F65)>>
+<</T(designee name)/V(F67)>>
+<</T(designee phone number)/V(F68)>>
+<</T(designees phone number)/V(F69)>>
+<</T(email1)/V(F6a)>>
+<</T(designee pin)/V(F6b)>>
+<</T(NYTPRIN)/V(F6d)>>
+<</T(firmsname)/V(F6e)>>
+<</T(preparersssno)/V(F6f)>>
+<</T(address)/V(F70)>>
+<</T(City)/V(F71)>>
+<</T(date)/V(F73)>>
+<</T(email2)/V(F74)>>
+<</T(Occupation)/V(F75)>>
+<</T(Occupation - Spouse)/V(F76)>>
+<</T(date2)/V(F77)>>
+<</T(daytimephoneno)/V(F78)>>
+<</T(email3)/V(F79)>>
+<</T(employidnumber)/V(F7a)>>
+<</T(Apartment number 1)/V(F7b)>>
+<</T(Country)/V(F7c)>>
+<</T(E2)/V(F7d)>>
+<</T(60g dollars)/V(F7e)>>
+<</T(60h dollars)/V(F7f)>>
+<</T(Your first name)/V(F82)>>
+<</T(Your DOB)/V(F83)>>
+<</T(Spouse DOB)/V(F84)>>
+<</T(day phone area code)/V(F85)>>
+<</T(withdrawal amount)/V(F86)>>
+<</T(81 dollars)/V(F88)>>
+<</T(38 dollars)/V(F89)>>
+<</T(nys 1 dollars)/V(F8a)>>
+<</T(nys 2 dollars)/V(F8b)>>
+<</T(nys 3 dollars)/V(F8c)>>
+<</T(nys 4 dollars)/V(F8d)>>
+<</T(nys 5 dollars)/V(F8e)>>
+<</T(nys 6 dollars)/V(F8f)>>
+<</T(nys 7 dollars)/V(F90)>>
+<</T(nys 8 dollars)/V(F91)>>
+<</T(nys 9 dollars)/V(F93)>>
+<</T(nys 10 dollars)/V(F95)>>
+<</T(nys 11 dollars)/V(F96)>>
+<</T(nys 12 dollars)/V(F97)>>
+<</T(nys 13 dollars)/V(F98)>>
+<</T(nys 14 dollars)/V(F99)>>
+<</T(15 identify)/V(F9a)>>
+<</T(nys 15 dollars)/V(F9b)>>
+<</T(nys 16 dollars)/V(F9c)>>
+<</T(17 identify)/V(F9d)>>
+<</T(nys 17 dollars)/V(F9e)>>
+<</T(nys 18 dollars)/V(F9f)>>
+<</T(nys 19 dollars)/V(Fa0)>>
+<</T(first and middle I.0)/V(Fa2)>>
+<</T(first and middle I.1)/V(Fa3)>>
+<</T(first and middle I.2)/V(Fa4)>>
+<</T(first and middle I.3)/V(Fa5)>>
+<</T(first and middle I.4)/V(Fa6)>>
+<</T(first and middle I.5)/V(Fa7)>>
+<</T(first and middle I.6)/V(Fa8)>>
+<</T(first and middle I.7)/V(Fa9)>>
+<</T(first and middle I.8)/V(Faa)>>
+<</T(last name chart.0)/V(Fab)>>
+<</T(last name chart.1)/V(Fac)>>
+<</T(last name chart.2)/V(Fad)>>
+<</T(last name chart.3)/V(Fae)>>
+<</T(last name chart.4)/V(Faf)>>
+<</T(last name chart.5)/V(Fb0)>>
+<</T(last name chart.6)/V(Fb1)>>
+<</T(last name chart.7)/V(Fb2)>>
+<</T(last name chart.8)/V(Fb3)>>
+<</T(relationship.0)/V(Fb4)>>
+<</T(relationship.1)/V(Fb5)>>
+<</T(relationship.2)/V(Fb6)>>
+<</T(relationship.3)/V(Fb7)>>
+<</T(relationship.4)/V(Fb8)>>
+<</T(relationship.5)/V(Fb9)>>
+<</T(relationship.6)/V(Fba)>>
+<</T(relationship.7)/V(Fbb)>>
+<</T(relationship.8)/V(Fbc)>>
+<</T(dependent ssn.0)/V(Fbd)>>
+<</T(dependent ssn.1)/V(Fbe)>>
+<</T(dependent ssn.2)/V(Fbf)>>
+<</T(dependent ssn.3)/V(Fc0)>>
+<</T(dependent ssn.4)/V(Fc1)>>
+<</T(dependent ssn.5)/V(Fc2)>>
+<</T(dependent ssn.6)/V(Fc3)>>
+<</T(dependent ssn.7)/V(Fc4)>>
+<</T(dependent ssn.8)/V(Fc5)>>
+<</T(dependent dob.0)/V(Fc6)>>
+<</T(dependent dob.1)/V(Fc7)>>
+<</T(dependent dob.2)/V(Fc8)>>
+<</T(dependent dob.3)/V(Fc9)>>
+<</T(dependent dob.4)/V(Fca)>>
+<</T(dependent dob.5)/V(Fcb)>>
+<</T(dependent dob.6)/V(Fcc)>>
+<</T(dependent dob.7)/V(Fcd)>>
+<</T(dependent dob.8)/V(Fce)>>
+] >> >>
+endobj
+trailer
+<</Root 1 0 R>>
+%%EOF
+

@@ -1,0 +1,847 @@
+"F0":{
+"fdf":"beginning date",
+"type":"text"
+},
+"F1":{
+"fdf":"ending date",
+"type":"text"
+},
+"F2":{
+"fdf":"Your last name",
+"type":"text"
+},
+"F3":{
+"fdf":"Spouse's first name",
+"type":"text"
+},
+"F4":{
+"fdf":"Spouse's last name",
+"type":"text"
+},
+"F5":{
+"fdf":"Spouse's SSN",
+"type":"text"
+},
+"F6":{
+"fdf":"Mailing address",
+"type":"text"
+},
+"F7":{
+"fdf":"City, village or post office 1",
+"type":"text"
+},
+"F8":{
+"fdf":"State 1",
+"type":"text"
+},
+"F9":{
+"fdf":"ZIP code 1",
+"type":"text"
+},
+"Fa":{
+"fdf":"permanent home address",
+"type":"text"
+},
+"Fb":{
+"fdf":"apartment number 2",
+"type":"text"
+},
+"Fc":{
+"fdf":"city, village or post office 2",
+"type":"text"
+},
+"Fd":{
+"fdf":"zip code 2",
+"type":"text"
+},
+"Fe":{
+"fdf":"NY State county of residence",
+"type":"text"
+},
+"Ff":{
+"fdf":"nys school district name",
+"type":"text"
+},
+"F10":{
+"fdf":"school district code number",
+"type":"text"
+},
+"F11":{
+"fdf":"if taxpayer is deceased",
+"type":"text"
+},
+"F12":{
+"fdf":"date of death",
+"type":"text"
+},
+"F13":{
+"fdf":"Filing Status",
+"type":"checkbox",
+"options":["1 Single","2 Married Filing Joint Return (enter spouse&#144;s social security number above)","3 Married Filing Seperate Return (enter spouse&#144;s social security number above)","Head of Household (with qualifying person)","Off","Qualifying widow(er) with dependent child"]
+},
+"F14":{
+"fdf":"Itemized",
+"type":"checkbox",
+"options":["Off","no","yes"]
+},
+"F15":{
+"fdf":"Dependent",
+"type":"checkbox",
+"options":["Off","no","yes"]
+},
+"F16":{
+"fdf":"In NYC",
+"type":"checkbox",
+"options":["Off","no","yes"]
+},
+"F17":{
+"fdf":"(1)",
+"type":"text"
+},
+"F18":{
+"fdf":"(2)",
+"type":"text"
+},
+"F19":{
+"fdf":"G1",
+"type":"text"
+},
+"F1a":{
+"fdf":"G2",
+"type":"text"
+},
+"F1b":{
+"fdf":"Your SSN",
+"type":"text"
+},
+"F1c":{
+"fdf":"nys 20 dollars",
+"type":"text"
+},
+"F1d":{
+"fdf":"nys 21 dollars",
+"type":"text"
+},
+"F1e":{
+"fdf":"nys 22 dollars",
+"type":"text"
+},
+"F1f":{
+"fdf":"22 identify",
+"type":"text"
+},
+"F20":{
+"fdf":"nys 23 dollars",
+"type":"text"
+},
+"F21":{
+"fdf":"nys 24 dollars",
+"type":"text"
+},
+"F22":{
+"fdf":"nys 25 dollars",
+"type":"text"
+},
+"F23":{
+"fdf":"nys 26 dollars",
+"type":"text"
+},
+"F24":{
+"fdf":"nys 27 dollars",
+"type":"text"
+},
+"F25":{
+"fdf":"nys 28 dollars",
+"type":"text"
+},
+"F26":{
+"fdf":"nys 29 dollars",
+"type":"text"
+},
+"F27":{
+"fdf":"nys 30 dollars",
+"type":"text"
+},
+"F28":{
+"fdf":"31 identify",
+"type":"text"
+},
+"F29":{
+"fdf":"nys 31 dollars",
+"type":"text"
+},
+"F2a":{
+"fdf":"nys 32 dollars",
+"type":"text"
+},
+"F2b":{
+"fdf":"nys 33 dollars",
+"type":"text"
+},
+"F2c":{
+"fdf":"Deduction",
+"type":"checkbox",
+"options":["Itemized","Off","Standard"]
+},
+"F2d":{
+"fdf":"34 dollars",
+"type":"text"
+},
+"F2e":{
+"fdf":"35 dollars",
+"type":"text"
+},
+"F2f":{
+"fdf":"36 dollars",
+"type":"text"
+},
+"F30":{
+"fdf":"Name as shown on page 1",
+"type":"text"
+},
+"F31":{
+"fdf":"37 dollars",
+"type":"text"
+},
+"F32":{
+"fdf":"39 dollars",
+"type":"text"
+},
+"F33":{
+"fdf":"40 dollars",
+"type":"text"
+},
+"F34":{
+"fdf":"41 dollars",
+"type":"text"
+},
+"F35":{
+"fdf":"42 dollars",
+"type":"text"
+},
+"F36":{
+"fdf":"43 dollars",
+"type":"text"
+},
+"F37":{
+"fdf":"44 dollars",
+"type":"text"
+},
+"F38":{
+"fdf":"45 dollars",
+"type":"text"
+},
+"F39":{
+"fdf":"46 dollars",
+"type":"text"
+},
+"F3a":{
+"fdf":"47 dollars",
+"type":"text"
+},
+"F3b":{
+"fdf":"48 dollars",
+"type":"text"
+},
+"F3c":{
+"fdf":"49 dollars",
+"type":"text"
+},
+"F3d":{
+"fdf":"50 dollars",
+"type":"text"
+},
+"F3e":{
+"fdf":"51 dollars",
+"type":"text"
+},
+"F3f":{
+"fdf":"52 dollars",
+"type":"text"
+},
+"F40":{
+"fdf":"53 dollars",
+"type":"text"
+},
+"F41":{
+"fdf":"54 dollars",
+"type":"text"
+},
+"F42":{
+"fdf":"55 dollars",
+"type":"text"
+},
+"F43":{
+"fdf":"56 dollars",
+"type":"text"
+},
+"F44":{
+"fdf":"57 dollars",
+"type":"text"
+},
+"F45":{
+"fdf":"58 dollars",
+"type":"text"
+},
+"F46":{
+"fdf":"59 dollars",
+"type":"text"
+},
+"F47":{
+"fdf":"60a dollars",
+"type":"text"
+},
+"F48":{
+"fdf":"60b dollars",
+"type":"text"
+},
+"F49":{
+"fdf":"60c dollars",
+"type":"text"
+},
+"F4a":{
+"fdf":"60d dollars",
+"type":"text"
+},
+"F4b":{
+"fdf":"60e dollars",
+"type":"text"
+},
+"F4c":{
+"fdf":"60f dollars",
+"type":"text"
+},
+"F4d":{
+"fdf":"60 dollars",
+"type":"text"
+},
+"F4e":{
+"fdf":"61 dollars",
+"type":"text"
+},
+"F4f":{
+"fdf":"63 dollars",
+"type":"text"
+},
+"F50":{
+"fdf":"64 dollars",
+"type":"text"
+},
+"F51":{
+"fdf":"65 EIC",
+"type":"text"
+},
+"F52":{
+"fdf":"65 dollars",
+"type":"text"
+},
+"F53":{
+"fdf":"66 dollars",
+"type":"text"
+},
+"F54":{
+"fdf":"67 dollars",
+"type":"text"
+},
+"F55":{
+"fdf":"68 dollars",
+"type":"text"
+},
+"F56":{
+"fdf":"69 dollars",
+"type":"text"
+},
+"F57":{
+"fdf":"70 EIC",
+"type":"text"
+},
+"F58":{
+"fdf":"70 dollars",
+"type":"text"
+},
+"F59":{
+"fdf":"71 dollars",
+"type":"text"
+},
+"F5a":{
+"fdf":"72 dollars",
+"type":"text"
+},
+"F5b":{
+"fdf":"73 dollars",
+"type":"text"
+},
+"F5c":{
+"fdf":"74 dollars",
+"type":"text"
+},
+"F5d":{
+"fdf":"75 dollars",
+"type":"text"
+},
+"F5e":{
+"fdf":"76 dollars",
+"type":"text"
+},
+"F5f":{
+"fdf":"77 dollars",
+"type":"text"
+},
+"F60":{
+"fdf":"78 dollars",
+"type":"text"
+},
+"F61":{
+"fdf":"79 dollars",
+"type":"text"
+},
+"F62":{
+"fdf":"80 dollars",
+"type":"text"
+},
+"F63":{
+"fdf":"routing number",
+"type":"text"
+},
+"F64":{
+"fdf":"Electronic Withdrawal Date",
+"type":"text"
+},
+"F65":{
+"fdf":"account number",
+"type":"text"
+},
+"F66":{
+"fdf":"3rd Party Discuss",
+"type":"checkbox",
+"options":["Off","no","yes"]
+},
+"F67":{
+"fdf":"designee name",
+"type":"text"
+},
+"F68":{
+"fdf":"designee phone number",
+"type":"text"
+},
+"F69":{
+"fdf":"designees phone number",
+"type":"text"
+},
+"F6a":{
+"fdf":"email1",
+"type":"text"
+},
+"F6b":{
+"fdf":"designee pin",
+"type":"text"
+},
+"F6c":{
+"fdf":"Funds outside US",
+"type":"checkbox",
+"options":["Off","Yes"]
+},
+"F6d":{
+"fdf":"NYTPRIN",
+"type":"text"
+},
+"F6e":{
+"fdf":"firmsname",
+"type":"text"
+},
+"F6f":{
+"fdf":"preparersssno",
+"type":"text"
+},
+"F70":{
+"fdf":"address",
+"type":"text"
+},
+"F71":{
+"fdf":"City",
+"type":"text"
+},
+"F72":{
+"fdf":"selfemployed",
+"type":"checkbox",
+"options":["Off","Yes"]
+},
+"F73":{
+"fdf":"date",
+"type":"text"
+},
+"F74":{
+"fdf":"email2",
+"type":"text"
+},
+"F75":{
+"fdf":"Occupation",
+"type":"text"
+},
+"F76":{
+"fdf":"Occupation - Spouse",
+"type":"text"
+},
+"F77":{
+"fdf":"date2",
+"type":"text"
+},
+"F78":{
+"fdf":"daytimephoneno",
+"type":"text"
+},
+"F79":{
+"fdf":"email3",
+"type":"text"
+},
+"F7a":{
+"fdf":"employidnumber",
+"type":"text"
+},
+"F7b":{
+"fdf":"Apartment number 1",
+"type":"text"
+},
+"F7c":{
+"fdf":"Country",
+"type":"text"
+},
+"F7d":{
+"fdf":"E2",
+"type":"text"
+},
+"F7e":{
+"fdf":"60g dollars",
+"type":"text"
+},
+"F7f":{
+"fdf":"60h dollars",
+"type":"text"
+},
+"F80":{
+"fdf":"line 78",
+"type":"checkbox",
+"options":["Off","debit card refund","direct deposit","paper check refund"]
+},
+"F81":{
+"fdf":"line 80",
+"type":"checkbox",
+"options":["Off","elec funds withdrawal"]
+},
+"F82":{
+"fdf":"Your first name",
+"type":"text"
+},
+"F83":{
+"fdf":"Your DOB",
+"type":"text"
+},
+"F84":{
+"fdf":"Spouse DOB",
+"type":"text"
+},
+"F85":{
+"fdf":"day phone area code",
+"type":"text"
+},
+"F86":{
+"fdf":"withdrawal amount",
+"type":"text"
+},
+"F87":{
+"fdf":"line 82 a",
+"type":"checkbox",
+"options":["Off","business checking","business savings","personal checking","personal savings"]
+},
+"F88":{
+"fdf":"81 dollars",
+"type":"text"
+},
+"F89":{
+"fdf":"38 dollars",
+"type":"text"
+},
+"F8a":{
+"fdf":"nys 1 dollars",
+"type":"text"
+},
+"F8b":{
+"fdf":"nys 2 dollars",
+"type":"text"
+},
+"F8c":{
+"fdf":"nys 3 dollars",
+"type":"text"
+},
+"F8d":{
+"fdf":"nys 4 dollars",
+"type":"text"
+},
+"F8e":{
+"fdf":"nys 5 dollars",
+"type":"text"
+},
+"F8f":{
+"fdf":"nys 6 dollars",
+"type":"text"
+},
+"F90":{
+"fdf":"nys 7 dollars",
+"type":"text"
+},
+"F91":{
+"fdf":"nys 8 dollars",
+"type":"text"
+},
+"F92":{
+"fdf":"Check Box Line 9",
+"type":"checkbox",
+"options":["Off","Yes"]
+},
+"F93":{
+"fdf":"nys 9 dollars",
+"type":"text"
+},
+"F94":{
+"fdf":"Check Box Line 10",
+"type":"checkbox",
+"options":["Off","Yes"]
+},
+"F95":{
+"fdf":"nys 10 dollars",
+"type":"text"
+},
+"F96":{
+"fdf":"nys 11 dollars",
+"type":"text"
+},
+"F97":{
+"fdf":"nys 12 dollars",
+"type":"text"
+},
+"F98":{
+"fdf":"nys 13 dollars",
+"type":"text"
+},
+"F99":{
+"fdf":"nys 14 dollars",
+"type":"text"
+},
+"F9a":{
+"fdf":"15 identify",
+"type":"text"
+},
+"F9b":{
+"fdf":"nys 15 dollars",
+"type":"text"
+},
+"F9c":{
+"fdf":"nys 16 dollars",
+"type":"text"
+},
+"F9d":{
+"fdf":"17 identify",
+"type":"text"
+},
+"F9e":{
+"fdf":"nys 17 dollars",
+"type":"text"
+},
+"F9f":{
+"fdf":"nys 18 dollars",
+"type":"text"
+},
+"Fa0":{
+"fdf":"nys 19 dollars",
+"type":"text"
+},
+"Fa1":{
+"fdf":"Fiscal",
+"type":"checkbox",
+"options":["Off","no","yes"]
+},
+"Fa2":{
+"fdf":"first and middle I.0",
+"type":"text"
+},
+"Fa3":{
+"fdf":"first and middle I.1",
+"type":"text"
+},
+"Fa4":{
+"fdf":"first and middle I.2",
+"type":"text"
+},
+"Fa5":{
+"fdf":"first and middle I.3",
+"type":"text"
+},
+"Fa6":{
+"fdf":"first and middle I.4",
+"type":"text"
+},
+"Fa7":{
+"fdf":"first and middle I.5",
+"type":"text"
+},
+"Fa8":{
+"fdf":"first and middle I.6",
+"type":"text"
+},
+"Fa9":{
+"fdf":"first and middle I.7",
+"type":"text"
+},
+"Faa":{
+"fdf":"first and middle I.8",
+"type":"text"
+},
+"Fab":{
+"fdf":"last name chart.0",
+"type":"text"
+},
+"Fac":{
+"fdf":"last name chart.1",
+"type":"text"
+},
+"Fad":{
+"fdf":"last name chart.2",
+"type":"text"
+},
+"Fae":{
+"fdf":"last name chart.3",
+"type":"text"
+},
+"Faf":{
+"fdf":"last name chart.4",
+"type":"text"
+},
+"Fb0":{
+"fdf":"last name chart.5",
+"type":"text"
+},
+"Fb1":{
+"fdf":"last name chart.6",
+"type":"text"
+},
+"Fb2":{
+"fdf":"last name chart.7",
+"type":"text"
+},
+"Fb3":{
+"fdf":"last name chart.8",
+"type":"text"
+},
+"Fb4":{
+"fdf":"relationship.0",
+"type":"text"
+},
+"Fb5":{
+"fdf":"relationship.1",
+"type":"text"
+},
+"Fb6":{
+"fdf":"relationship.2",
+"type":"text"
+},
+"Fb7":{
+"fdf":"relationship.3",
+"type":"text"
+},
+"Fb8":{
+"fdf":"relationship.4",
+"type":"text"
+},
+"Fb9":{
+"fdf":"relationship.5",
+"type":"text"
+},
+"Fba":{
+"fdf":"relationship.6",
+"type":"text"
+},
+"Fbb":{
+"fdf":"relationship.7",
+"type":"text"
+},
+"Fbc":{
+"fdf":"relationship.8",
+"type":"text"
+},
+"Fbd":{
+"fdf":"dependent ssn.0",
+"type":"text"
+},
+"Fbe":{
+"fdf":"dependent ssn.1",
+"type":"text"
+},
+"Fbf":{
+"fdf":"dependent ssn.2",
+"type":"text"
+},
+"Fc0":{
+"fdf":"dependent ssn.3",
+"type":"text"
+},
+"Fc1":{
+"fdf":"dependent ssn.4",
+"type":"text"
+},
+"Fc2":{
+"fdf":"dependent ssn.5",
+"type":"text"
+},
+"Fc3":{
+"fdf":"dependent ssn.6",
+"type":"text"
+},
+"Fc4":{
+"fdf":"dependent ssn.7",
+"type":"text"
+},
+"Fc5":{
+"fdf":"dependent ssn.8",
+"type":"text"
+},
+"Fc6":{
+"fdf":"dependent dob.0",
+"type":"text"
+},
+"Fc7":{
+"fdf":"dependent dob.1",
+"type":"text"
+},
+"Fc8":{
+"fdf":"dependent dob.2",
+"type":"text"
+},
+"Fc9":{
+"fdf":"dependent dob.3",
+"type":"text"
+},
+"Fca":{
+"fdf":"dependent dob.4",
+"type":"text"
+},
+"Fcb":{
+"fdf":"dependent dob.5",
+"type":"text"
+},
+"Fcc":{
+"fdf":"dependent dob.6",
+"type":"text"
+},
+"Fcd":{
+"fdf":"dependent dob.7",
+"type":"text"
+},
+"Fce":{
+"fdf":"dependent dob.8",
+"type":"text"
+},
+"Fcf":{
+"fdf":"more than 9",
+"type":"checkbox",
+"options":["Off","yes"]
+},

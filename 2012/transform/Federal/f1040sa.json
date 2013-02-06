@@ -308,7 +308,7 @@
 			"fdf" : "topmostSubform[0].Page1[0].p1-cb5[0]",
 			"type" : "checkbox",
 			"options" : {
-				"Yes" : "X"
+				"yes" : "X"
 			}
 		}
 	}

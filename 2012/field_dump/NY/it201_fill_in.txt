@@ -1,0 +1,1280 @@
+---
+FieldType: Text
+FieldName: beginning date
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 6
+---
+FieldType: Text
+FieldName: ending date
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: Your last name
+FieldFlags: 12582912
+FieldJustification: Left
+FieldMaxLength: 45
+---
+FieldType: Text
+FieldName: Spouse's first name
+FieldFlags: 12582912
+FieldJustification: Left
+FieldMaxLength: 23
+---
+FieldType: Text
+FieldName: Spouse's last name
+FieldFlags: 12582912
+FieldJustification: Left
+FieldMaxLength: 45
+---
+FieldType: Text
+FieldName: Spouse's SSN
+FieldFlags: 12582912
+FieldJustification: Center
+FieldMaxLength: 11
+---
+FieldType: Text
+FieldName: Mailing address
+FieldFlags: 12582912
+FieldJustification: Left
+FieldMaxLength: 65
+---
+FieldType: Text
+FieldName: City, village or post office 1
+FieldFlags: 12582912
+FieldJustification: Left
+FieldMaxLength: 26
+---
+FieldType: Text
+FieldName: State 1
+FieldFlags: 12582912
+FieldJustification: Left
+FieldMaxLength: 2
+---
+FieldType: Text
+FieldName: ZIP code 1
+FieldFlags: 12582912
+FieldJustification: Center
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: permanent home address
+FieldFlags: 12582912
+FieldJustification: Left
+FieldMaxLength: 60
+---
+FieldType: Text
+FieldName: apartment number 2
+FieldFlags: 12582912
+FieldJustification: Left
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: city, village or post office 2
+FieldFlags: 12582912
+FieldJustification: Left
+FieldMaxLength: 45
+---
+FieldType: Text
+FieldName: zip code 2
+FieldFlags: 12582912
+FieldJustification: Center
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: NY State county of residence
+FieldFlags: 12582912
+FieldJustification: Left
+FieldMaxLength: 25
+---
+FieldType: Text
+FieldName: nys school district name
+FieldFlags: 12582912
+FieldJustification: Left
+FieldMaxLength: 25
+---
+FieldType: Text
+FieldName: school district code number
+FieldFlags: 12582912
+FieldJustification: Center
+FieldMaxLength: 3
+---
+FieldType: Text
+FieldName: if taxpayer is deceased
+FieldFlags: 12582912
+FieldJustification: Center
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: date of death
+FieldFlags: 12582912
+FieldJustification: Center
+FieldMaxLength: 10
+---
+FieldType: Button
+FieldName: Filing Status
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: 1 Single
+FieldStateOption: 2 Married Filing Joint Return (enter spouse&#144;s social security number above)
+FieldStateOption: 3 Married Filing Seperate Return (enter spouse&#144;s social security number above)
+FieldStateOption: Head of Household (with qualifying person)
+FieldStateOption: Off
+FieldStateOption: Qualifying widow(er) with dependent child
+---
+FieldType: Button
+FieldName: Itemized
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: no
+FieldStateOption: yes
+---
+FieldType: Button
+FieldName: Dependent
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: no
+FieldStateOption: yes
+---
+FieldType: Button
+FieldName: In NYC
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: no
+FieldStateOption: yes
+---
+FieldType: Text
+FieldName: (1)
+FieldFlags: 12582912
+FieldJustification: Center
+FieldMaxLength: 2
+---
+FieldType: Text
+FieldName: (2)
+FieldFlags: 12632064
+FieldJustification: Center
+FieldMaxLength: 2
+---
+FieldType: Text
+FieldName: G1
+FieldFlags: 12582912
+FieldJustification: Center
+FieldMaxLength: 2
+---
+FieldType: Text
+FieldName: G2
+FieldFlags: 12582912
+FieldJustification: Center
+FieldMaxLength: 2
+---
+FieldType: Text
+FieldName: Your SSN
+FieldFlags: 12582912
+FieldJustification: Center
+FieldMaxLength: 11
+---
+FieldType: Text
+FieldName: nys 20 dollars
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: nys 21 dollars
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: nys 22 dollars
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 22 identify
+FieldFlags: 12582912
+FieldJustification: Left
+FieldMaxLength: 50
+---
+FieldType: Text
+FieldName: nys 23 dollars
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: nys 24 dollars
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: nys 25 dollars
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: nys 26 dollars
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: nys 27 dollars
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: nys 28 dollars
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: nys 29 dollars
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: nys 30 dollars
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 31 identify
+FieldFlags: 12582912
+FieldJustification: Left
+FieldMaxLength: 25
+---
+FieldType: Text
+FieldName: nys 31 dollars
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: nys 32 dollars
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: nys 33 dollars
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Button
+FieldName: Deduction
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Itemized
+FieldStateOption: Off
+FieldStateOption: Standard
+---
+FieldType: Text
+FieldName: 34 dollars
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 35 dollars
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 36 dollars
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 2
+---
+FieldType: Text
+FieldName: Name as shown on page 1
+FieldFlags: 12582912
+FieldJustification: Left
+FieldMaxLength: 60
+---
+FieldType: Text
+FieldName: 37 dollars
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 39 dollars
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 40 dollars
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 3
+---
+FieldType: Text
+FieldName: 41 dollars
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 42 dollars
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 43 dollars
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 44 dollars
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 45 dollars
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 46 dollars
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 47 dollars
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 48 dollars
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 3
+---
+FieldType: Text
+FieldName: 49 dollars
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 50 dollars
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 51 dollars
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 52 dollars
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 53 dollars
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 54 dollars
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 55 dollars
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 56 dollars
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 57 dollars
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 58 dollars
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 59 dollars
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 60a dollars
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 5
+---
+FieldType: Text
+FieldName: 60b dollars
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 5
+---
+FieldType: Text
+FieldName: 60c dollars
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 5
+---
+FieldType: Text
+FieldName: 60d dollars
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 5
+---
+FieldType: Text
+FieldName: 60e dollars
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 1
+---
+FieldType: Text
+FieldName: 60f dollars
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 5
+---
+FieldType: Text
+FieldName: 60 dollars
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 5
+---
+FieldType: Text
+FieldName: 61 dollars
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 63 dollars
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 4
+---
+FieldType: Text
+FieldName: 64 dollars
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 4
+---
+FieldType: Text
+FieldName: 65 EIC
+FieldFlags: 12582912
+FieldJustification: Center
+FieldMaxLength: 3
+---
+FieldType: Text
+FieldName: 65 dollars
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 4
+---
+FieldType: Text
+FieldName: 66 dollars
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 4
+---
+FieldType: Text
+FieldName: 67 dollars
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 3
+---
+FieldType: Text
+FieldName: 68 dollars
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 4
+---
+FieldType: Text
+FieldName: 69 dollars
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 3
+---
+FieldType: Text
+FieldName: 70 EIC
+FieldFlags: 12582912
+FieldJustification: Center
+FieldMaxLength: 3
+---
+FieldType: Text
+FieldName: 70 dollars
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 3
+---
+FieldType: Text
+FieldName: 71 dollars
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 72 dollars
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 73 dollars
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 74 dollars
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 75 dollars
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 76 dollars
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 77 dollars
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 78 dollars
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 79 dollars
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 80 dollars
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: routing number
+FieldFlags: 12582912
+FieldJustification: Center
+FieldMaxLength: 9
+---
+FieldType: Text
+FieldName: Electronic Withdrawal Date
+FieldFlags: 12582912
+FieldJustification: Center
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: account number
+FieldFlags: 12582912
+FieldJustification: Center
+FieldMaxLength: 17
+---
+FieldType: Button
+FieldName: 3rd Party Discuss
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: no
+FieldStateOption: yes
+---
+FieldType: Text
+FieldName: designee name
+FieldFlags: 12582912
+FieldJustification: Left
+FieldMaxLength: 40
+---
+FieldType: Text
+FieldName: designee phone number
+FieldFlags: 12582912
+FieldJustification: Center
+FieldMaxLength: 3
+---
+FieldType: Text
+FieldName: designees phone number
+FieldFlags: 12582912
+FieldJustification: Left
+FieldMaxLength: 20
+---
+FieldType: Text
+FieldName: email1
+FieldFlags: 8388608
+FieldJustification: Left
+FieldMaxLength: 60
+---
+FieldType: Text
+FieldName: designee pin
+FieldFlags: 12582912
+FieldJustification: Center
+FieldMaxLength: 5
+---
+FieldType: Button
+FieldName: Funds outside US
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Text
+FieldName: NYTPRIN
+FieldFlags: 12582912
+FieldJustification: Center
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: firmsname
+FieldFlags: 12582912
+FieldJustification: Left
+FieldMaxLength: 40
+---
+FieldType: Text
+FieldName: preparersssno
+FieldFlags: 12582912
+FieldJustification: Center
+FieldMaxLength: 11
+---
+FieldType: Text
+FieldName: address
+FieldFlags: 12582912
+FieldJustification: Left
+FieldMaxLength: 40
+---
+FieldType: Text
+FieldName: City
+FieldFlags: 12582912
+FieldJustification: Left
+FieldMaxLength: 45
+---
+FieldType: Button
+FieldName: selfemployed
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Text
+FieldName: date
+FieldFlags: 12582912
+FieldJustification: Center
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: email2
+FieldFlags: 8388608
+FieldJustification: Left
+FieldMaxLength: 50
+---
+FieldType: Text
+FieldName: Occupation
+FieldFlags: 12582912
+FieldJustification: Left
+FieldMaxLength: 40
+---
+FieldType: Text
+FieldName: Occupation - Spouse
+FieldFlags: 12582912
+FieldJustification: Left
+FieldMaxLength: 20
+---
+FieldType: Text
+FieldName: date2
+FieldFlags: 12582912
+FieldJustification: Center
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: daytimephoneno
+FieldFlags: 12582912
+FieldJustification: Left
+FieldMaxLength: 20
+---
+FieldType: Text
+FieldName: email3
+FieldFlags: 8388608
+FieldJustification: Left
+FieldMaxLength: 30
+---
+FieldType: Text
+FieldName: employidnumber
+FieldFlags: 12582912
+FieldJustification: Center
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: Apartment number 1
+FieldFlags: 12582912
+FieldJustification: Left
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: Country
+FieldFlags: 12582912
+FieldJustification: Left
+FieldMaxLength: 23
+---
+FieldType: Text
+FieldName: E2
+FieldFlags: 8388608
+FieldJustification: Center
+FieldMaxLength: 3
+---
+FieldType: Text
+FieldName: 60g dollars
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 5
+---
+FieldType: Text
+FieldName: 60h dollars
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 5
+---
+FieldType: Button
+FieldName: line 78
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: debit card refund
+FieldStateOption: direct deposit
+FieldStateOption: paper check refund
+---
+FieldType: Button
+FieldName: line 80
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: elec funds withdrawal
+---
+FieldType: Text
+FieldName: Your first name
+FieldFlags: 12582912
+FieldJustification: Left
+FieldMaxLength: 23
+---
+FieldType: Text
+FieldName: Your DOB
+FieldFlags: 12582912
+FieldJustification: Center
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: Spouse DOB
+FieldFlags: 12582912
+FieldJustification: Center
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: day phone area code
+FieldFlags: 8388608
+FieldJustification: Center
+FieldMaxLength: 3
+---
+FieldType: Text
+FieldName: withdrawal amount
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Button
+FieldName: line 82 a
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: business checking
+FieldStateOption: business savings
+FieldStateOption: personal checking
+FieldStateOption: personal savings
+---
+FieldType: Text
+FieldName: 81 dollars
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 38 dollars
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: nys 1 dollars
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: nys 2 dollars
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: nys 3 dollars
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: nys 4 dollars
+FieldNameAlt:  
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: nys 5 dollars
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: nys 6 dollars
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: nys 7 dollars
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: nys 8 dollars
+FieldNameAlt:  
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Button
+FieldName: Check Box Line 9
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Text
+FieldName: nys 9 dollars
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Button
+FieldName: Check Box Line 10
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Text
+FieldName: nys 10 dollars
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: nys 11 dollars
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: nys 12 dollars
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: nys 13 dollars
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: nys 14 dollars
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 15 identify
+FieldFlags: 12582912
+FieldJustification: Left
+FieldMaxLength: 50
+---
+FieldType: Text
+FieldName: nys 15 dollars
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: nys 16 dollars
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: 17 identify
+FieldFlags: 12582912
+FieldJustification: Left
+FieldMaxLength: 30
+---
+FieldType: Text
+FieldName: nys 17 dollars
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: nys 18 dollars
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Text
+FieldName: nys 19 dollars
+FieldFlags: 12582912
+FieldJustification: Right
+FieldMaxLength: 8
+---
+FieldType: Button
+FieldName: Fiscal
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: no
+FieldStateOption: yes
+---
+FieldType: Text
+FieldName: first and middle I.0
+FieldFlags: 8388608
+FieldJustification: Left
+FieldMaxLength: 25
+---
+FieldType: Text
+FieldName: first and middle I.1
+FieldFlags: 8388608
+FieldJustification: Left
+FieldMaxLength: 25
+---
+FieldType: Text
+FieldName: first and middle I.2
+FieldFlags: 8388608
+FieldJustification: Left
+FieldMaxLength: 25
+---
+FieldType: Text
+FieldName: first and middle I.3
+FieldFlags: 8388608
+FieldJustification: Left
+FieldMaxLength: 25
+---
+FieldType: Text
+FieldName: first and middle I.4
+FieldFlags: 8388608
+FieldJustification: Left
+FieldMaxLength: 25
+---
+FieldType: Text
+FieldName: first and middle I.5
+FieldFlags: 8388608
+FieldJustification: Left
+FieldMaxLength: 25
+---
+FieldType: Text
+FieldName: first and middle I.6
+FieldFlags: 8388608
+FieldJustification: Left
+FieldMaxLength: 25
+---
+FieldType: Text
+FieldName: first and middle I.7
+FieldFlags: 8388608
+FieldJustification: Left
+FieldMaxLength: 25
+---
+FieldType: Text
+FieldName: first and middle I.8
+FieldFlags: 8388608
+FieldJustification: Left
+FieldMaxLength: 25
+---
+FieldType: Text
+FieldName: last name chart.0
+FieldFlags: 8388608
+FieldJustification: Left
+FieldMaxLength: 25
+---
+FieldType: Text
+FieldName: last name chart.1
+FieldFlags: 8388608
+FieldJustification: Left
+FieldMaxLength: 25
+---
+FieldType: Text
+FieldName: last name chart.2
+FieldFlags: 8388608
+FieldJustification: Left
+FieldMaxLength: 25
+---
+FieldType: Text
+FieldName: last name chart.3
+FieldFlags: 8388608
+FieldJustification: Left
+FieldMaxLength: 25
+---
+FieldType: Text
+FieldName: last name chart.4
+FieldFlags: 8388608
+FieldJustification: Left
+FieldMaxLength: 25
+---
+FieldType: Text
+FieldName: last name chart.5
+FieldFlags: 8388608
+FieldJustification: Left
+FieldMaxLength: 25
+---
+FieldType: Text
+FieldName: last name chart.6
+FieldFlags: 8388608
+FieldJustification: Left
+FieldMaxLength: 25
+---
+FieldType: Text
+FieldName: last name chart.7
+FieldFlags: 8388608
+FieldJustification: Left
+FieldMaxLength: 25
+---
+FieldType: Text
+FieldName: last name chart.8
+FieldFlags: 8388608
+FieldJustification: Left
+FieldMaxLength: 25
+---
+FieldType: Text
+FieldName: relationship.0
+FieldFlags: 8388608
+FieldJustification: Left
+FieldMaxLength: 20
+---
+FieldType: Text
+FieldName: relationship.1
+FieldFlags: 8388608
+FieldJustification: Left
+FieldMaxLength: 20
+---
+FieldType: Text
+FieldName: relationship.2
+FieldFlags: 8388608
+FieldJustification: Left
+FieldMaxLength: 20
+---
+FieldType: Text
+FieldName: relationship.3
+FieldFlags: 8388608
+FieldJustification: Left
+FieldMaxLength: 20
+---
+FieldType: Text
+FieldName: relationship.4
+FieldFlags: 8388608
+FieldJustification: Left
+FieldMaxLength: 20
+---
+FieldType: Text
+FieldName: relationship.5
+FieldFlags: 8388608
+FieldJustification: Left
+FieldMaxLength: 20
+---
+FieldType: Text
+FieldName: relationship.6
+FieldFlags: 8388608
+FieldJustification: Left
+FieldMaxLength: 20
+---
+FieldType: Text
+FieldName: relationship.7
+FieldFlags: 8388608
+FieldJustification: Left
+FieldMaxLength: 20
+---
+FieldType: Text
+FieldName: relationship.8
+FieldFlags: 8388608
+FieldJustification: Left
+FieldMaxLength: 20
+---
+FieldType: Text
+FieldName: dependent ssn.0
+FieldFlags: 8388608
+FieldJustification: Center
+FieldMaxLength: 11
+---
+FieldType: Text
+FieldName: dependent ssn.1
+FieldFlags: 8388608
+FieldJustification: Center
+FieldMaxLength: 11
+---
+FieldType: Text
+FieldName: dependent ssn.2
+FieldFlags: 8388608
+FieldJustification: Center
+FieldMaxLength: 11
+---
+FieldType: Text
+FieldName: dependent ssn.3
+FieldFlags: 8388608
+FieldJustification: Center
+FieldMaxLength: 11
+---
+FieldType: Text
+FieldName: dependent ssn.4
+FieldFlags: 8388608
+FieldJustification: Center
+FieldMaxLength: 11
+---
+FieldType: Text
+FieldName: dependent ssn.5
+FieldFlags: 8388608
+FieldJustification: Center
+FieldMaxLength: 11
+---
+FieldType: Text
+FieldName: dependent ssn.6
+FieldFlags: 8388608
+FieldJustification: Center
+FieldMaxLength: 11
+---
+FieldType: Text
+FieldName: dependent ssn.7
+FieldFlags: 8388608
+FieldJustification: Center
+FieldMaxLength: 11
+---
+FieldType: Text
+FieldName: dependent ssn.8
+FieldFlags: 8388608
+FieldJustification: Center
+FieldMaxLength: 11
+---
+FieldType: Text
+FieldName: dependent dob.0
+FieldFlags: 8388608
+FieldJustification: Center
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: dependent dob.1
+FieldFlags: 8388608
+FieldJustification: Center
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: dependent dob.2
+FieldFlags: 8388608
+FieldJustification: Center
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: dependent dob.3
+FieldFlags: 8388608
+FieldJustification: Center
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: dependent dob.4
+FieldFlags: 8388608
+FieldJustification: Center
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: dependent dob.5
+FieldFlags: 8388608
+FieldJustification: Center
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: dependent dob.6
+FieldFlags: 8388608
+FieldJustification: Center
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: dependent dob.7
+FieldFlags: 8388608
+FieldJustification: Center
+FieldMaxLength: 10
+---
+FieldType: Text
+FieldName: dependent dob.8
+FieldFlags: 8388608
+FieldJustification: Center
+FieldMaxLength: 10
+---
+FieldType: Button
+FieldName: more than 9
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: yes
